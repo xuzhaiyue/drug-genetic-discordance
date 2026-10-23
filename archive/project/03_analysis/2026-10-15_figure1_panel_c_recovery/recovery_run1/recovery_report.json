@@ -1,0 +1,43 @@
+{
+  "status": "PASS",
+  "start_utc": "2026-10-15T18:18:08.911106+00:00",
+  "python": "/Library/Developer/CommandLineTools/usr/bin/python3",
+  "versions": {
+    "python": "3.9.6",
+    "numpy": "2.0.2",
+    "pandas": "2.3.3",
+    "scipy": "1.13.1"
+  },
+  "config_sha256": "6576746a7b6e043f779881260bda775655c9d819141e0d3073c07d944ca870c4",
+  "new_inference": false,
+  "historical_arena_vectors_used": false,
+  "selected_compounds": [
+    "DPC-000819",
+    "DPC-002573"
+  ],
+  "selected_names": [
+    "OSIMERTINIB",
+    "ERLOTINIB"
+  ],
+  "rho_recovered": 0.48077945044530496,
+  "rho_frozen": 0.4807794504453049,
+  "rho_absolute_difference": 5.551115123125783e-17,
+  "n_recovered": 586,
+  "n_frozen": 586,
+  "per_drug_checks": [
+    {
+      "drug": "DPC-000819",
+      "n_recovered": 586,
+      "n_frozen": 586,
+      "pass": true
+    },
+    {
+      "drug": "DPC-002573",
+      "n_recovered": 586,
+      "n_frozen": 586,
+      "pass": true
+    }
+  ],
+  "end_utc": "2026-10-15T18:18:22.588892+00:00",
+  "code_sources_after_unchanged": true
+}

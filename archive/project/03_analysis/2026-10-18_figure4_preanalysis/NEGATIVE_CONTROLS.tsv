@@ -1,0 +1,13 @@
+target	compound_id	compound_name	control_target	selection	n_on_final_primary	n_final_primary
+EGFR	DPC-000332	ADAVOSERTIB	WEE1	joint finite coverage descending, ID ascending; distinct target labels; no response values	490	490
+EGFR	DPC-000428	ALISERTIB	AURKA	joint finite coverage descending, ID ascending; distinct target labels; no response values	490	490
+MTOR	DPC-000332	ADAVOSERTIB	WEE1	joint finite coverage descending, ID ascending; distinct target labels; no response values	406	406
+MTOR	DPC-000428	ALISERTIB	AURKA	joint finite coverage descending, ID ascending; distinct target labels; no response values	406	406
+ESR1	DPC-000332	ADAVOSERTIB	WEE1	joint finite coverage descending, ID ascending; distinct target labels; no response values	489	489
+ESR1	DPC-000428	ALISERTIB	AURKA	joint finite coverage descending, ID ascending; distinct target labels; no response values	489	489
+TOP1	DPC-000184	A-1065-5	MTOR	joint finite coverage descending, ID ascending; distinct target labels; no response values	422	422
+TOP1	DPC-000332	ADAVOSERTIB	WEE1	joint finite coverage descending, ID ascending; distinct target labels; no response values	422	422
+ATR	DPC-000428	ALISERTIB	AURKA	joint finite coverage descending, ID ascending; distinct target labels; no response values	490	490
+ATR	DPC-000816	AZD 2171	KIT	joint finite coverage descending, ID ascending; distinct target labels; no response values	490	490
+CHEK1	DPC-000428	ALISERTIB	AURKA	joint finite coverage descending, ID ascending; distinct target labels; no response values	490	490
+CHEK1	DPC-000816	AZD 2171	KIT	joint finite coverage descending, ID ascending; distinct target labels; no response values	490	490

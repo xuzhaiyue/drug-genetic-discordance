@@ -1,0 +1,42 @@
+project_root: /path/to/project
+date: '2026-10-16'
+mode: audit_and_design_only
+sources:
+  n3: 03_analysis/2026-09-28_phase1b_target_expansion
+  review: revision/inclusion_audit/2026-10-09/r2/pharmacology_review_43_compounds.tsv
+  gdsc2: raw/GDSC2AUCMatrix.csv
+  prism: raw/prism/secondary-screen-dose-response-curve-parameters.csv
+  chronos: /path/to/depmap/26Q1/CRISPRGeneEffect.csv
+  models: /path/to/depmap/26Q1/Model.csv
+minimum_pair_cells: 200
+control_coverage_fraction: 0.9
+focal_targets:
+- EGFR
+- MTOR
+- ESR1
+- TOP1
+- ATR
+- CHEK1
+proposed_seed: 20261016
+fit_models: false
+compute_correlations: false
+edit_figures_claims_or_git: false
+spec_version: '1.1'
+original_primary_models:
+- M0
+- M1
+- M2
+- M0G
+- M1G
+- M2G
+original_control: ADAVOSERTIB/WEE1
+additional_distinct_target_controls_per_task: 2
+additional_control_coverage_required: 1.0
+primary_population_change: false
+secondary_models:
+- M2G_C1
+- M2G_C2
+- M_BG
+benchmark_scope: observed-GDSC2-B subset; original folds; primary population unchanged
+freeze_before_modeling: true
+execution_authorized: false

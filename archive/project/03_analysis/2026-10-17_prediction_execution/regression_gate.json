@@ -1,0 +1,2535 @@
+{
+  "status": "PASS",
+  "checks_passed": 254,
+  "checks_total": 254,
+  "resources": {
+    "GDSC2": {
+      "summary": {
+        "same_median": 0.4655414690533917,
+        "cross_median": 0.0857970757554834,
+        "n_same": 15,
+        "n_cross": 138,
+        "mw_p": 1.515649245122946e-09,
+        "per_target_median": {
+          "AKT1": 0.5644691098496815,
+          "EGFR": 0.4523418264730309,
+          "MAPK1": 0.6726069989392335,
+          "MET": 0.14478945414881406
+        }
+      },
+      "checks": [
+        {
+          "metric": "GDSC2.same_median",
+          "observed": 0.4655414690533917,
+          "expected": 0.465541,
+          "absolute_difference": 4.6905339173841654e-07,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_median",
+          "observed": 0.0857970757554834,
+          "expected": 0.085797,
+          "absolute_difference": 7.575548340021943e-08,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.mw_p",
+          "observed": 1.515649245122946e-09,
+          "expected": 1.516e-09,
+          "absolute_difference": 3.5075487705392933e-13,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.n_same",
+          "observed": 15,
+          "expected": 15,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.n_cross",
+          "observed": 138,
+          "expected": 138,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.frozen_pair.ERLOTINIB__GEFITINIB",
+          "observed_n": 583,
+          "expected_n": 583,
+          "observed_rho_3dp": 0.487,
+          "expected_rho_3dp": 0.487,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.frozen_pair.ERLOTINIB__AFATINIB",
+          "observed_n": 586,
+          "expected_n": 586,
+          "observed_rho_3dp": 0.366,
+          "expected_rho_3dp": 0.366,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.frozen_pair.ERLOTINIB__LAPATINIB",
+          "observed_n": 586,
+          "expected_n": 586,
+          "observed_rho_3dp": 0.442,
+          "expected_rho_3dp": 0.442,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.frozen_pair.ERLOTINIB__OSIMERTINIB",
+          "observed_n": 586,
+          "expected_n": 586,
+          "observed_rho_3dp": 0.481,
+          "expected_rho_3dp": 0.481,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.frozen_pair.GEFITINIB__AFATINIB",
+          "observed_n": 583,
+          "expected_n": 583,
+          "observed_rho_3dp": 0.418,
+          "expected_rho_3dp": 0.418,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.frozen_pair.GEFITINIB__LAPATINIB",
+          "observed_n": 583,
+          "expected_n": 583,
+          "observed_rho_3dp": 0.466,
+          "expected_rho_3dp": 0.466,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.frozen_pair.GEFITINIB__OSIMERTINIB",
+          "observed_n": 583,
+          "expected_n": 583,
+          "observed_rho_3dp": 0.415,
+          "expected_rho_3dp": 0.415,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.frozen_pair.AFATINIB__LAPATINIB",
+          "observed_n": 589,
+          "expected_n": 589,
+          "observed_rho_3dp": 0.593,
+          "expected_rho_3dp": 0.593,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.frozen_pair.AFATINIB__OSIMERTINIB",
+          "observed_n": 586,
+          "expected_n": 586,
+          "observed_rho_3dp": 0.391,
+          "expected_rho_3dp": 0.391,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.frozen_pair.LAPATINIB__OSIMERTINIB",
+          "observed_n": 586,
+          "expected_n": 586,
+          "observed_rho_3dp": 0.463,
+          "expected_rho_3dp": 0.463,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.frozen_pair.MK 2206__GSK-2141795",
+          "observed_n": 556,
+          "expected_n": 556,
+          "observed_rho_3dp": 0.564,
+          "expected_rho_3dp": 0.564,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.frozen_pair.MK 2206__IPATASERTIB",
+          "observed_n": 586,
+          "expected_n": 586,
+          "observed_rho_3dp": 0.578,
+          "expected_rho_3dp": 0.578,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.frozen_pair.GSK-2141795__IPATASERTIB",
+          "observed_n": 554,
+          "expected_n": 554,
+          "observed_rho_3dp": 0.539,
+          "expected_rho_3dp": 0.539,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.frozen_pair.SCH772984__VX-11E",
+          "observed_n": 579,
+          "expected_n": 579,
+          "observed_rho_3dp": 0.673,
+          "expected_rho_3dp": 0.673,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.frozen_pair.SAVOLITINIB__CRIZOTINIB",
+          "observed_n": 580,
+          "expected_n": 580,
+          "observed_rho_3dp": 0.145,
+          "expected_rho_3dp": 0.145,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.ERLOTINIB__AZD8931",
+          "observed_n": 581,
+          "saved_n": 581,
+          "observed_rho": 0.37472216834429284,
+          "saved_rho": 0.3747221683442928,
+          "absolute_rho_difference": 5.551115123125783e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.ERLOTINIB__BMS-754807",
+          "observed_n": 576,
+          "saved_n": 576,
+          "observed_rho": 0.06541845628312361,
+          "saved_rho": 0.0654184562831236,
+          "absolute_rho_difference": 1.3877787807814457e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.ERLOTINIB__DABRAFENIB",
+          "observed_n": 581,
+          "saved_n": 581,
+          "observed_rho": 0.02838487156691364,
+          "saved_rho": 0.0283848715669136,
+          "absolute_rho_difference": 4.163336342344337e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.ERLOTINIB__AZD5991",
+          "observed_n": 463,
+          "saved_n": 463,
+          "observed_rho": 0.02558338548321418,
+          "saved_rho": 0.0255833854832141,
+          "absolute_rho_difference": 7.979727989493313e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.ERLOTINIB__MK 2206",
+          "observed_n": 586,
+          "saved_n": 586,
+          "observed_rho": 0.11461998086065621,
+          "saved_rho": 0.1146199808606562,
+          "absolute_rho_difference": 1.3877787807814457e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.ERLOTINIB__GSK-2141795",
+          "observed_n": 554,
+          "saved_n": 554,
+          "observed_rho": 0.04480010134627875,
+          "saved_rho": 0.0448001013462787,
+          "absolute_rho_difference": 4.85722573273506e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.ERLOTINIB__IPATASERTIB",
+          "observed_n": 586,
+          "saved_n": 586,
+          "observed_rho": 0.16606685889497194,
+          "saved_rho": 0.1660668588949719,
+          "absolute_rho_difference": 2.7755575615628914e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.ERLOTINIB__FK866",
+          "observed_n": 335,
+          "saved_n": 335,
+          "observed_rho": -0.03663164076963345,
+          "saved_rho": -0.0366316407696334,
+          "absolute_rho_difference": 4.85722573273506e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.ERLOTINIB__SAVOLITINIB",
+          "observed_n": 581,
+          "saved_n": 581,
+          "observed_rho": 0.2074376832911862,
+          "saved_rho": 0.2074376832911862,
+          "absolute_rho_difference": 0.0,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.ERLOTINIB__CRIZOTINIB",
+          "observed_n": 585,
+          "saved_n": 585,
+          "observed_rho": 0.015408950922532671,
+          "saved_rho": 0.0154089509225326,
+          "absolute_rho_difference": 7.112366251504909e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.ERLOTINIB__SCH772984",
+          "observed_n": 586,
+          "saved_n": 586,
+          "observed_rho": 0.14312010064927366,
+          "saved_rho": 0.1431201006492736,
+          "absolute_rho_difference": 5.551115123125783e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.ERLOTINIB__VX-11E",
+          "observed_n": 577,
+          "saved_n": 577,
+          "observed_rho": 0.08725408499731648,
+          "saved_rho": 0.0872540849973164,
+          "absolute_rho_difference": 6.938893903907228e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.ERLOTINIB__NILOTINIB",
+          "observed_n": 585,
+          "saved_n": 585,
+          "observed_rho": 0.16458495919901317,
+          "saved_rho": 0.1645849591990131,
+          "absolute_rho_difference": 8.326672684688674e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.GEFITINIB__AZD8931",
+          "observed_n": 578,
+          "saved_n": 578,
+          "observed_rho": 0.41145678248511824,
+          "saved_rho": 0.4114567824851182,
+          "absolute_rho_difference": 5.551115123125783e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.GEFITINIB__BMS-754807",
+          "observed_n": 573,
+          "saved_n": 573,
+          "observed_rho": -0.04911153206390086,
+          "saved_rho": -0.0491115320639008,
+          "absolute_rho_difference": 6.245004513516506e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.GEFITINIB__DABRAFENIB",
+          "observed_n": 578,
+          "saved_n": 578,
+          "observed_rho": -0.06637924249539255,
+          "saved_rho": -0.0663792424953925,
+          "absolute_rho_difference": 5.551115123125783e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.GEFITINIB__AZD5991",
+          "observed_n": 460,
+          "saved_n": 460,
+          "observed_rho": -0.03585629668258892,
+          "saved_rho": -0.0358562966825889,
+          "absolute_rho_difference": 2.0816681711721685e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.GEFITINIB__MK 2206",
+          "observed_n": 583,
+          "saved_n": 583,
+          "observed_rho": 0.16345737621247688,
+          "saved_rho": 0.1634573762124768,
+          "absolute_rho_difference": 8.326672684688674e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.GEFITINIB__GSK-2141795",
+          "observed_n": 551,
+          "saved_n": 551,
+          "observed_rho": 0.06342209278136052,
+          "saved_rho": 0.0634220927813605,
+          "absolute_rho_difference": 1.3877787807814457e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.GEFITINIB__IPATASERTIB",
+          "observed_n": 583,
+          "saved_n": 583,
+          "observed_rho": 0.1223241816151889,
+          "saved_rho": 0.1223241816151889,
+          "absolute_rho_difference": 0.0,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.GEFITINIB__FK866",
+          "observed_n": 333,
+          "saved_n": 333,
+          "observed_rho": -0.0536104606157272,
+          "saved_rho": -0.0536104606157271,
+          "absolute_rho_difference": 9.71445146547012e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.GEFITINIB__SAVOLITINIB",
+          "observed_n": 578,
+          "saved_n": 578,
+          "observed_rho": 0.015988433017603616,
+          "saved_rho": 0.0159884330176036,
+          "absolute_rho_difference": 1.734723475976807e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.GEFITINIB__CRIZOTINIB",
+          "observed_n": 582,
+          "saved_n": 582,
+          "observed_rho": -0.0003211881520681787,
+          "saved_rho": -0.0003211881520681,
+          "absolute_rho_difference": 7.871307772244762e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.GEFITINIB__SCH772984",
+          "observed_n": 583,
+          "saved_n": 583,
+          "observed_rho": 0.11059086439855598,
+          "saved_rho": 0.1105908643985559,
+          "absolute_rho_difference": 8.326672684688674e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.GEFITINIB__VX-11E",
+          "observed_n": 574,
+          "saved_n": 574,
+          "observed_rho": 0.09171728052813323,
+          "saved_rho": 0.0917172805281332,
+          "absolute_rho_difference": 2.7755575615628914e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.GEFITINIB__NILOTINIB",
+          "observed_n": 582,
+          "saved_n": 582,
+          "observed_rho": 0.08593102456281294,
+          "saved_rho": 0.0859310245628129,
+          "absolute_rho_difference": 4.163336342344337e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.AFATINIB__AZD8931",
+          "observed_n": 584,
+          "saved_n": 584,
+          "observed_rho": 0.5102601834536217,
+          "saved_rho": 0.5102601834536216,
+          "absolute_rho_difference": 1.1102230246251565e-16,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.AFATINIB__BMS-754807",
+          "observed_n": 579,
+          "saved_n": 579,
+          "observed_rho": 0.12752528275350927,
+          "saved_rho": 0.1275252827535092,
+          "absolute_rho_difference": 8.326672684688674e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.AFATINIB__DABRAFENIB",
+          "observed_n": 583,
+          "saved_n": 583,
+          "observed_rho": 0.039534474632524616,
+          "saved_rho": 0.0395344746325246,
+          "absolute_rho_difference": 1.3877787807814457e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.AFATINIB__AZD5991",
+          "observed_n": 465,
+          "saved_n": 465,
+          "observed_rho": 0.009275566079621135,
+          "saved_rho": 0.0092755660796211,
+          "absolute_rho_difference": 3.469446951953614e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.AFATINIB__MK 2206",
+          "observed_n": 589,
+          "saved_n": 589,
+          "observed_rho": 0.3317431524763515,
+          "saved_rho": 0.3317431524763515,
+          "absolute_rho_difference": 0.0,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.AFATINIB__GSK-2141795",
+          "observed_n": 556,
+          "saved_n": 556,
+          "observed_rho": 0.282162090288871,
+          "saved_rho": 0.282162090288871,
+          "absolute_rho_difference": 0.0,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.AFATINIB__IPATASERTIB",
+          "observed_n": 586,
+          "saved_n": 586,
+          "observed_rho": 0.24239950901425383,
+          "saved_rho": 0.2423995090142538,
+          "absolute_rho_difference": 2.7755575615628914e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.AFATINIB__FK866",
+          "observed_n": 337,
+          "saved_n": 337,
+          "observed_rho": -0.06709950585033683,
+          "saved_rho": -0.0670995058503368,
+          "absolute_rho_difference": 2.7755575615628914e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.AFATINIB__SAVOLITINIB",
+          "observed_n": 581,
+          "saved_n": 581,
+          "observed_rho": 0.01296574260526555,
+          "saved_rho": 0.0129657426052655,
+          "absolute_rho_difference": 5.0306980803327406e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.AFATINIB__CRIZOTINIB",
+          "observed_n": 588,
+          "saved_n": 588,
+          "observed_rho": 0.24567921433088785,
+          "saved_rho": 0.2456792143308878,
+          "absolute_rho_difference": 5.551115123125783e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.AFATINIB__SCH772984",
+          "observed_n": 588,
+          "saved_n": 588,
+          "observed_rho": 0.18780583259415576,
+          "saved_rho": 0.1878058325941557,
+          "absolute_rho_difference": 5.551115123125783e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.AFATINIB__VX-11E",
+          "observed_n": 580,
+          "saved_n": 580,
+          "observed_rho": 0.13061223573521943,
+          "saved_rho": 0.1306122357352194,
+          "absolute_rho_difference": 2.7755575615628914e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.AFATINIB__NILOTINIB",
+          "observed_n": 585,
+          "saved_n": 585,
+          "observed_rho": -0.07229018499040044,
+          "saved_rho": -0.0722901849904004,
+          "absolute_rho_difference": 4.163336342344337e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.LAPATINIB__AZD8931",
+          "observed_n": 584,
+          "saved_n": 584,
+          "observed_rho": 0.47942861825001903,
+          "saved_rho": 0.479428618250019,
+          "absolute_rho_difference": 5.551115123125783e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.LAPATINIB__BMS-754807",
+          "observed_n": 579,
+          "saved_n": 579,
+          "observed_rho": 0.15641789070145712,
+          "saved_rho": 0.1564178907014571,
+          "absolute_rho_difference": 2.7755575615628914e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.LAPATINIB__DABRAFENIB",
+          "observed_n": 583,
+          "saved_n": 583,
+          "observed_rho": 0.06045985161169829,
+          "saved_rho": 0.0604598516116982,
+          "absolute_rho_difference": 9.020562075079397e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.LAPATINIB__AZD5991",
+          "observed_n": 465,
+          "saved_n": 465,
+          "observed_rho": -0.004109955267416825,
+          "saved_rho": -0.0041099552674168,
+          "absolute_rho_difference": 2.5153490401663703e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.LAPATINIB__MK 2206",
+          "observed_n": 589,
+          "saved_n": 589,
+          "observed_rho": 0.33276528821076357,
+          "saved_rho": 0.3327652882107635,
+          "absolute_rho_difference": 5.551115123125783e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.LAPATINIB__GSK-2141795",
+          "observed_n": 556,
+          "saved_n": 556,
+          "observed_rho": 0.2142620514680497,
+          "saved_rho": 0.2142620514680496,
+          "absolute_rho_difference": 8.326672684688674e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.LAPATINIB__IPATASERTIB",
+          "observed_n": 586,
+          "saved_n": 586,
+          "observed_rho": 0.23942555730032977,
+          "saved_rho": 0.2394255573003297,
+          "absolute_rho_difference": 8.326672684688674e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.LAPATINIB__FK866",
+          "observed_n": 337,
+          "saved_n": 337,
+          "observed_rho": -0.013563502236179706,
+          "saved_rho": -0.0135635022361797,
+          "absolute_rho_difference": 5.204170427930421e-18,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.LAPATINIB__SAVOLITINIB",
+          "observed_n": 581,
+          "saved_n": 581,
+          "observed_rho": -0.1060056181253377,
+          "saved_rho": -0.1060056181253376,
+          "absolute_rho_difference": 9.71445146547012e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.LAPATINIB__CRIZOTINIB",
+          "observed_n": 588,
+          "saved_n": 588,
+          "observed_rho": 0.14286404901316638,
+          "saved_rho": 0.1428640490131663,
+          "absolute_rho_difference": 8.326672684688674e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.LAPATINIB__SCH772984",
+          "observed_n": 588,
+          "saved_n": 588,
+          "observed_rho": 0.20739522992393722,
+          "saved_rho": 0.2073952299239372,
+          "absolute_rho_difference": 2.7755575615628914e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.LAPATINIB__VX-11E",
+          "observed_n": 580,
+          "saved_n": 580,
+          "observed_rho": 0.21417039885472208,
+          "saved_rho": 0.214170398854722,
+          "absolute_rho_difference": 8.326672684688674e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.LAPATINIB__NILOTINIB",
+          "observed_n": 585,
+          "saved_n": 585,
+          "observed_rho": 0.12488428631539578,
+          "saved_rho": 0.1248842863153957,
+          "absolute_rho_difference": 6.938893903907228e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.OSIMERTINIB__AZD8931",
+          "observed_n": 581,
+          "saved_n": 581,
+          "observed_rho": 0.331260994411856,
+          "saved_rho": 0.331260994411856,
+          "absolute_rho_difference": 0.0,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.OSIMERTINIB__BMS-754807",
+          "observed_n": 576,
+          "saved_n": 576,
+          "observed_rho": 0.03607031622836763,
+          "saved_rho": 0.0360703162283676,
+          "absolute_rho_difference": 2.7755575615628914e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.OSIMERTINIB__DABRAFENIB",
+          "observed_n": 581,
+          "saved_n": 581,
+          "observed_rho": -0.002115148930494208,
+          "saved_rho": -0.0021151489304942,
+          "absolute_rho_difference": 7.806255641895632e-18,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.OSIMERTINIB__AZD5991",
+          "observed_n": 463,
+          "saved_n": 463,
+          "observed_rho": 0.05884295937919233,
+          "saved_rho": 0.0588429593791923,
+          "absolute_rho_difference": 2.7755575615628914e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.OSIMERTINIB__MK 2206",
+          "observed_n": 586,
+          "saved_n": 586,
+          "observed_rho": 0.22284806494794224,
+          "saved_rho": 0.2228480649479422,
+          "absolute_rho_difference": 2.7755575615628914e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.OSIMERTINIB__GSK-2141795",
+          "observed_n": 554,
+          "saved_n": 554,
+          "observed_rho": 0.06038738485843544,
+          "saved_rho": 0.0603873848584354,
+          "absolute_rho_difference": 4.163336342344337e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.OSIMERTINIB__IPATASERTIB",
+          "observed_n": 586,
+          "saved_n": 586,
+          "observed_rho": 0.3576124212820318,
+          "saved_rho": 0.3576124212820318,
+          "absolute_rho_difference": 0.0,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.OSIMERTINIB__FK866",
+          "observed_n": 335,
+          "saved_n": 335,
+          "observed_rho": -0.02222463388787457,
+          "saved_rho": -0.0222246338878745,
+          "absolute_rho_difference": 6.938893903907228e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.OSIMERTINIB__SAVOLITINIB",
+          "observed_n": 581,
+          "saved_n": 581,
+          "observed_rho": 0.03759022683594059,
+          "saved_rho": 0.0375902268359405,
+          "absolute_rho_difference": 9.020562075079397e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.OSIMERTINIB__CRIZOTINIB",
+          "observed_n": 585,
+          "saved_n": 585,
+          "observed_rho": -0.015160500664731813,
+          "saved_rho": -0.0151605006647318,
+          "absolute_rho_difference": 1.3877787807814457e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.OSIMERTINIB__SCH772984",
+          "observed_n": 586,
+          "saved_n": 586,
+          "observed_rho": 0.1446786198860435,
+          "saved_rho": 0.1446786198860435,
+          "absolute_rho_difference": 0.0,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.OSIMERTINIB__VX-11E",
+          "observed_n": 577,
+          "saved_n": 577,
+          "observed_rho": 0.07175851770905355,
+          "saved_rho": 0.0717585177090535,
+          "absolute_rho_difference": 4.163336342344337e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.OSIMERTINIB__NILOTINIB",
+          "observed_n": 585,
+          "saved_n": 585,
+          "observed_rho": 0.04037469535622793,
+          "saved_rho": 0.0403746953562279,
+          "absolute_rho_difference": 2.7755575615628914e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.AZD8931__BMS-754807",
+          "observed_n": 574,
+          "saved_n": 574,
+          "observed_rho": 0.033186055420763624,
+          "saved_rho": 0.0331860554207636,
+          "absolute_rho_difference": 2.7755575615628914e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.AZD8931__DABRAFENIB",
+          "observed_n": 578,
+          "saved_n": 578,
+          "observed_rho": 0.013462901864502582,
+          "saved_rho": 0.0134629018645025,
+          "absolute_rho_difference": 8.153200337090993e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.AZD8931__AZD5991",
+          "observed_n": 460,
+          "saved_n": 460,
+          "observed_rho": -0.07999536448865442,
+          "saved_rho": -0.0799953644886544,
+          "absolute_rho_difference": 2.7755575615628914e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.AZD8931__MK 2206",
+          "observed_n": 584,
+          "saved_n": 584,
+          "observed_rho": 0.17951778556585998,
+          "saved_rho": 0.1795177855658599,
+          "absolute_rho_difference": 8.326672684688674e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.AZD8931__GSK-2141795",
+          "observed_n": 551,
+          "saved_n": 551,
+          "observed_rho": 0.15383772228718173,
+          "saved_rho": 0.1538377222871817,
+          "absolute_rho_difference": 2.7755575615628914e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.AZD8931__IPATASERTIB",
+          "observed_n": 581,
+          "saved_n": 581,
+          "observed_rho": 0.14291906338471558,
+          "saved_rho": 0.1429190633847155,
+          "absolute_rho_difference": 8.326672684688674e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.AZD8931__FK866",
+          "observed_n": 336,
+          "saved_n": 336,
+          "observed_rho": -0.0472091640146027,
+          "saved_rho": -0.0472091640146026,
+          "absolute_rho_difference": 9.71445146547012e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.AZD8931__SAVOLITINIB",
+          "observed_n": 576,
+          "saved_n": 576,
+          "observed_rho": -0.07182208072740061,
+          "saved_rho": -0.0718220807274006,
+          "absolute_rho_difference": 1.3877787807814457e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.AZD8931__CRIZOTINIB",
+          "observed_n": 583,
+          "saved_n": 583,
+          "observed_rho": -0.011622191921318203,
+          "saved_rho": -0.0116221919213182,
+          "absolute_rho_difference": 3.469446951953614e-18,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.AZD8931__SCH772984",
+          "observed_n": 583,
+          "saved_n": 583,
+          "observed_rho": 0.21997969828664776,
+          "saved_rho": 0.2199796982866477,
+          "absolute_rho_difference": 5.551115123125783e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.AZD8931__VX-11E",
+          "observed_n": 575,
+          "saved_n": 575,
+          "observed_rho": 0.20668595362265116,
+          "saved_rho": 0.2066859536226511,
+          "absolute_rho_difference": 5.551115123125783e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.AZD8931__NILOTINIB",
+          "observed_n": 580,
+          "saved_n": 580,
+          "observed_rho": -0.008818530458135151,
+          "saved_rho": -0.0088185304581351,
+          "absolute_rho_difference": 5.0306980803327406e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.BMS-754807__DABRAFENIB",
+          "observed_n": 573,
+          "saved_n": 573,
+          "observed_rho": 0.14391418822525961,
+          "saved_rho": 0.1439141882252596,
+          "absolute_rho_difference": 2.7755575615628914e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.BMS-754807__AZD5991",
+          "observed_n": 455,
+          "saved_n": 455,
+          "observed_rho": 0.1497201152661389,
+          "saved_rho": 0.1497201152661389,
+          "absolute_rho_difference": 0.0,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.BMS-754807__MK 2206",
+          "observed_n": 579,
+          "saved_n": 579,
+          "observed_rho": 0.2949246785073319,
+          "saved_rho": 0.2949246785073318,
+          "absolute_rho_difference": 1.1102230246251565e-16,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.BMS-754807__GSK-2141795",
+          "observed_n": 546,
+          "saved_n": 546,
+          "observed_rho": 0.16878496442758556,
+          "saved_rho": 0.1687849644275855,
+          "absolute_rho_difference": 5.551115123125783e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.BMS-754807__IPATASERTIB",
+          "observed_n": 576,
+          "saved_n": 576,
+          "observed_rho": 0.2138988521337252,
+          "saved_rho": 0.2138988521337252,
+          "absolute_rho_difference": 0.0,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.BMS-754807__FK866",
+          "observed_n": 332,
+          "saved_n": 332,
+          "observed_rho": 0.03746053045365097,
+          "saved_rho": 0.0374605304536509,
+          "absolute_rho_difference": 6.938893903907228e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.BMS-754807__SAVOLITINIB",
+          "observed_n": 571,
+          "saved_n": 571,
+          "observed_rho": 0.10768876252330947,
+          "saved_rho": 0.1076887625233094,
+          "absolute_rho_difference": 6.938893903907228e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.BMS-754807__CRIZOTINIB",
+          "observed_n": 578,
+          "saved_n": 578,
+          "observed_rho": 0.4677456766514116,
+          "saved_rho": 0.4677456766514115,
+          "absolute_rho_difference": 1.1102230246251565e-16,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.BMS-754807__SCH772984",
+          "observed_n": 578,
+          "saved_n": 578,
+          "observed_rho": 0.11964184935623035,
+          "saved_rho": 0.1196418493562303,
+          "absolute_rho_difference": 4.163336342344337e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.BMS-754807__VX-11E",
+          "observed_n": 570,
+          "saved_n": 570,
+          "observed_rho": 0.20141488830966073,
+          "saved_rho": 0.2014148883096607,
+          "absolute_rho_difference": 2.7755575615628914e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.BMS-754807__NILOTINIB",
+          "observed_n": 575,
+          "saved_n": 575,
+          "observed_rho": 0.1428255819825279,
+          "saved_rho": 0.1428255819825279,
+          "absolute_rho_difference": 0.0,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.DABRAFENIB__AZD5991",
+          "observed_n": 461,
+          "saved_n": 461,
+          "observed_rho": 0.16745285272117305,
+          "saved_rho": 0.167452852721173,
+          "absolute_rho_difference": 5.551115123125783e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.DABRAFENIB__MK 2206",
+          "observed_n": 583,
+          "saved_n": 583,
+          "observed_rho": 0.025468040365067484,
+          "saved_rho": 0.0254680403650674,
+          "absolute_rho_difference": 8.326672684688674e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.DABRAFENIB__GSK-2141795",
+          "observed_n": 551,
+          "saved_n": 551,
+          "observed_rho": -0.019868152048377725,
+          "saved_rho": -0.0198681520483777,
+          "absolute_rho_difference": 2.42861286636753e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.DABRAFENIB__IPATASERTIB",
+          "observed_n": 581,
+          "saved_n": 581,
+          "observed_rho": -0.010836948933308778,
+          "saved_rho": -0.0108369489333087,
+          "absolute_rho_difference": 7.806255641895632e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.DABRAFENIB__FK866",
+          "observed_n": 334,
+          "saved_n": 334,
+          "observed_rho": -0.009419643971435911,
+          "saved_rho": -0.0094196439714359,
+          "absolute_rho_difference": 1.0408340855860843e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.DABRAFENIB__SAVOLITINIB",
+          "observed_n": 577,
+          "saved_n": 577,
+          "observed_rho": 0.029204684473442762,
+          "saved_rho": 0.0292046844734427,
+          "absolute_rho_difference": 6.245004513516506e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.DABRAFENIB__CRIZOTINIB",
+          "observed_n": 582,
+          "saved_n": 582,
+          "observed_rho": 0.19132328757759093,
+          "saved_rho": 0.1913232875775909,
+          "absolute_rho_difference": 2.7755575615628914e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.DABRAFENIB__SCH772984",
+          "observed_n": 583,
+          "saved_n": 583,
+          "observed_rho": 0.12103385645591336,
+          "saved_rho": 0.1210338564559133,
+          "absolute_rho_difference": 5.551115123125783e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.DABRAFENIB__VX-11E",
+          "observed_n": 576,
+          "saved_n": 576,
+          "observed_rho": 0.23744866999234976,
+          "saved_rho": 0.2374486699923497,
+          "absolute_rho_difference": 5.551115123125783e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.DABRAFENIB__NILOTINIB",
+          "observed_n": 580,
+          "saved_n": 580,
+          "observed_rho": 0.1299427373343908,
+          "saved_rho": 0.1299427373343908,
+          "absolute_rho_difference": 0.0,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.AZD5991__MK 2206",
+          "observed_n": 465,
+          "saved_n": 465,
+          "observed_rho": 0.06351346512815863,
+          "saved_rho": 0.0635134651281586,
+          "absolute_rho_difference": 2.7755575615628914e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.AZD5991__GSK-2141795",
+          "observed_n": 465,
+          "saved_n": 465,
+          "observed_rho": 0.05024216224990095,
+          "saved_rho": 0.0502421622499009,
+          "absolute_rho_difference": 4.85722573273506e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.AZD5991__IPATASERTIB",
+          "observed_n": 463,
+          "saved_n": 463,
+          "observed_rho": 0.08824533625308183,
+          "saved_rho": 0.0882453362530818,
+          "absolute_rho_difference": 2.7755575615628914e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.AZD5991__FK866",
+          "observed_n": 220,
+          "saved_n": 220,
+          "observed_rho": 0.03391918315367146,
+          "saved_rho": 0.0339191831536714,
+          "absolute_rho_difference": 6.245004513516506e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.AZD5991__SAVOLITINIB",
+          "observed_n": 461,
+          "saved_n": 461,
+          "observed_rho": 0.06510054125823249,
+          "saved_rho": 0.0651005412582324,
+          "absolute_rho_difference": 8.326672684688674e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.AZD5991__CRIZOTINIB",
+          "observed_n": 464,
+          "saved_n": 464,
+          "observed_rho": 0.06060489576851649,
+          "saved_rho": 0.0606048957685164,
+          "absolute_rho_difference": 9.020562075079397e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.AZD5991__SCH772984",
+          "observed_n": 465,
+          "saved_n": 465,
+          "observed_rho": 0.010407128569177962,
+          "saved_rho": 0.0104071285691779,
+          "absolute_rho_difference": 6.071532165918825e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.AZD5991__VX-11E",
+          "observed_n": 457,
+          "saved_n": 457,
+          "observed_rho": 0.05734477398238893,
+          "saved_rho": 0.0573447739823889,
+          "absolute_rho_difference": 2.7755575615628914e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.AZD5991__NILOTINIB",
+          "observed_n": 462,
+          "saved_n": 462,
+          "observed_rho": 0.08566312694815385,
+          "saved_rho": 0.0856631269481538,
+          "absolute_rho_difference": 5.551115123125783e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.MK 2206__FK866",
+          "observed_n": 337,
+          "saved_n": 337,
+          "observed_rho": 0.02031154761695734,
+          "saved_rho": 0.0203115476169573,
+          "absolute_rho_difference": 3.8163916471489756e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.MK 2206__SAVOLITINIB",
+          "observed_n": 581,
+          "saved_n": 581,
+          "observed_rho": -0.014824031283327412,
+          "saved_rho": -0.0148240312833274,
+          "absolute_rho_difference": 1.214306433183765e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.MK 2206__CRIZOTINIB",
+          "observed_n": 588,
+          "saved_n": 588,
+          "observed_rho": 0.27748409562440707,
+          "saved_rho": 0.277484095624407,
+          "absolute_rho_difference": 5.551115123125783e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.MK 2206__SCH772984",
+          "observed_n": 588,
+          "saved_n": 588,
+          "observed_rho": 0.13541732395662295,
+          "saved_rho": 0.1354173239566229,
+          "absolute_rho_difference": 5.551115123125783e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.MK 2206__VX-11E",
+          "observed_n": 580,
+          "saved_n": 580,
+          "observed_rho": 0.12993788057005398,
+          "saved_rho": 0.1299378805700539,
+          "absolute_rho_difference": 8.326672684688674e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.MK 2206__NILOTINIB",
+          "observed_n": 585,
+          "saved_n": 585,
+          "observed_rho": 0.17500014984937143,
+          "saved_rho": 0.1750001498493714,
+          "absolute_rho_difference": 2.7755575615628914e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.GSK-2141795__FK866",
+          "observed_n": 309,
+          "saved_n": 309,
+          "observed_rho": -0.030446065053017758,
+          "saved_rho": -0.0304460650530177,
+          "absolute_rho_difference": 5.898059818321144e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.GSK-2141795__SAVOLITINIB",
+          "observed_n": 550,
+          "saved_n": 550,
+          "observed_rho": 0.01832304178916895,
+          "saved_rho": 0.0183230417891689,
+          "absolute_rho_difference": 5.204170427930421e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.GSK-2141795__CRIZOTINIB",
+          "observed_n": 555,
+          "saved_n": 555,
+          "observed_rho": 0.17251200503154895,
+          "saved_rho": 0.1725120050315489,
+          "absolute_rho_difference": 5.551115123125783e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.GSK-2141795__SCH772984",
+          "observed_n": 556,
+          "saved_n": 556,
+          "observed_rho": 0.1829131018054206,
+          "saved_rho": 0.1829131018054206,
+          "absolute_rho_difference": 0.0,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.GSK-2141795__VX-11E",
+          "observed_n": 548,
+          "saved_n": 548,
+          "observed_rho": 0.10956682126174505,
+          "saved_rho": 0.109566821261745,
+          "absolute_rho_difference": 5.551115123125783e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.GSK-2141795__NILOTINIB",
+          "observed_n": 553,
+          "saved_n": 553,
+          "observed_rho": 0.018493183539904343,
+          "saved_rho": 0.0184931835399043,
+          "absolute_rho_difference": 4.163336342344337e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.IPATASERTIB__FK866",
+          "observed_n": 335,
+          "saved_n": 335,
+          "observed_rho": 0.02601375075009895,
+          "saved_rho": 0.0260137507500989,
+          "absolute_rho_difference": 5.204170427930421e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.IPATASERTIB__SAVOLITINIB",
+          "observed_n": 581,
+          "saved_n": 581,
+          "observed_rho": 0.05036843325768669,
+          "saved_rho": 0.0503684332576866,
+          "absolute_rho_difference": 9.020562075079397e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.IPATASERTIB__CRIZOTINIB",
+          "observed_n": 585,
+          "saved_n": 585,
+          "observed_rho": 0.14018744358171167,
+          "saved_rho": 0.1401874435817116,
+          "absolute_rho_difference": 8.326672684688674e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.IPATASERTIB__SCH772984",
+          "observed_n": 586,
+          "saved_n": 586,
+          "observed_rho": 0.13100205452014554,
+          "saved_rho": 0.1310020545201455,
+          "absolute_rho_difference": 5.551115123125783e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.IPATASERTIB__VX-11E",
+          "observed_n": 577,
+          "saved_n": 577,
+          "observed_rho": 0.09558220865938646,
+          "saved_rho": 0.0955822086593864,
+          "absolute_rho_difference": 6.938893903907228e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.IPATASERTIB__NILOTINIB",
+          "observed_n": 585,
+          "saved_n": 585,
+          "observed_rho": 0.07506464501882709,
+          "saved_rho": 0.075064645018827,
+          "absolute_rho_difference": 9.71445146547012e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.FK866__SAVOLITINIB",
+          "observed_n": 331,
+          "saved_n": 331,
+          "observed_rho": 0.01529567873250762,
+          "saved_rho": 0.0152956787325076,
+          "absolute_rho_difference": 2.0816681711721685e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.FK866__CRIZOTINIB",
+          "observed_n": 337,
+          "saved_n": 337,
+          "observed_rho": 0.04572253813294671,
+          "saved_rho": 0.0457225381329467,
+          "absolute_rho_difference": 6.938893903907228e-18,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.FK866__SCH772984",
+          "observed_n": 336,
+          "saved_n": 336,
+          "observed_rho": -0.007431051609270309,
+          "saved_rho": -0.0074310516092703,
+          "absolute_rho_difference": 8.673617379884035e-18,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.FK866__VX-11E",
+          "observed_n": 337,
+          "saved_n": 337,
+          "observed_rho": 0.03782348398048496,
+          "saved_rho": 0.0378234839804849,
+          "absolute_rho_difference": 6.245004513516506e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.FK866__NILOTINIB",
+          "observed_n": 334,
+          "saved_n": 334,
+          "observed_rho": 0.06069233054665176,
+          "saved_rho": 0.0606923305466517,
+          "absolute_rho_difference": 6.245004513516506e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.SAVOLITINIB__SCH772984",
+          "observed_n": 581,
+          "saved_n": 581,
+          "observed_rho": -0.06630984860675755,
+          "saved_rho": -0.0663098486067575,
+          "absolute_rho_difference": 5.551115123125783e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.SAVOLITINIB__VX-11E",
+          "observed_n": 572,
+          "saved_n": 572,
+          "observed_rho": -0.11644417056593291,
+          "saved_rho": -0.1164441705659329,
+          "absolute_rho_difference": 1.3877787807814457e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.SAVOLITINIB__NILOTINIB",
+          "observed_n": 580,
+          "saved_n": 580,
+          "observed_rho": -0.10662307721403494,
+          "saved_rho": -0.1066230772140349,
+          "absolute_rho_difference": 4.163336342344337e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.CRIZOTINIB__SCH772984",
+          "observed_n": 587,
+          "saved_n": 587,
+          "observed_rho": 0.15000357754837434,
+          "saved_rho": 0.1500035775483743,
+          "absolute_rho_difference": 5.551115123125783e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.CRIZOTINIB__VX-11E",
+          "observed_n": 579,
+          "saved_n": 579,
+          "observed_rho": 0.1701055584353698,
+          "saved_rho": 0.1701055584353698,
+          "absolute_rho_difference": 0.0,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.CRIZOTINIB__NILOTINIB",
+          "observed_n": 584,
+          "saved_n": 584,
+          "observed_rho": 0.1733155962672633,
+          "saved_rho": 0.1733155962672633,
+          "absolute_rho_difference": 0.0,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.SCH772984__NILOTINIB",
+          "observed_n": 585,
+          "saved_n": 585,
+          "observed_rho": 0.09795119945430854,
+          "saved_rho": 0.0979511994543085,
+          "absolute_rho_difference": 4.163336342344337e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "GDSC2.cross_pair.VX-11E__NILOTINIB",
+          "observed_n": 576,
+          "saved_n": 576,
+          "observed_rho": 0.08187021327628874,
+          "saved_rho": 0.0818702132762887,
+          "absolute_rho_difference": 4.163336342344337e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        }
+      ],
+      "n_drugs": 18,
+      "n_cells_union": 590
+    },
+    "PRISM": {
+      "summary": {
+        "same_median": 0.40364032617454615,
+        "cross_median": 0.13697325274595587,
+        "n_same": 14,
+        "n_cross": 77,
+        "mw_p": 7.966614837450077e-08,
+        "per_target_median": {
+          "AKT1": 0.33277569453677347,
+          "EGFR": 0.4114811079665898,
+          "MET": 0.17936722609409728
+        }
+      },
+      "checks": [
+        {
+          "metric": "PRISM.same_median",
+          "observed": 0.40364032617454615,
+          "expected": 0.40364,
+          "absolute_difference": 3.2617454615024855e-07,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_median",
+          "observed": 0.13697325274595587,
+          "expected": 0.136973,
+          "absolute_difference": 2.527459558587797e-07,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.mw_p",
+          "observed": 7.966614837450077e-08,
+          "expected": 7.967e-08,
+          "absolute_difference": 3.85162549922898e-12,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.n_same",
+          "observed": 14,
+          "expected": 14,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.n_cross",
+          "observed": 77,
+          "expected": 77,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.frozen_pair.ERLOTINIB__GEFITINIB",
+          "observed_n": 531,
+          "expected_n": 531,
+          "observed_rho_3dp": 0.401,
+          "expected_rho_3dp": 0.401,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.frozen_pair.ERLOTINIB__AFATINIB",
+          "observed_n": 522,
+          "expected_n": 522,
+          "observed_rho_3dp": 0.479,
+          "expected_rho_3dp": 0.479,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.frozen_pair.ERLOTINIB__LAPATINIB",
+          "observed_n": 539,
+          "expected_n": 539,
+          "observed_rho_3dp": 0.362,
+          "expected_rho_3dp": 0.362,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.frozen_pair.ERLOTINIB__OSIMERTINIB",
+          "observed_n": 556,
+          "expected_n": 556,
+          "observed_rho_3dp": 0.368,
+          "expected_rho_3dp": 0.368,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.frozen_pair.GEFITINIB__AFATINIB",
+          "observed_n": 506,
+          "expected_n": 506,
+          "observed_rho_3dp": 0.505,
+          "expected_rho_3dp": 0.505,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.frozen_pair.GEFITINIB__LAPATINIB",
+          "observed_n": 518,
+          "expected_n": 518,
+          "observed_rho_3dp": 0.417,
+          "expected_rho_3dp": 0.417,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.frozen_pair.GEFITINIB__OSIMERTINIB",
+          "observed_n": 532,
+          "expected_n": 532,
+          "observed_rho_3dp": 0.406,
+          "expected_rho_3dp": 0.406,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.frozen_pair.AFATINIB__LAPATINIB",
+          "observed_n": 506,
+          "expected_n": 506,
+          "observed_rho_3dp": 0.499,
+          "expected_rho_3dp": 0.499,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.frozen_pair.AFATINIB__OSIMERTINIB",
+          "observed_n": 527,
+          "expected_n": 527,
+          "observed_rho_3dp": 0.533,
+          "expected_rho_3dp": 0.533,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.frozen_pair.LAPATINIB__OSIMERTINIB",
+          "observed_n": 539,
+          "expected_n": 539,
+          "observed_rho_3dp": 0.367,
+          "expected_rho_3dp": 0.367,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.frozen_pair.MK 2206__GSK-2141795",
+          "observed_n": 398,
+          "expected_n": 398,
+          "observed_rho_3dp": 0.333,
+          "expected_rho_3dp": 0.333,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.frozen_pair.MK 2206__IPATASERTIB",
+          "observed_n": 397,
+          "expected_n": 397,
+          "observed_rho_3dp": 0.303,
+          "expected_rho_3dp": 0.303,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.frozen_pair.GSK-2141795__IPATASERTIB",
+          "observed_n": 399,
+          "expected_n": 399,
+          "observed_rho_3dp": 0.458,
+          "expected_rho_3dp": 0.458,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.frozen_pair.SAVOLITINIB__CRIZOTINIB",
+          "observed_n": 447,
+          "expected_n": 447,
+          "observed_rho_3dp": 0.179,
+          "expected_rho_3dp": 0.179,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.ERLOTINIB__AZD8931",
+          "observed_n": 524,
+          "saved_n": 524,
+          "observed_rho": 0.3707750145436423,
+          "saved_rho": 0.3707750145436423,
+          "absolute_rho_difference": 0.0,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.ERLOTINIB__BMS-754807",
+          "observed_n": 552,
+          "saved_n": 552,
+          "observed_rho": 0.1441230940635136,
+          "saved_rho": 0.1441230940635135,
+          "absolute_rho_difference": 8.326672684688674e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.ERLOTINIB__DABRAFENIB",
+          "observed_n": 513,
+          "saved_n": 513,
+          "observed_rho": 0.17059247147131776,
+          "saved_rho": 0.1705924714713177,
+          "absolute_rho_difference": 5.551115123125783e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.ERLOTINIB__MK 2206",
+          "observed_n": 399,
+          "saved_n": 399,
+          "observed_rho": 0.20573582196697776,
+          "saved_rho": 0.2057358219669777,
+          "absolute_rho_difference": 5.551115123125783e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.ERLOTINIB__GSK-2141795",
+          "observed_n": 549,
+          "saved_n": 549,
+          "observed_rho": 0.25398870843169036,
+          "saved_rho": 0.2539887084316903,
+          "absolute_rho_difference": 5.551115123125783e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.ERLOTINIB__IPATASERTIB",
+          "observed_n": 400,
+          "saved_n": 400,
+          "observed_rho": 0.291512009450059,
+          "saved_rho": 0.291512009450059,
+          "absolute_rho_difference": 0.0,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.ERLOTINIB__SAVOLITINIB",
+          "observed_n": 464,
+          "saved_n": 464,
+          "observed_rho": 0.09665406967665055,
+          "saved_rho": 0.0966540696766505,
+          "absolute_rho_difference": 5.551115123125783e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.ERLOTINIB__CRIZOTINIB",
+          "observed_n": 532,
+          "saved_n": 532,
+          "observed_rho": 0.20233183843636185,
+          "saved_rho": 0.2023318384363618,
+          "absolute_rho_difference": 5.551115123125783e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.ERLOTINIB__NILOTINIB",
+          "observed_n": 377,
+          "saved_n": 377,
+          "observed_rho": 0.11561551271749367,
+          "saved_rho": 0.1156155127174936,
+          "absolute_rho_difference": 6.938893903907228e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.GEFITINIB__AZD8931",
+          "observed_n": 514,
+          "saved_n": 514,
+          "observed_rho": 0.4958130722774852,
+          "saved_rho": 0.4958130722774852,
+          "absolute_rho_difference": 0.0,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.GEFITINIB__BMS-754807",
+          "observed_n": 536,
+          "saved_n": 536,
+          "observed_rho": 0.2320273274675025,
+          "saved_rho": 0.2320273274675024,
+          "absolute_rho_difference": 8.326672684688674e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.GEFITINIB__DABRAFENIB",
+          "observed_n": 499,
+          "saved_n": 499,
+          "observed_rho": 0.0657488470917739,
+          "saved_rho": 0.0657488470917738,
+          "absolute_rho_difference": 9.71445146547012e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.GEFITINIB__MK 2206",
+          "observed_n": 387,
+          "saved_n": 387,
+          "observed_rho": 0.10806626393524828,
+          "saved_rho": 0.1080662639352482,
+          "absolute_rho_difference": 8.326672684688674e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.GEFITINIB__GSK-2141795",
+          "observed_n": 532,
+          "saved_n": 532,
+          "observed_rho": 0.20154601532291316,
+          "saved_rho": 0.2015460153229131,
+          "absolute_rho_difference": 5.551115123125783e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.GEFITINIB__IPATASERTIB",
+          "observed_n": 387,
+          "saved_n": 387,
+          "observed_rho": 0.13681522511924385,
+          "saved_rho": 0.1368152251192438,
+          "absolute_rho_difference": 5.551115123125783e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.GEFITINIB__SAVOLITINIB",
+          "observed_n": 446,
+          "saved_n": 446,
+          "observed_rho": 0.05398351077014327,
+          "saved_rho": 0.0539835107701432,
+          "absolute_rho_difference": 6.938893903907228e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.GEFITINIB__CRIZOTINIB",
+          "observed_n": 509,
+          "saved_n": 509,
+          "observed_rho": 0.09878700300564824,
+          "saved_rho": 0.0987870030056482,
+          "absolute_rho_difference": 4.163336342344337e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.GEFITINIB__NILOTINIB",
+          "observed_n": 367,
+          "saved_n": 367,
+          "observed_rho": 0.10829071996364349,
+          "saved_rho": 0.1082907199636434,
+          "absolute_rho_difference": 9.71445146547012e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.AFATINIB__AZD8931",
+          "observed_n": 498,
+          "saved_n": 498,
+          "observed_rho": 0.45011304517352085,
+          "saved_rho": 0.4501130451735208,
+          "absolute_rho_difference": 5.551115123125783e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.AFATINIB__BMS-754807",
+          "observed_n": 524,
+          "saved_n": 524,
+          "observed_rho": 0.24858831796259723,
+          "saved_rho": 0.2485883179625972,
+          "absolute_rho_difference": 2.7755575615628914e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.AFATINIB__DABRAFENIB",
+          "observed_n": 491,
+          "saved_n": 491,
+          "observed_rho": 0.11871435971934846,
+          "saved_rho": 0.1187143597193484,
+          "absolute_rho_difference": 5.551115123125783e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.AFATINIB__MK 2206",
+          "observed_n": 383,
+          "saved_n": 383,
+          "observed_rho": 0.17818604500157206,
+          "saved_rho": 0.178186045001572,
+          "absolute_rho_difference": 5.551115123125783e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.AFATINIB__GSK-2141795",
+          "observed_n": 520,
+          "saved_n": 520,
+          "observed_rho": 0.32648760933628845,
+          "saved_rho": 0.3264876093362884,
+          "absolute_rho_difference": 5.551115123125783e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.AFATINIB__IPATASERTIB",
+          "observed_n": 384,
+          "saved_n": 384,
+          "observed_rho": 0.1521786307687091,
+          "saved_rho": 0.1521786307687091,
+          "absolute_rho_difference": 0.0,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.AFATINIB__SAVOLITINIB",
+          "observed_n": 436,
+          "saved_n": 436,
+          "observed_rho": 0.06999957288376575,
+          "saved_rho": 0.0699995728837657,
+          "absolute_rho_difference": 5.551115123125783e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.AFATINIB__CRIZOTINIB",
+          "observed_n": 499,
+          "saved_n": 499,
+          "observed_rho": 0.18114532679817463,
+          "saved_rho": 0.1811453267981746,
+          "absolute_rho_difference": 2.7755575615628914e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.AFATINIB__NILOTINIB",
+          "observed_n": 362,
+          "saved_n": 362,
+          "observed_rho": 0.01732588893789365,
+          "saved_rho": 0.0173258889378936,
+          "absolute_rho_difference": 4.85722573273506e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.LAPATINIB__AZD8931",
+          "observed_n": 513,
+          "saved_n": 513,
+          "observed_rho": 0.3446162778460419,
+          "saved_rho": 0.3446162778460418,
+          "absolute_rho_difference": 5.551115123125783e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.LAPATINIB__BMS-754807",
+          "observed_n": 539,
+          "saved_n": 539,
+          "observed_rho": 0.13697325274595587,
+          "saved_rho": 0.1369732527459558,
+          "absolute_rho_difference": 8.326672684688674e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.LAPATINIB__DABRAFENIB",
+          "observed_n": 505,
+          "saved_n": 505,
+          "observed_rho": 0.05328122874399242,
+          "saved_rho": 0.0532812287439924,
+          "absolute_rho_difference": 2.0816681711721685e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.LAPATINIB__MK 2206",
+          "observed_n": 398,
+          "saved_n": 398,
+          "observed_rho": 0.2117274693765793,
+          "saved_rho": 0.2117274693765793,
+          "absolute_rho_difference": 0.0,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.LAPATINIB__GSK-2141795",
+          "observed_n": 535,
+          "saved_n": 535,
+          "observed_rho": 0.10680316782150363,
+          "saved_rho": 0.1068031678215036,
+          "absolute_rho_difference": 2.7755575615628914e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.LAPATINIB__IPATASERTIB",
+          "observed_n": 399,
+          "saved_n": 399,
+          "observed_rho": 0.13586503948312995,
+          "saved_rho": 0.1358650394831299,
+          "absolute_rho_difference": 5.551115123125783e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.LAPATINIB__SAVOLITINIB",
+          "observed_n": 454,
+          "saved_n": 454,
+          "observed_rho": 0.04905009510430054,
+          "saved_rho": 0.0490500951043005,
+          "absolute_rho_difference": 4.163336342344337e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.LAPATINIB__CRIZOTINIB",
+          "observed_n": 524,
+          "saved_n": 524,
+          "observed_rho": 0.11812240012844274,
+          "saved_rho": 0.1181224001284427,
+          "absolute_rho_difference": 4.163336342344337e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.LAPATINIB__NILOTINIB",
+          "observed_n": 377,
+          "saved_n": 377,
+          "observed_rho": -0.03897417085238068,
+          "saved_rho": -0.0389741708523806,
+          "absolute_rho_difference": 8.326672684688674e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.OSIMERTINIB__AZD8931",
+          "observed_n": 528,
+          "saved_n": 528,
+          "observed_rho": 0.4018880113010674,
+          "saved_rho": 0.4018880113010673,
+          "absolute_rho_difference": 5.551115123125783e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.OSIMERTINIB__BMS-754807",
+          "observed_n": 558,
+          "saved_n": 558,
+          "observed_rho": 0.22333255596733045,
+          "saved_rho": 0.2233325559673304,
+          "absolute_rho_difference": 5.551115123125783e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.OSIMERTINIB__DABRAFENIB",
+          "observed_n": 516,
+          "saved_n": 516,
+          "observed_rho": 0.11880375212955929,
+          "saved_rho": 0.1188037521295592,
+          "absolute_rho_difference": 9.71445146547012e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.OSIMERTINIB__MK 2206",
+          "observed_n": 397,
+          "saved_n": 397,
+          "observed_rho": 0.1093151813567494,
+          "saved_rho": 0.1093151813567494,
+          "absolute_rho_difference": 0.0,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.OSIMERTINIB__GSK-2141795",
+          "observed_n": 553,
+          "saved_n": 553,
+          "observed_rho": 0.2620088823594027,
+          "saved_rho": 0.2620088823594026,
+          "absolute_rho_difference": 5.551115123125783e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.OSIMERTINIB__IPATASERTIB",
+          "observed_n": 398,
+          "saved_n": 398,
+          "observed_rho": 0.22777692176722322,
+          "saved_rho": 0.2277769217672232,
+          "absolute_rho_difference": 2.7755575615628914e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.OSIMERTINIB__SAVOLITINIB",
+          "observed_n": 466,
+          "saved_n": 466,
+          "observed_rho": 0.04656022383884931,
+          "saved_rho": 0.0465602238388493,
+          "absolute_rho_difference": 6.938893903907228e-18,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.OSIMERTINIB__CRIZOTINIB",
+          "observed_n": 534,
+          "saved_n": 534,
+          "observed_rho": 0.18918750870559456,
+          "saved_rho": 0.1891875087055945,
+          "absolute_rho_difference": 5.551115123125783e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.OSIMERTINIB__NILOTINIB",
+          "observed_n": 375,
+          "saved_n": 375,
+          "observed_rho": 0.07959995448856526,
+          "saved_rho": 0.0795999544885652,
+          "absolute_rho_difference": 5.551115123125783e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.AZD8931__BMS-754807",
+          "observed_n": 531,
+          "saved_n": 531,
+          "observed_rho": 0.05144368756877803,
+          "saved_rho": 0.051443687568778,
+          "absolute_rho_difference": 3.469446951953614e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.AZD8931__DABRAFENIB",
+          "observed_n": 489,
+          "saved_n": 489,
+          "observed_rho": 0.009091002387075723,
+          "saved_rho": 0.0090910023870757,
+          "absolute_rho_difference": 2.2551405187698492e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.AZD8931__MK 2206",
+          "observed_n": 383,
+          "saved_n": 383,
+          "observed_rho": 0.11224911316008913,
+          "saved_rho": 0.1122491131600891,
+          "absolute_rho_difference": 2.7755575615628914e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.AZD8931__GSK-2141795",
+          "observed_n": 526,
+          "saved_n": 526,
+          "observed_rho": 0.18855683374784968,
+          "saved_rho": 0.1885568337478496,
+          "absolute_rho_difference": 8.326672684688674e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.AZD8931__IPATASERTIB",
+          "observed_n": 383,
+          "saved_n": 383,
+          "observed_rho": 0.07244426920290352,
+          "saved_rho": 0.0724442692029035,
+          "absolute_rho_difference": 1.3877787807814457e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.AZD8931__SAVOLITINIB",
+          "observed_n": 440,
+          "saved_n": 440,
+          "observed_rho": -0.08407157437421023,
+          "saved_rho": -0.0840715743742102,
+          "absolute_rho_difference": 2.7755575615628914e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.AZD8931__CRIZOTINIB",
+          "observed_n": 506,
+          "saved_n": 506,
+          "observed_rho": 0.045100877466187586,
+          "saved_rho": 0.0451008774661875,
+          "absolute_rho_difference": 8.326672684688674e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.AZD8931__NILOTINIB",
+          "observed_n": 362,
+          "saved_n": 362,
+          "observed_rho": 0.1172565641331598,
+          "saved_rho": 0.1172565641331598,
+          "absolute_rho_difference": 0.0,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.BMS-754807__DABRAFENIB",
+          "observed_n": 516,
+          "saved_n": 516,
+          "observed_rho": 0.2812534582820368,
+          "saved_rho": 0.2812534582820367,
+          "absolute_rho_difference": 1.1102230246251565e-16,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.BMS-754807__MK 2206",
+          "observed_n": 398,
+          "saved_n": 398,
+          "observed_rho": 0.1744457405681463,
+          "saved_rho": 0.1744457405681463,
+          "absolute_rho_difference": 0.0,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.BMS-754807__GSK-2141795",
+          "observed_n": 558,
+          "saved_n": 558,
+          "observed_rho": 0.30147486464213763,
+          "saved_rho": 0.3014748646421376,
+          "absolute_rho_difference": 5.551115123125783e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.BMS-754807__IPATASERTIB",
+          "observed_n": 399,
+          "saved_n": 399,
+          "observed_rho": 0.13864019344844522,
+          "saved_rho": 0.1386401934484452,
+          "absolute_rho_difference": 2.7755575615628914e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.BMS-754807__SAVOLITINIB",
+          "observed_n": 463,
+          "saved_n": 463,
+          "observed_rho": 0.1403708751217502,
+          "saved_rho": 0.1403708751217502,
+          "absolute_rho_difference": 0.0,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.BMS-754807__CRIZOTINIB",
+          "observed_n": 535,
+          "saved_n": 535,
+          "observed_rho": 0.3445769159035234,
+          "saved_rho": 0.3445769159035234,
+          "absolute_rho_difference": 0.0,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.BMS-754807__NILOTINIB",
+          "observed_n": 377,
+          "saved_n": 377,
+          "observed_rho": 0.0865609689894356,
+          "saved_rho": 0.0865609689894356,
+          "absolute_rho_difference": 0.0,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.DABRAFENIB__MK 2206",
+          "observed_n": 383,
+          "saved_n": 383,
+          "observed_rho": 0.139269322515823,
+          "saved_rho": 0.139269322515823,
+          "absolute_rho_difference": 0.0,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.DABRAFENIB__GSK-2141795",
+          "observed_n": 512,
+          "saved_n": 512,
+          "observed_rho": 0.23277514562662363,
+          "saved_rho": 0.2327751456266236,
+          "absolute_rho_difference": 2.7755575615628914e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.DABRAFENIB__IPATASERTIB",
+          "observed_n": 383,
+          "saved_n": 383,
+          "observed_rho": 0.1428107015433407,
+          "saved_rho": 0.1428107015433406,
+          "absolute_rho_difference": 8.326672684688674e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.DABRAFENIB__SAVOLITINIB",
+          "observed_n": 434,
+          "saved_n": 434,
+          "observed_rho": 0.10477487174612797,
+          "saved_rho": 0.1047748717461279,
+          "absolute_rho_difference": 6.938893903907228e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.DABRAFENIB__CRIZOTINIB",
+          "observed_n": 499,
+          "saved_n": 499,
+          "observed_rho": 0.23047820943091002,
+          "saved_rho": 0.23047820943091,
+          "absolute_rho_difference": 2.7755575615628914e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.DABRAFENIB__NILOTINIB",
+          "observed_n": 363,
+          "saved_n": 363,
+          "observed_rho": 0.15810934419673747,
+          "saved_rho": 0.1581093441967374,
+          "absolute_rho_difference": 8.326672684688674e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.MK 2206__SAVOLITINIB",
+          "observed_n": 333,
+          "saved_n": 333,
+          "observed_rho": -0.015445501052600109,
+          "saved_rho": -0.0154455010526001,
+          "absolute_rho_difference": 8.673617379884035e-18,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.MK 2206__CRIZOTINIB",
+          "observed_n": 398,
+          "saved_n": 398,
+          "observed_rho": 0.20648335520522249,
+          "saved_rho": 0.2064833552052224,
+          "absolute_rho_difference": 8.326672684688674e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.MK 2206__NILOTINIB",
+          "observed_n": 373,
+          "saved_n": 373,
+          "observed_rho": 0.07395616018454584,
+          "saved_rho": 0.0739561601845458,
+          "absolute_rho_difference": 4.163336342344337e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.GSK-2141795__SAVOLITINIB",
+          "observed_n": 460,
+          "saved_n": 460,
+          "observed_rho": 0.06986812833215905,
+          "saved_rho": 0.069868128332159,
+          "absolute_rho_difference": 5.551115123125783e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.GSK-2141795__CRIZOTINIB",
+          "observed_n": 533,
+          "saved_n": 533,
+          "observed_rho": 0.29502770671223455,
+          "saved_rho": 0.2950277067122345,
+          "absolute_rho_difference": 5.551115123125783e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.GSK-2141795__NILOTINIB",
+          "observed_n": 377,
+          "saved_n": 377,
+          "observed_rho": 0.10702528090642545,
+          "saved_rho": 0.1070252809064254,
+          "absolute_rho_difference": 5.551115123125783e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.IPATASERTIB__SAVOLITINIB",
+          "observed_n": 335,
+          "saved_n": 335,
+          "observed_rho": 0.044622907702718234,
+          "saved_rho": 0.0446229077027182,
+          "absolute_rho_difference": 3.469446951953614e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.IPATASERTIB__CRIZOTINIB",
+          "observed_n": 399,
+          "saved_n": 399,
+          "observed_rho": 0.24041561189405675,
+          "saved_rho": 0.2404156118940567,
+          "absolute_rho_difference": 5.551115123125783e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.IPATASERTIB__NILOTINIB",
+          "observed_n": 374,
+          "saved_n": 374,
+          "observed_rho": 0.1309062235666872,
+          "saved_rho": 0.1309062235666872,
+          "absolute_rho_difference": 0.0,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.SAVOLITINIB__NILOTINIB",
+          "observed_n": 316,
+          "saved_n": 316,
+          "observed_rho": -0.034538688693542346,
+          "saved_rho": -0.0345386886935423,
+          "absolute_rho_difference": 4.85722573273506e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        },
+        {
+          "metric": "PRISM.cross_pair.CRIZOTINIB__NILOTINIB",
+          "observed_n": 376,
+          "saved_n": 376,
+          "observed_rho": 0.11975280772052597,
+          "saved_rho": 0.1197528077205259,
+          "absolute_rho_difference": 6.938893903907228e-17,
+          "rho_tolerance": 0.0001,
+          "pass": true
+        }
+      ],
+      "n_drugs": 14,
+      "n_cells_union": 581
+    }
+  },
+  "cross_target_pair_tolerance": 0.0001,
+  "pairwise_delta_summary": {
+    "GDSC2": {
+      "before_alignment_max_abs_delta_rho": 3.034088619385117e-06,
+      "after_alignment_max_abs_delta_rho": 1.1102230246251565e-16,
+      "after_alignment_median_abs_delta_rho": 4.9439619065339e-17,
+      "n_cross_pairs": 138,
+      "n_within_tolerance": 138,
+      "tolerance": 0.0001
+    },
+    "PRISM": {
+      "before_alignment_max_abs_delta_rho": 3.476026750287575e-05,
+      "after_alignment_max_abs_delta_rho": 1.1102230246251565e-16,
+      "after_alignment_median_abs_delta_rho": 5.551115123125783e-17,
+      "n_cross_pairs": 77,
+      "n_within_tolerance": 77,
+      "tolerance": 0.0001
+    }
+  },
+  "note": "No A1a/A2/A3/A5 analysis may run if this gate fails.",
+  "execution_context": "isolated runtime preflight; no git query",
+  "input_sha256": {
+    "/path/to/project/raw/GDSC2AUCMatrix.csv": "8060a2aacef11be2ab4beddd123750c0fd8f668971a13c7c00d43c78f34ac3f8",
+    "/path/to/depmap/26Q1/CRISPRGeneEffect.csv": "e610a4cefb13a82b5b256b47eb08b63ff14843f8dbd0fb164bc0a32688e5b89e",
+    "/path/to/depmap/26Q1/Model.csv": "ea4e0b2a3bc806f81df62689a5ae75f1a100135727a3d7b8a4c7ccc8815183f8",
+    "/path/to/project/raw/PortalCompounds.csv": "40f7e54b66f6b585f752b6c4c5c816b7ad9f232b499031eab99c4ba891f0655d",
+    "/path/to/project/raw/prism/secondary-screen-dose-response-curve-parameters.csv": "2ac69a21f1d681fe7447689262b82ca6e3dc90bfef0bd96eb5479b96f424e43d",
+    "/path/to/project/discordance/prism_coverage.json": "84abf83b9462c40a38b130b81b6f48668f15eaf0e1a945436810b814108ed361",
+    "/path/to/project/discordance/atlas_gdsc2.json": "5470a98384045609d351099b6fc7971071fd5f99110be31c674e22e5d966ad37",
+    "/path/to/project/discordance/atlas_prism.json": "94c772962114f47d417c00be1b2e3f71d13b6615ca9d2843a566cc5202af530d",
+    "/path/to/project/discordance/revision/cross_target_pairs.tsv": "16bbe281fab0c694a3b43e0d3f76ac79eba4effea32c0da99b2bd4837023d935",
+    "/path/to/project/discordance/run_discordance_atlas_gdsc2.py": "bf727b1e32ee6afd86c3f8f1ec8ea92ada28de13fd450d30b15e1d7ee355dc3d",
+    "/path/to/project/discordance/run_discordance_atlas_prism.py": "3d07ce6872231de03c5993e7fbf5e2b83c39851f8079d89c86ae12b984e23966",
+    "/path/to/project/discordance/audit_prism_coverage.py": "1458b5200d3e3c66e0497b372bba48e8d5e8dbbf81d5780838e7d3114e8a5091"
+  },
+  "seed": 20260927,
+  "n_perm": 0
+}

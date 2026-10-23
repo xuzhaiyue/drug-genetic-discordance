@@ -1,0 +1,49 @@
+drug_a	drug_b	target_a	target_b	shared_mechanism	shared_pathway	exclude_narrow_control	exclude_broad_control	decision_basis
+DPC-000184	DPC-000452	MTOR	PIK3CA		PI3K_AKT_MTOR	False	True	reviewer-defined source-backed mapping; no response statistics
+DPC-000184	DPC-000508	MTOR	PIK3CD		PI3K_AKT_MTOR	False	True	reviewer-defined source-backed mapping; no response statistics
+DPC-000184	DPC-000736	MTOR	MAPKAPK2		PI3K_AKT_MTOR	False	True	reviewer-defined source-backed mapping; no response statistics
+DPC-000184	DPC-007474	MTOR	FKBP1A	MTOR	PI3K_AKT_MTOR	True	True	reviewer-defined source-backed mapping; no response statistics
+DPC-000184	DPC-007478	MTOR	FKBP1A	MTOR	PI3K_AKT_MTOR	True	True	reviewer-defined source-backed mapping; no response statistics
+DPC-000234	DPC-000660	DHFR	DHODH		NUCLEOTIDE_SYNTHESIS	False	True	reviewer-defined source-backed mapping; no response statistics
+DPC-000234	DPC-002828	DHFR	TYMS		NUCLEOTIDE_SYNTHESIS	False	True	reviewer-defined source-backed mapping; no response statistics
+DPC-000332	DPC-000855	WEE1	CHEK1		REPLICATION_CHECKPOINT	False	True	reviewer-defined source-backed mapping; no response statistics
+DPC-000332	DPC-001018	WEE1	ATR		REPLICATION_CHECKPOINT	False	True	reviewer-defined source-backed mapping; no response statistics
+DPC-000332	DPC-001615	WEE1	ATR		REPLICATION_CHECKPOINT	False	True	reviewer-defined source-backed mapping; no response statistics
+DPC-000332	DPC-004266	WEE1	CHEK1		REPLICATION_CHECKPOINT	False	True	reviewer-defined source-backed mapping; no response statistics
+DPC-000428	DPC-001060	AURKA	PLK1		MITOSIS	False	True	reviewer-defined source-backed mapping; no response statistics
+DPC-000452	DPC-000508	PIK3CA	PIK3CD	PI3K	PI3K_AKT_MTOR	True	True	reviewer-defined source-backed mapping; no response statistics
+DPC-000452	DPC-000736	PIK3CA	MAPKAPK2		PI3K_AKT_MTOR	False	True	reviewer-defined source-backed mapping; no response statistics
+DPC-000452	DPC-000822	PIK3CA	MTOR		PI3K_AKT_MTOR	False	True	reviewer-defined source-backed mapping; no response statistics
+DPC-000452	DPC-001050	PIK3CA	MTOR	PI3K	PI3K_AKT_MTOR	True	True	reviewer-defined source-backed mapping; no response statistics
+DPC-000452	DPC-006860	PIK3CA	MTOR		PI3K_AKT_MTOR	False	True	reviewer-defined source-backed mapping; no response statistics
+DPC-000452	DPC-007474	PIK3CA	FKBP1A		PI3K_AKT_MTOR	False	True	reviewer-defined source-backed mapping; no response statistics
+DPC-000452	DPC-007478	PIK3CA	FKBP1A		PI3K_AKT_MTOR	False	True	reviewer-defined source-backed mapping; no response statistics
+DPC-000508	DPC-000736	PIK3CD	MAPKAPK2		PI3K_AKT_MTOR	False	True	reviewer-defined source-backed mapping; no response statistics
+DPC-000508	DPC-000822	PIK3CD	MTOR		PI3K_AKT_MTOR	False	True	reviewer-defined source-backed mapping; no response statistics
+DPC-000508	DPC-001050	PIK3CD	MTOR	PI3K	PI3K_AKT_MTOR	True	True	reviewer-defined source-backed mapping; no response statistics
+DPC-000508	DPC-006860	PIK3CD	MTOR		PI3K_AKT_MTOR	False	True	reviewer-defined source-backed mapping; no response statistics
+DPC-000508	DPC-007474	PIK3CD	FKBP1A		PI3K_AKT_MTOR	False	True	reviewer-defined source-backed mapping; no response statistics
+DPC-000508	DPC-007478	PIK3CD	FKBP1A		PI3K_AKT_MTOR	False	True	reviewer-defined source-backed mapping; no response statistics
+DPC-000660	DPC-002828	DHODH	TYMS		NUCLEOTIDE_SYNTHESIS	False	True	reviewer-defined source-backed mapping; no response statistics
+DPC-000736	DPC-000822	MAPKAPK2	MTOR		PI3K_AKT_MTOR	False	True	reviewer-defined source-backed mapping; no response statistics
+DPC-000736	DPC-001050	MAPKAPK2	MTOR		PI3K_AKT_MTOR	False	True	reviewer-defined source-backed mapping; no response statistics
+DPC-000736	DPC-006860	MAPKAPK2	MTOR		PI3K_AKT_MTOR	False	True	reviewer-defined source-backed mapping; no response statistics
+DPC-000736	DPC-007474	MAPKAPK2	FKBP1A		PI3K_AKT_MTOR	False	True	reviewer-defined source-backed mapping; no response statistics
+DPC-000736	DPC-007478	MAPKAPK2	FKBP1A		PI3K_AKT_MTOR	False	True	reviewer-defined source-backed mapping; no response statistics
+DPC-000816	DPC-004577	KIT	ABL1	KIT;PDGFR	RTK	True	True	reviewer-defined source-backed mapping; no response statistics
+DPC-000816	DPC-005781	KIT	MET		RTK	False	True	reviewer-defined source-backed mapping; no response statistics
+DPC-000822	DPC-007474	MTOR	FKBP1A	MTOR	PI3K_AKT_MTOR	True	True	reviewer-defined source-backed mapping; no response statistics
+DPC-000822	DPC-007478	MTOR	FKBP1A	MTOR	PI3K_AKT_MTOR	True	True	reviewer-defined source-backed mapping; no response statistics
+DPC-000855	DPC-001018	CHEK1	ATR		REPLICATION_CHECKPOINT	False	True	reviewer-defined source-backed mapping; no response statistics
+DPC-000855	DPC-001615	CHEK1	ATR		REPLICATION_CHECKPOINT	False	True	reviewer-defined source-backed mapping; no response statistics
+DPC-001018	DPC-004266	ATR	CHEK1		REPLICATION_CHECKPOINT	False	True	reviewer-defined source-backed mapping; no response statistics
+DPC-001050	DPC-007474	MTOR	FKBP1A	MTOR	PI3K_AKT_MTOR	True	True	reviewer-defined source-backed mapping; no response statistics
+DPC-001050	DPC-007478	MTOR	FKBP1A	MTOR	PI3K_AKT_MTOR	True	True	reviewer-defined source-backed mapping; no response statistics
+DPC-001615	DPC-004266	ATR	CHEK1		REPLICATION_CHECKPOINT	False	True	reviewer-defined source-backed mapping; no response statistics
+DPC-001942	DPC-002515	BTK	SYK		BCR_TCR	False	True	reviewer-defined source-backed mapping; no response statistics
+DPC-003469	DPC-004229	TOP1	TOP2A		TOPOISOMERASE	False	True	reviewer-defined source-backed mapping; no response statistics
+DPC-004229	DPC-006002	TOP2A	TOP1		TOPOISOMERASE	False	True	reviewer-defined source-backed mapping; no response statistics
+DPC-004229	DPC-006564	TOP2A	TOP1		TOPOISOMERASE	False	True	reviewer-defined source-backed mapping; no response statistics
+DPC-004577	DPC-005781	ABL1	MET		RTK	False	True	reviewer-defined source-backed mapping; no response statistics
+DPC-006860	DPC-007474	MTOR	FKBP1A	MTOR	PI3K_AKT_MTOR	True	True	reviewer-defined source-backed mapping; no response statistics
+DPC-006860	DPC-007478	MTOR	FKBP1A	MTOR	PI3K_AKT_MTOR	True	True	reviewer-defined source-backed mapping; no response statistics

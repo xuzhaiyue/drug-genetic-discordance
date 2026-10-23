@@ -1,0 +1,2788 @@
+target	ModelID	lineage	n_same_lineage_v1_1	keep_v1_2	reason
+EGFR	ACH-000001	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+EGFR	ACH-000004	Myeloid	15	True	retained_non_singleton_lineage
+EGFR	ACH-000009	Bowel	30	True	retained_non_singleton_lineage
+EGFR	ACH-000012	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000015	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000018	Bladder/Urinary Tract	13	True	retained_non_singleton_lineage
+EGFR	ACH-000019	Breast	28	True	retained_non_singleton_lineage
+EGFR	ACH-000021	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000023	Pancreas	21	True	retained_non_singleton_lineage
+EGFR	ACH-000024	Lymphoid	49	True	retained_non_singleton_lineage
+EGFR	ACH-000030	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000035	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000040	CNS/Brain	35	True	retained_non_singleton_lineage
+EGFR	ACH-000042	Pancreas	21	True	retained_non_singleton_lineage
+EGFR	ACH-000048	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+EGFR	ACH-000052	Bone	14	True	retained_non_singleton_lineage
+EGFR	ACH-000053	Lymphoid	49	True	retained_non_singleton_lineage
+EGFR	ACH-000054	Soft Tissue	8	True	retained_non_singleton_lineage
+EGFR	ACH-000055	CNS/Brain	35	True	retained_non_singleton_lineage
+EGFR	ACH-000060	Pancreas	21	True	retained_non_singleton_lineage
+EGFR	ACH-000067	CNS/Brain	35	True	retained_non_singleton_lineage
+EGFR	ACH-000070	Lymphoid	49	True	retained_non_singleton_lineage
+EGFR	ACH-000074	Myeloid	15	True	retained_non_singleton_lineage
+EGFR	ACH-000075	CNS/Brain	35	True	retained_non_singleton_lineage
+EGFR	ACH-000078	Peripheral Nervous System	13	True	retained_non_singleton_lineage
+EGFR	ACH-000082	Bone	14	True	retained_non_singleton_lineage
+EGFR	ACH-000087	Bone	14	True	retained_non_singleton_lineage
+EGFR	ACH-000090	Prostate	5	True	retained_non_singleton_lineage
+EGFR	ACH-000094	Pancreas	21	True	retained_non_singleton_lineage
+EGFR	ACH-000096	Kidney	12	True	retained_non_singleton_lineage
+EGFR	ACH-000098	CNS/Brain	35	True	retained_non_singleton_lineage
+EGFR	ACH-000099	Peripheral Nervous System	13	True	retained_non_singleton_lineage
+EGFR	ACH-000100	Soft Tissue	8	True	retained_non_singleton_lineage
+EGFR	ACH-000101	Lymphoid	49	True	retained_non_singleton_lineage
+EGFR	ACH-000106	Lymphoid	49	True	retained_non_singleton_lineage
+EGFR	ACH-000108	Pancreas	21	True	retained_non_singleton_lineage
+EGFR	ACH-000111	Breast	28	True	retained_non_singleton_lineage
+EGFR	ACH-000113	Myeloid	15	True	retained_non_singleton_lineage
+EGFR	ACH-000114	Pancreas	21	True	retained_non_singleton_lineage
+EGFR	ACH-000115	Prostate	5	True	retained_non_singleton_lineage
+EGFR	ACH-000116	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+EGFR	ACH-000118	Pancreas	21	True	retained_non_singleton_lineage
+EGFR	ACH-000120	Peripheral Nervous System	13	True	retained_non_singleton_lineage
+EGFR	ACH-000132	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+EGFR	ACH-000137	CNS/Brain	35	True	retained_non_singleton_lineage
+EGFR	ACH-000138	Pancreas	21	True	retained_non_singleton_lineage
+EGFR	ACH-000142	Bladder/Urinary Tract	13	True	retained_non_singleton_lineage
+EGFR	ACH-000144	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+EGFR	ACH-000145	Soft Tissue	8	True	retained_non_singleton_lineage
+EGFR	ACH-000146	Myeloid	15	True	retained_non_singleton_lineage
+EGFR	ACH-000147	Breast	28	True	retained_non_singleton_lineage
+EGFR	ACH-000148	Breast	28	True	retained_non_singleton_lineage
+EGFR	ACH-000151	Lymphoid	49	True	retained_non_singleton_lineage
+EGFR	ACH-000153	Pleura	6	True	retained_non_singleton_lineage
+EGFR	ACH-000159	Kidney	12	True	retained_non_singleton_lineage
+EGFR	ACH-000161	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000168	Myeloid	15	True	retained_non_singleton_lineage
+EGFR	ACH-000169	Soft Tissue	8	True	retained_non_singleton_lineage
+EGFR	ACH-000174	Thyroid	9	True	retained_non_singleton_lineage
+EGFR	ACH-000176	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000181	Head and Neck	21	True	retained_non_singleton_lineage
+EGFR	ACH-000183	Lymphoid	49	True	retained_non_singleton_lineage
+EGFR	ACH-000187	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000188	Head and Neck	21	True	retained_non_singleton_lineage
+EGFR	ACH-000189	Kidney	12	True	retained_non_singleton_lineage
+EGFR	ACH-000191	Thyroid	9	True	retained_non_singleton_lineage
+EGFR	ACH-000192	Uterus	14	True	retained_non_singleton_lineage
+EGFR	ACH-000197	Lymphoid	49	True	retained_non_singleton_lineage
+EGFR	ACH-000198	Myeloid	15	True	retained_non_singleton_lineage
+EGFR	ACH-000200	CNS/Brain	35	True	retained_non_singleton_lineage
+EGFR	ACH-000204	Lymphoid	49	True	retained_non_singleton_lineage
+EGFR	ACH-000207	Head and Neck	21	True	retained_non_singleton_lineage
+EGFR	ACH-000210	Bone	14	True	retained_non_singleton_lineage
+EGFR	ACH-000211	CNS/Brain	35	True	retained_non_singleton_lineage
+EGFR	ACH-000212	Breast	28	True	retained_non_singleton_lineage
+EGFR	ACH-000213	Pancreas	21	True	retained_non_singleton_lineage
+EGFR	ACH-000217	Liver	13	True	retained_non_singleton_lineage
+EGFR	ACH-000221	Liver	13	True	retained_non_singleton_lineage
+EGFR	ACH-000222	Pancreas	21	True	retained_non_singleton_lineage
+EGFR	ACH-000223	Breast	28	True	retained_non_singleton_lineage
+EGFR	ACH-000226	Lymphoid	49	True	retained_non_singleton_lineage
+EGFR	ACH-000227	Peripheral Nervous System	13	True	retained_non_singleton_lineage
+EGFR	ACH-000228	Head and Neck	21	True	retained_non_singleton_lineage
+EGFR	ACH-000231	CNS/Brain	35	True	retained_non_singleton_lineage
+EGFR	ACH-000232	CNS/Brain	35	True	retained_non_singleton_lineage
+EGFR	ACH-000233	Lymphoid	49	True	retained_non_singleton_lineage
+EGFR	ACH-000238	Head and Neck	21	True	retained_non_singleton_lineage
+EGFR	ACH-000242	Bladder/Urinary Tract	13	True	retained_non_singleton_lineage
+EGFR	ACH-000243	Pancreas	21	True	retained_non_singleton_lineage
+EGFR	ACH-000244	CNS/Brain	35	True	retained_non_singleton_lineage
+EGFR	ACH-000247	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+EGFR	ACH-000248	Breast	28	True	retained_non_singleton_lineage
+EGFR	ACH-000249	Bowel	30	True	retained_non_singleton_lineage
+EGFR	ACH-000250	Kidney	12	True	retained_non_singleton_lineage
+EGFR	ACH-000258	Breast	28	True	retained_non_singleton_lineage
+EGFR	ACH-000259	Peripheral Nervous System	13	True	retained_non_singleton_lineage
+EGFR	ACH-000260	Peripheral Nervous System	13	True	retained_non_singleton_lineage
+EGFR	ACH-000263	Myeloid	15	True	retained_non_singleton_lineage
+EGFR	ACH-000264	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000265	Pancreas	21	True	retained_non_singleton_lineage
+EGFR	ACH-000269	CNS/Brain	35	True	retained_non_singleton_lineage
+EGFR	ACH-000271	Lymphoid	49	True	retained_non_singleton_lineage
+EGFR	ACH-000273	CNS/Brain	35	True	retained_non_singleton_lineage
+EGFR	ACH-000276	Breast	28	True	retained_non_singleton_lineage
+EGFR	ACH-000277	Breast	28	True	retained_non_singleton_lineage
+EGFR	ACH-000281	Pancreas	21	True	retained_non_singleton_lineage
+EGFR	ACH-000288	Breast	28	True	retained_non_singleton_lineage
+EGFR	ACH-000290	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000291	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+EGFR	ACH-000292	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000293	Uterus	14	True	retained_non_singleton_lineage
+EGFR	ACH-000294	Myeloid	15	True	retained_non_singleton_lineage
+EGFR	ACH-000295	Myeloid	15	True	retained_non_singleton_lineage
+EGFR	ACH-000303	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+EGFR	ACH-000304	Skin	22	True	retained_non_singleton_lineage
+EGFR	ACH-000305	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+EGFR	ACH-000308	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+EGFR	ACH-000311	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000315	Lymphoid	49	True	retained_non_singleton_lineage
+EGFR	ACH-000318	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+EGFR	ACH-000319	Pleura	6	True	retained_non_singleton_lineage
+EGFR	ACH-000320	Pancreas	21	True	retained_non_singleton_lineage
+EGFR	ACH-000322	Skin	22	True	retained_non_singleton_lineage
+EGFR	ACH-000323	CNS/Brain	35	True	retained_non_singleton_lineage
+EGFR	ACH-000330	Breast	28	True	retained_non_singleton_lineage
+EGFR	ACH-000332	Pancreas	21	True	retained_non_singleton_lineage
+EGFR	ACH-000334	Lymphoid	49	True	retained_non_singleton_lineage
+EGFR	ACH-000335	Pleura	6	True	retained_non_singleton_lineage
+EGFR	ACH-000336	Myeloid	15	True	retained_non_singleton_lineage
+EGFR	ACH-000337	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000338	Lymphoid	49	True	retained_non_singleton_lineage
+EGFR	ACH-000343	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000345	Peripheral Nervous System	13	True	retained_non_singleton_lineage
+EGFR	ACH-000346	Lymphoid	49	True	retained_non_singleton_lineage
+EGFR	ACH-000348	Skin	22	True	retained_non_singleton_lineage
+EGFR	ACH-000350	Bowel	30	True	retained_non_singleton_lineage
+EGFR	ACH-000352	Breast	28	True	retained_non_singleton_lineage
+EGFR	ACH-000354	Pancreas	21	True	retained_non_singleton_lineage
+EGFR	ACH-000355	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000356	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+EGFR	ACH-000359	Bone	14	True	retained_non_singleton_lineage
+EGFR	ACH-000361	Liver	13	True	retained_non_singleton_lineage
+EGFR	ACH-000362	Myeloid	15	True	retained_non_singleton_lineage
+EGFR	ACH-000363	Lymphoid	49	True	retained_non_singleton_lineage
+EGFR	ACH-000364	Bone	14	True	retained_non_singleton_lineage
+EGFR	ACH-000365	Lymphoid	49	True	retained_non_singleton_lineage
+EGFR	ACH-000366	Peripheral Nervous System	13	True	retained_non_singleton_lineage
+EGFR	ACH-000367	Pleura	6	True	retained_non_singleton_lineage
+EGFR	ACH-000371	Lymphoid	49	True	retained_non_singleton_lineage
+EGFR	ACH-000373	Myeloid	15	True	retained_non_singleton_lineage
+EGFR	ACH-000374	Breast	28	True	retained_non_singleton_lineage
+EGFR	ACH-000375	Kidney	12	True	retained_non_singleton_lineage
+EGFR	ACH-000376	CNS/Brain	35	True	retained_non_singleton_lineage
+EGFR	ACH-000378	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000381	Bowel	30	True	retained_non_singleton_lineage
+EGFR	ACH-000383	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+EGFR	ACH-000389	CNS/Brain	35	True	retained_non_singleton_lineage
+EGFR	ACH-000391	Bone	14	True	retained_non_singleton_lineage
+EGFR	ACH-000395	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000396	Bladder/Urinary Tract	13	True	retained_non_singleton_lineage
+EGFR	ACH-000401	Skin	22	True	retained_non_singleton_lineage
+EGFR	ACH-000403	Bowel	30	True	retained_non_singleton_lineage
+EGFR	ACH-000408	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+EGFR	ACH-000410	Bone	14	True	retained_non_singleton_lineage
+EGFR	ACH-000411	Kidney	12	True	retained_non_singleton_lineage
+EGFR	ACH-000414	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000416	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000417	Pancreas	21	True	retained_non_singleton_lineage
+EGFR	ACH-000420	Liver	13	True	retained_non_singleton_lineage
+EGFR	ACH-000421	Bowel	30	True	retained_non_singleton_lineage
+EGFR	ACH-000424	Bone	14	True	retained_non_singleton_lineage
+EGFR	ACH-000425	Skin	22	True	retained_non_singleton_lineage
+EGFR	ACH-000427	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+EGFR	ACH-000430	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+EGFR	ACH-000431	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000433	Kidney	12	True	retained_non_singleton_lineage
+EGFR	ACH-000434	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000437	CNS/Brain	35	True	retained_non_singleton_lineage
+EGFR	ACH-000438	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000441	Skin	22	True	retained_non_singleton_lineage
+EGFR	ACH-000442	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000448	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000450	Skin	22	True	retained_non_singleton_lineage
+EGFR	ACH-000452	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+EGFR	ACH-000456	Thyroid	9	True	retained_non_singleton_lineage
+EGFR	ACH-000463	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000464	CNS/Brain	35	True	retained_non_singleton_lineage
+EGFR	ACH-000469	CNS/Brain	35	True	retained_non_singleton_lineage
+EGFR	ACH-000470	Bowel	30	True	retained_non_singleton_lineage
+EGFR	ACH-000472	Head and Neck	21	True	retained_non_singleton_lineage
+EGFR	ACH-000473	Bladder/Urinary Tract	13	True	retained_non_singleton_lineage
+EGFR	ACH-000475	Liver	13	True	retained_non_singleton_lineage
+EGFR	ACH-000476	Liver	13	True	retained_non_singleton_lineage
+EGFR	ACH-000478	Liver	13	True	retained_non_singleton_lineage
+EGFR	ACH-000480	Liver	13	True	retained_non_singleton_lineage
+EGFR	ACH-000481	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000484	Kidney	12	True	retained_non_singleton_lineage
+EGFR	ACH-000486	Bladder/Urinary Tract	13	True	retained_non_singleton_lineage
+EGFR	ACH-000488	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+EGFR	ACH-000489	Bowel	30	True	retained_non_singleton_lineage
+EGFR	ACH-000491	Bowel	30	True	retained_non_singleton_lineage
+EGFR	ACH-000493	Liver	13	True	retained_non_singleton_lineage
+EGFR	ACH-000496	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000501	Bowel	30	True	retained_non_singleton_lineage
+EGFR	ACH-000504	CNS/Brain	35	True	retained_non_singleton_lineage
+EGFR	ACH-000505	Soft Tissue	8	True	retained_non_singleton_lineage
+EGFR	ACH-000510	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000514	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000515	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000516	Bone	14	True	retained_non_singleton_lineage
+EGFR	ACH-000518	Head and Neck	21	True	retained_non_singleton_lineage
+EGFR	ACH-000521	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000524	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+EGFR	ACH-000525	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000527	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+EGFR	ACH-000528	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000532	Bowel	30	True	retained_non_singleton_lineage
+EGFR	ACH-000535	Pancreas	21	True	retained_non_singleton_lineage
+EGFR	ACH-000544	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+EGFR	ACH-000546	Head and Neck	21	True	retained_non_singleton_lineage
+EGFR	ACH-000547	Bladder/Urinary Tract	13	True	retained_non_singleton_lineage
+EGFR	ACH-000548	Head and Neck	21	True	retained_non_singleton_lineage
+EGFR	ACH-000551	Myeloid	15	True	retained_non_singleton_lineage
+EGFR	ACH-000552	Bowel	30	True	retained_non_singleton_lineage
+EGFR	ACH-000554	Breast	28	True	retained_non_singleton_lineage
+EGFR	ACH-000556	Cervix	9	True	retained_non_singleton_lineage
+EGFR	ACH-000558	CNS/Brain	35	True	retained_non_singleton_lineage
+EGFR	ACH-000559	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000562	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000563	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000565	Bowel	30	True	retained_non_singleton_lineage
+EGFR	ACH-000567	Lymphoid	49	True	retained_non_singleton_lineage
+EGFR	ACH-000569	Pleura	6	True	retained_non_singleton_lineage
+EGFR	ACH-000570	CNS/Brain	35	True	retained_non_singleton_lineage
+EGFR	ACH-000571	CNS/Brain	35	True	retained_non_singleton_lineage
+EGFR	ACH-000573	Breast	28	True	retained_non_singleton_lineage
+EGFR	ACH-000577	Liver	13	True	retained_non_singleton_lineage
+EGFR	ACH-000579	Skin	22	True	retained_non_singleton_lineage
+EGFR	ACH-000580	Skin	22	True	retained_non_singleton_lineage
+EGFR	ACH-000583	Lymphoid	49	True	retained_non_singleton_lineage
+EGFR	ACH-000584	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+EGFR	ACH-000585	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000587	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000589	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000595	CNS/Brain	35	True	retained_non_singleton_lineage
+EGFR	ACH-000596	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000599	Pancreas	21	True	retained_non_singleton_lineage
+EGFR	ACH-000601	Pancreas	21	True	retained_non_singleton_lineage
+EGFR	ACH-000605	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+EGFR	ACH-000607	Kidney	12	True	retained_non_singleton_lineage
+EGFR	ACH-000609	CNS/Brain	35	True	retained_non_singleton_lineage
+EGFR	ACH-000614	Skin	22	True	retained_non_singleton_lineage
+EGFR	ACH-000616	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+EGFR	ACH-000619	Head and Neck	21	True	retained_non_singleton_lineage
+EGFR	ACH-000620	Liver	13	True	retained_non_singleton_lineage
+EGFR	ACH-000621	Breast	28	True	retained_non_singleton_lineage
+EGFR	ACH-000622	CNS/Brain	35	True	retained_non_singleton_lineage
+EGFR	ACH-000624	Breast	28	True	retained_non_singleton_lineage
+EGFR	ACH-000627	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000631	CNS/Brain	35	True	retained_non_singleton_lineage
+EGFR	ACH-000637	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+EGFR	ACH-000638	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000639	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000647	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+EGFR	ACH-000648	Pleura	6	True	retained_non_singleton_lineage
+EGFR	ACH-000649	Kidney	12	True	retained_non_singleton_lineage
+EGFR	ACH-000651	Bowel	30	True	retained_non_singleton_lineage
+EGFR	ACH-000652	Pancreas	21	True	retained_non_singleton_lineage
+EGFR	ACH-000653	Lymphoid	49	True	retained_non_singleton_lineage
+EGFR	ACH-000654	Lymphoid	49	True	retained_non_singleton_lineage
+EGFR	ACH-000655	CNS/Brain	35	True	retained_non_singleton_lineage
+EGFR	ACH-000656	Lymphoid	49	True	retained_non_singleton_lineage
+EGFR	ACH-000657	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+EGFR	ACH-000660	Lymphoid	49	True	retained_non_singleton_lineage
+EGFR	ACH-000662	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000663	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+EGFR	ACH-000664	Lymphoid	49	True	retained_non_singleton_lineage
+EGFR	ACH-000665	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000666	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000667	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000668	Breast	28	True	retained_non_singleton_lineage
+EGFR	ACH-000672	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000677	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000681	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000688	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+EGFR	ACH-000693	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+EGFR	ACH-000694	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+EGFR	ACH-000696	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+EGFR	ACH-000697	Lymphoid	49	True	retained_non_singleton_lineage
+EGFR	ACH-000698	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000702	Lymphoid	49	True	retained_non_singleton_lineage
+EGFR	ACH-000704	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+EGFR	ACH-000706	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000711	Breast	28	True	retained_non_singleton_lineage
+EGFR	ACH-000713	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+EGFR	ACH-000714	Lymphoid	49	True	retained_non_singleton_lineage
+EGFR	ACH-000716	Thyroid	9	True	retained_non_singleton_lineage
+EGFR	ACH-000717	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+EGFR	ACH-000718	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000720	Bladder/Urinary Tract	13	True	retained_non_singleton_lineage
+EGFR	ACH-000722	Bowel	30	True	retained_non_singleton_lineage
+EGFR	ACH-000724	Bladder/Urinary Tract	13	True	retained_non_singleton_lineage
+EGFR	ACH-000738	CNS/Brain	35	True	retained_non_singleton_lineage
+EGFR	ACH-000740	Head and Neck	21	True	retained_non_singleton_lineage
+EGFR	ACH-000749	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000754	Lymphoid	49	True	retained_non_singleton_lineage
+EGFR	ACH-000756	CNS/Brain	35	True	retained_non_singleton_lineage
+EGFR	ACH-000757	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000763	Lymphoid	49	True	retained_non_singleton_lineage
+EGFR	ACH-000767	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000768	Breast	28	True	retained_non_singleton_lineage
+EGFR	ACH-000769	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000775	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000776	CNS/Brain	35	True	retained_non_singleton_lineage
+EGFR	ACH-000778	Head and Neck	21	True	retained_non_singleton_lineage
+EGFR	ACH-000781	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000783	Breast	28	True	retained_non_singleton_lineage
+EGFR	ACH-000784	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+EGFR	ACH-000787	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000788	Skin	22	True	retained_non_singleton_lineage
+EGFR	ACH-000790	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000792	Kidney	12	True	retained_non_singleton_lineage
+EGFR	ACH-000793	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+EGFR	ACH-000794	Head and Neck	21	True	retained_non_singleton_lineage
+EGFR	ACH-000800	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000802	Bladder/Urinary Tract	13	True	retained_non_singleton_lineage
+EGFR	ACH-000805	Skin	22	True	retained_non_singleton_lineage
+EGFR	ACH-000809	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+EGFR	ACH-000810	Skin	22	True	retained_non_singleton_lineage
+EGFR	ACH-000811	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+EGFR	ACH-000817	Lymphoid	49	True	retained_non_singleton_lineage
+EGFR	ACH-000819	CNS/Brain	35	True	retained_non_singleton_lineage
+EGFR	ACH-000821	Lymphoid	49	True	retained_non_singleton_lineage
+EGFR	ACH-000822	Skin	22	True	retained_non_singleton_lineage
+EGFR	ACH-000823	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+EGFR	ACH-000824	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+EGFR	ACH-000826	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000827	Skin	22	True	retained_non_singleton_lineage
+EGFR	ACH-000832	Head and Neck	21	True	retained_non_singleton_lineage
+EGFR	ACH-000835	Soft Tissue	8	True	retained_non_singleton_lineage
+EGFR	ACH-000838	Lymphoid	49	True	retained_non_singleton_lineage
+EGFR	ACH-000840	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000841	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000843	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000846	Head and Neck	21	True	retained_non_singleton_lineage
+EGFR	ACH-000847	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+EGFR	ACH-000848	Liver	13	True	retained_non_singleton_lineage
+EGFR	ACH-000849	Breast	28	True	retained_non_singleton_lineage
+EGFR	ACH-000853	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000856	Breast	28	True	retained_non_singleton_lineage
+EGFR	ACH-000858	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000859	Breast	28	True	retained_non_singleton_lineage
+EGFR	ACH-000860	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000861	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000863	CNS/Brain	35	True	retained_non_singleton_lineage
+EGFR	ACH-000864	Uterus	14	True	retained_non_singleton_lineage
+EGFR	ACH-000865	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+EGFR	ACH-000866	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000867	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000869	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000871	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000873	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+EGFR	ACH-000874	Lymphoid	49	True	retained_non_singleton_lineage
+EGFR	ACH-000876	Breast	28	True	retained_non_singleton_lineage
+EGFR	ACH-000878	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000879	Uterus	14	True	retained_non_singleton_lineage
+EGFR	ACH-000880	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+EGFR	ACH-000881	Skin	22	True	retained_non_singleton_lineage
+EGFR	ACH-000882	Skin	22	True	retained_non_singleton_lineage
+EGFR	ACH-000885	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+EGFR	ACH-000888	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000890	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000894	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000896	Bladder/Urinary Tract	13	True	retained_non_singleton_lineage
+EGFR	ACH-000900	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000903	Thyroid	9	True	retained_non_singleton_lineage
+EGFR	ACH-000905	Bladder/Urinary Tract	13	True	retained_non_singleton_lineage
+EGFR	ACH-000906	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+EGFR	ACH-000910	Breast	28	True	retained_non_singleton_lineage
+EGFR	ACH-000911	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+EGFR	ACH-000913	Uterus	14	True	retained_non_singleton_lineage
+EGFR	ACH-000914	Lymphoid	49	True	retained_non_singleton_lineage
+EGFR	ACH-000915	Skin	22	True	retained_non_singleton_lineage
+EGFR	ACH-000917	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+EGFR	ACH-000919	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+EGFR	ACH-000920	Myeloid	15	True	retained_non_singleton_lineage
+EGFR	ACH-000922	Lymphoid	49	True	retained_non_singleton_lineage
+EGFR	ACH-000924	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000926	Bowel	30	True	retained_non_singleton_lineage
+EGFR	ACH-000929	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000932	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+EGFR	ACH-000934	Breast	28	True	retained_non_singleton_lineage
+EGFR	ACH-000935	Bowel	30	True	retained_non_singleton_lineage
+EGFR	ACH-000936	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+EGFR	ACH-000937	Lymphoid	49	True	retained_non_singleton_lineage
+EGFR	ACH-000938	Lymphoid	49	True	retained_non_singleton_lineage
+EGFR	ACH-000939	Uterus	14	True	retained_non_singleton_lineage
+EGFR	ACH-000943	Bowel	30	True	retained_non_singleton_lineage
+EGFR	ACH-000944	Lymphoid	49	True	retained_non_singleton_lineage
+EGFR	ACH-000945	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000947	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+EGFR	ACH-000948	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+EGFR	ACH-000950	Bowel	30	True	retained_non_singleton_lineage
+EGFR	ACH-000953	Lymphoid	49	True	retained_non_singleton_lineage
+EGFR	ACH-000956	Prostate	5	True	retained_non_singleton_lineage
+EGFR	ACH-000957	Bowel	30	True	retained_non_singleton_lineage
+EGFR	ACH-000958	Bowel	30	True	retained_non_singleton_lineage
+EGFR	ACH-000960	Lymphoid	49	True	retained_non_singleton_lineage
+EGFR	ACH-000963	Bowel	30	True	retained_non_singleton_lineage
+EGFR	ACH-000965	Uterus	14	True	retained_non_singleton_lineage
+EGFR	ACH-000966	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+EGFR	ACH-000968	Skin	22	True	retained_non_singleton_lineage
+EGFR	ACH-000969	Bowel	30	True	retained_non_singleton_lineage
+EGFR	ACH-000970	Bowel	30	True	retained_non_singleton_lineage
+EGFR	ACH-000973	Bladder/Urinary Tract	13	True	retained_non_singleton_lineage
+EGFR	ACH-000974	Uterus	14	True	retained_non_singleton_lineage
+EGFR	ACH-000976	Biliary Tract	1	False	singleton_lineage_in_frozen_target_mask
+EGFR	ACH-000978	Uterus	14	True	retained_non_singleton_lineage
+EGFR	ACH-000979	Prostate	5	True	retained_non_singleton_lineage
+EGFR	ACH-000980	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-000981	Lymphoid	49	True	retained_non_singleton_lineage
+EGFR	ACH-000983	Myeloid	15	True	retained_non_singleton_lineage
+EGFR	ACH-000985	Bowel	30	True	retained_non_singleton_lineage
+EGFR	ACH-000986	Bowel	30	True	retained_non_singleton_lineage
+EGFR	ACH-000988	Uterus	14	True	retained_non_singleton_lineage
+EGFR	ACH-000991	Bowel	30	True	retained_non_singleton_lineage
+EGFR	ACH-000995	Lymphoid	49	True	retained_non_singleton_lineage
+EGFR	ACH-000997	Bowel	30	True	retained_non_singleton_lineage
+EGFR	ACH-001016	CNS/Brain	35	True	retained_non_singleton_lineage
+EGFR	ACH-001021	Liver	13	True	retained_non_singleton_lineage
+EGFR	ACH-001075	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-001151	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+EGFR	ACH-001190	Skin	22	True	retained_non_singleton_lineage
+EGFR	ACH-001193	Bone	14	True	retained_non_singleton_lineage
+EGFR	ACH-001227	Head and Neck	21	True	retained_non_singleton_lineage
+EGFR	ACH-001274	Soft Tissue	8	True	retained_non_singleton_lineage
+EGFR	ACH-001306	Thyroid	9	True	retained_non_singleton_lineage
+EGFR	ACH-001307	Thyroid	9	True	retained_non_singleton_lineage
+EGFR	ACH-001328	Skin	22	True	retained_non_singleton_lineage
+EGFR	ACH-001332	Head and Neck	21	True	retained_non_singleton_lineage
+EGFR	ACH-001333	Cervix	9	True	retained_non_singleton_lineage
+EGFR	ACH-001334	Cervix	9	True	retained_non_singleton_lineage
+EGFR	ACH-001336	Cervix	9	True	retained_non_singleton_lineage
+EGFR	ACH-001338	Peripheral Nervous System	13	True	retained_non_singleton_lineage
+EGFR	ACH-001341	Cervix	9	True	retained_non_singleton_lineage
+EGFR	ACH-001344	Peripheral Nervous System	13	True	retained_non_singleton_lineage
+EGFR	ACH-001345	Bowel	30	True	retained_non_singleton_lineage
+EGFR	ACH-001360	Cervix	9	True	retained_non_singleton_lineage
+EGFR	ACH-001368	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+EGFR	ACH-001374	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+EGFR	ACH-001398	Kidney	12	True	retained_non_singleton_lineage
+EGFR	ACH-001399	Bowel	30	True	retained_non_singleton_lineage
+EGFR	ACH-001400	Vulva/Vagina	1	False	singleton_lineage_in_frozen_target_mask
+EGFR	ACH-001401	Adrenal Gland	1	False	singleton_lineage_in_frozen_target_mask
+EGFR	ACH-001402	Cervix	9	True	retained_non_singleton_lineage
+EGFR	ACH-001418	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+EGFR	ACH-001442	Skin	22	True	retained_non_singleton_lineage
+EGFR	ACH-001443	Thyroid	9	True	retained_non_singleton_lineage
+EGFR	ACH-001453	Prostate	5	True	retained_non_singleton_lineage
+EGFR	ACH-001496	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+EGFR	ACH-001497	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+EGFR	ACH-001498	Lymphoid	49	True	retained_non_singleton_lineage
+EGFR	ACH-001500	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+EGFR	ACH-001517	Uterus	14	True	retained_non_singleton_lineage
+EGFR	ACH-001525	Cervix	9	True	retained_non_singleton_lineage
+EGFR	ACH-001526	Bone	14	True	retained_non_singleton_lineage
+EGFR	ACH-001528	Thyroid	9	True	retained_non_singleton_lineage
+EGFR	ACH-001529	Uterus	14	True	retained_non_singleton_lineage
+EGFR	ACH-001530	Uterus	14	True	retained_non_singleton_lineage
+EGFR	ACH-001542	Head and Neck	21	True	retained_non_singleton_lineage
+EGFR	ACH-001543	Head and Neck	21	True	retained_non_singleton_lineage
+EGFR	ACH-001549	Lung	85	True	retained_non_singleton_lineage
+EGFR	ACH-001603	Peripheral Nervous System	13	True	retained_non_singleton_lineage
+EGFR	ACH-001606	CNS/Brain	35	True	retained_non_singleton_lineage
+EGFR	ACH-001626	Head and Neck	21	True	retained_non_singleton_lineage
+EGFR	ACH-001630	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+EGFR	ACH-001641	Head and Neck	21	True	retained_non_singleton_lineage
+EGFR	ACH-001642	Lymphoid	49	True	retained_non_singleton_lineage
+EGFR	ACH-001650	Cervix	9	True	retained_non_singleton_lineage
+EGFR	ACH-001653	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+EGFR	ACH-001654	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+EGFR	ACH-001655	Uterus	14	True	retained_non_singleton_lineage
+EGFR	ACH-001674	Peripheral Nervous System	13	True	retained_non_singleton_lineage
+EGFR	ACH-001702	Soft Tissue	8	True	retained_non_singleton_lineage
+EGFR	ACH-001709	Lymphoid	49	True	retained_non_singleton_lineage
+EGFR	ACH-001715	Bone	14	True	retained_non_singleton_lineage
+EGFR	ACH-002142	Bone	14	True	retained_non_singleton_lineage
+EGFR	ACH-002214	Lymphoid	49	True	retained_non_singleton_lineage
+EGFR	ACH-002215	Lymphoid	49	True	retained_non_singleton_lineage
+EGFR	ACH-002283	Peripheral Nervous System	13	True	retained_non_singleton_lineage
+MTOR	ACH-000001	Ovary/Fallopian Tube	19	True	retained_non_singleton_lineage
+MTOR	ACH-000009	Bowel	32	True	retained_non_singleton_lineage
+MTOR	ACH-000012	Lung	65	True	retained_non_singleton_lineage
+MTOR	ACH-000015	Lung	65	True	retained_non_singleton_lineage
+MTOR	ACH-000019	Breast	27	True	retained_non_singleton_lineage
+MTOR	ACH-000021	Lung	65	True	retained_non_singleton_lineage
+MTOR	ACH-000023	Pancreas	20	True	retained_non_singleton_lineage
+MTOR	ACH-000024	Lymphoid	33	True	retained_non_singleton_lineage
+MTOR	ACH-000030	Lung	65	True	retained_non_singleton_lineage
+MTOR	ACH-000035	Lung	65	True	retained_non_singleton_lineage
+MTOR	ACH-000040	CNS/Brain	27	True	retained_non_singleton_lineage
+MTOR	ACH-000042	Pancreas	20	True	retained_non_singleton_lineage
+MTOR	ACH-000048	Ovary/Fallopian Tube	19	True	retained_non_singleton_lineage
+MTOR	ACH-000052	Bone	14	True	retained_non_singleton_lineage
+MTOR	ACH-000054	Soft Tissue	8	True	retained_non_singleton_lineage
+MTOR	ACH-000055	CNS/Brain	27	True	retained_non_singleton_lineage
+MTOR	ACH-000060	Pancreas	20	True	retained_non_singleton_lineage
+MTOR	ACH-000070	Lymphoid	33	True	retained_non_singleton_lineage
+MTOR	ACH-000074	Myeloid	10	True	retained_non_singleton_lineage
+MTOR	ACH-000075	CNS/Brain	27	True	retained_non_singleton_lineage
+MTOR	ACH-000082	Bone	14	True	retained_non_singleton_lineage
+MTOR	ACH-000087	Bone	14	True	retained_non_singleton_lineage
+MTOR	ACH-000090	Prostate	6	True	retained_non_singleton_lineage
+MTOR	ACH-000096	Kidney	9	True	retained_non_singleton_lineage
+MTOR	ACH-000098	CNS/Brain	27	True	retained_non_singleton_lineage
+MTOR	ACH-000099	Peripheral Nervous System	9	True	retained_non_singleton_lineage
+MTOR	ACH-000100	Soft Tissue	8	True	retained_non_singleton_lineage
+MTOR	ACH-000101	Lymphoid	33	True	retained_non_singleton_lineage
+MTOR	ACH-000106	Lymphoid	33	True	retained_non_singleton_lineage
+MTOR	ACH-000108	Pancreas	20	True	retained_non_singleton_lineage
+MTOR	ACH-000111	Breast	27	True	retained_non_singleton_lineage
+MTOR	ACH-000113	Myeloid	10	True	retained_non_singleton_lineage
+MTOR	ACH-000114	Pancreas	20	True	retained_non_singleton_lineage
+MTOR	ACH-000115	Prostate	6	True	retained_non_singleton_lineage
+MTOR	ACH-000116	Ovary/Fallopian Tube	19	True	retained_non_singleton_lineage
+MTOR	ACH-000118	Pancreas	20	True	retained_non_singleton_lineage
+MTOR	ACH-000120	Peripheral Nervous System	9	True	retained_non_singleton_lineage
+MTOR	ACH-000137	CNS/Brain	27	True	retained_non_singleton_lineage
+MTOR	ACH-000138	Pancreas	20	True	retained_non_singleton_lineage
+MTOR	ACH-000142	Bladder/Urinary Tract	11	True	retained_non_singleton_lineage
+MTOR	ACH-000144	Esophagus/Stomach	35	True	retained_non_singleton_lineage
+MTOR	ACH-000145	Soft Tissue	8	True	retained_non_singleton_lineage
+MTOR	ACH-000147	Breast	27	True	retained_non_singleton_lineage
+MTOR	ACH-000148	Breast	27	True	retained_non_singleton_lineage
+MTOR	ACH-000153	Pleura	6	True	retained_non_singleton_lineage
+MTOR	ACH-000159	Kidney	9	True	retained_non_singleton_lineage
+MTOR	ACH-000161	Lung	65	True	retained_non_singleton_lineage
+MTOR	ACH-000168	Myeloid	10	True	retained_non_singleton_lineage
+MTOR	ACH-000169	Soft Tissue	8	True	retained_non_singleton_lineage
+MTOR	ACH-000174	Thyroid	9	True	retained_non_singleton_lineage
+MTOR	ACH-000176	Lung	65	True	retained_non_singleton_lineage
+MTOR	ACH-000181	Head and Neck	15	True	retained_non_singleton_lineage
+MTOR	ACH-000183	Lymphoid	33	True	retained_non_singleton_lineage
+MTOR	ACH-000187	Lung	65	True	retained_non_singleton_lineage
+MTOR	ACH-000189	Kidney	9	True	retained_non_singleton_lineage
+MTOR	ACH-000191	Thyroid	9	True	retained_non_singleton_lineage
+MTOR	ACH-000192	Uterus	12	True	retained_non_singleton_lineage
+MTOR	ACH-000198	Myeloid	10	True	retained_non_singleton_lineage
+MTOR	ACH-000207	Head and Neck	15	True	retained_non_singleton_lineage
+MTOR	ACH-000210	Bone	14	True	retained_non_singleton_lineage
+MTOR	ACH-000211	CNS/Brain	27	True	retained_non_singleton_lineage
+MTOR	ACH-000212	Breast	27	True	retained_non_singleton_lineage
+MTOR	ACH-000213	Pancreas	20	True	retained_non_singleton_lineage
+MTOR	ACH-000217	Liver	12	True	retained_non_singleton_lineage
+MTOR	ACH-000219	Skin	16	True	retained_non_singleton_lineage
+MTOR	ACH-000221	Liver	12	True	retained_non_singleton_lineage
+MTOR	ACH-000222	Pancreas	20	True	retained_non_singleton_lineage
+MTOR	ACH-000223	Breast	27	True	retained_non_singleton_lineage
+MTOR	ACH-000226	Lymphoid	33	True	retained_non_singleton_lineage
+MTOR	ACH-000231	CNS/Brain	27	True	retained_non_singleton_lineage
+MTOR	ACH-000232	CNS/Brain	27	True	retained_non_singleton_lineage
+MTOR	ACH-000233	Lymphoid	33	True	retained_non_singleton_lineage
+MTOR	ACH-000238	Head and Neck	15	True	retained_non_singleton_lineage
+MTOR	ACH-000242	Bladder/Urinary Tract	11	True	retained_non_singleton_lineage
+MTOR	ACH-000243	Pancreas	20	True	retained_non_singleton_lineage
+MTOR	ACH-000244	CNS/Brain	27	True	retained_non_singleton_lineage
+MTOR	ACH-000247	Esophagus/Stomach	35	True	retained_non_singleton_lineage
+MTOR	ACH-000248	Breast	27	True	retained_non_singleton_lineage
+MTOR	ACH-000249	Bowel	32	True	retained_non_singleton_lineage
+MTOR	ACH-000250	Kidney	9	True	retained_non_singleton_lineage
+MTOR	ACH-000252	Bowel	32	True	retained_non_singleton_lineage
+MTOR	ACH-000258	Breast	27	True	retained_non_singleton_lineage
+MTOR	ACH-000259	Peripheral Nervous System	9	True	retained_non_singleton_lineage
+MTOR	ACH-000260	Peripheral Nervous System	9	True	retained_non_singleton_lineage
+MTOR	ACH-000264	Lung	65	True	retained_non_singleton_lineage
+MTOR	ACH-000265	Pancreas	20	True	retained_non_singleton_lineage
+MTOR	ACH-000269	CNS/Brain	27	True	retained_non_singleton_lineage
+MTOR	ACH-000271	Lymphoid	33	True	retained_non_singleton_lineage
+MTOR	ACH-000273	CNS/Brain	27	True	retained_non_singleton_lineage
+MTOR	ACH-000276	Breast	27	True	retained_non_singleton_lineage
+MTOR	ACH-000277	Breast	27	True	retained_non_singleton_lineage
+MTOR	ACH-000281	Pancreas	20	True	retained_non_singleton_lineage
+MTOR	ACH-000288	Breast	27	True	retained_non_singleton_lineage
+MTOR	ACH-000290	Lung	65	True	retained_non_singleton_lineage
+MTOR	ACH-000291	Ovary/Fallopian Tube	19	True	retained_non_singleton_lineage
+MTOR	ACH-000292	Lung	65	True	retained_non_singleton_lineage
+MTOR	ACH-000293	Uterus	12	True	retained_non_singleton_lineage
+MTOR	ACH-000295	Myeloid	10	True	retained_non_singleton_lineage
+MTOR	ACH-000303	Esophagus/Stomach	35	True	retained_non_singleton_lineage
+MTOR	ACH-000304	Skin	16	True	retained_non_singleton_lineage
+MTOR	ACH-000305	Esophagus/Stomach	35	True	retained_non_singleton_lineage
+MTOR	ACH-000308	Ovary/Fallopian Tube	19	True	retained_non_singleton_lineage
+MTOR	ACH-000311	Lung	65	True	retained_non_singleton_lineage
+MTOR	ACH-000315	Lymphoid	33	True	retained_non_singleton_lineage
+MTOR	ACH-000319	Pleura	6	True	retained_non_singleton_lineage
+MTOR	ACH-000320	Pancreas	20	True	retained_non_singleton_lineage
+MTOR	ACH-000322	Skin	16	True	retained_non_singleton_lineage
+MTOR	ACH-000323	CNS/Brain	27	True	retained_non_singleton_lineage
+MTOR	ACH-000330	Breast	27	True	retained_non_singleton_lineage
+MTOR	ACH-000332	Pancreas	20	True	retained_non_singleton_lineage
+MTOR	ACH-000334	Lymphoid	33	True	retained_non_singleton_lineage
+MTOR	ACH-000335	Pleura	6	True	retained_non_singleton_lineage
+MTOR	ACH-000336	Myeloid	10	True	retained_non_singleton_lineage
+MTOR	ACH-000337	Lung	65	True	retained_non_singleton_lineage
+MTOR	ACH-000338	Lymphoid	33	True	retained_non_singleton_lineage
+MTOR	ACH-000343	Lung	65	True	retained_non_singleton_lineage
+MTOR	ACH-000346	Lymphoid	33	True	retained_non_singleton_lineage
+MTOR	ACH-000348	Skin	16	True	retained_non_singleton_lineage
+MTOR	ACH-000350	Bowel	32	True	retained_non_singleton_lineage
+MTOR	ACH-000352	Breast	27	True	retained_non_singleton_lineage
+MTOR	ACH-000354	Pancreas	20	True	retained_non_singleton_lineage
+MTOR	ACH-000355	Lung	65	True	retained_non_singleton_lineage
+MTOR	ACH-000356	Esophagus/Stomach	35	True	retained_non_singleton_lineage
+MTOR	ACH-000359	Bone	14	True	retained_non_singleton_lineage
+MTOR	ACH-000361	Liver	12	True	retained_non_singleton_lineage
+MTOR	ACH-000362	Myeloid	10	True	retained_non_singleton_lineage
+MTOR	ACH-000363	Lymphoid	33	True	retained_non_singleton_lineage
+MTOR	ACH-000364	Bone	14	True	retained_non_singleton_lineage
+MTOR	ACH-000366	Peripheral Nervous System	9	True	retained_non_singleton_lineage
+MTOR	ACH-000367	Pleura	6	True	retained_non_singleton_lineage
+MTOR	ACH-000374	Breast	27	True	retained_non_singleton_lineage
+MTOR	ACH-000375	Kidney	9	True	retained_non_singleton_lineage
+MTOR	ACH-000381	Bowel	32	True	retained_non_singleton_lineage
+MTOR	ACH-000383	Esophagus/Stomach	35	True	retained_non_singleton_lineage
+MTOR	ACH-000389	CNS/Brain	27	True	retained_non_singleton_lineage
+MTOR	ACH-000391	Bone	14	True	retained_non_singleton_lineage
+MTOR	ACH-000395	Lung	65	True	retained_non_singleton_lineage
+MTOR	ACH-000396	Bladder/Urinary Tract	11	True	retained_non_singleton_lineage
+MTOR	ACH-000403	Bowel	32	True	retained_non_singleton_lineage
+MTOR	ACH-000408	Esophagus/Stomach	35	True	retained_non_singleton_lineage
+MTOR	ACH-000410	Bone	14	True	retained_non_singleton_lineage
+MTOR	ACH-000411	Kidney	9	True	retained_non_singleton_lineage
+MTOR	ACH-000414	Lung	65	True	retained_non_singleton_lineage
+MTOR	ACH-000417	Pancreas	20	True	retained_non_singleton_lineage
+MTOR	ACH-000420	Liver	12	True	retained_non_singleton_lineage
+MTOR	ACH-000421	Bowel	32	True	retained_non_singleton_lineage
+MTOR	ACH-000424	Bone	14	True	retained_non_singleton_lineage
+MTOR	ACH-000425	Skin	16	True	retained_non_singleton_lineage
+MTOR	ACH-000430	Ovary/Fallopian Tube	19	True	retained_non_singleton_lineage
+MTOR	ACH-000431	Lung	65	True	retained_non_singleton_lineage
+MTOR	ACH-000434	Lung	65	True	retained_non_singleton_lineage
+MTOR	ACH-000437	CNS/Brain	27	True	retained_non_singleton_lineage
+MTOR	ACH-000438	Lung	65	True	retained_non_singleton_lineage
+MTOR	ACH-000441	Skin	16	True	retained_non_singleton_lineage
+MTOR	ACH-000442	Lung	65	True	retained_non_singleton_lineage
+MTOR	ACH-000448	Lung	65	True	retained_non_singleton_lineage
+MTOR	ACH-000452	Esophagus/Stomach	35	True	retained_non_singleton_lineage
+MTOR	ACH-000456	Thyroid	9	True	retained_non_singleton_lineage
+MTOR	ACH-000464	CNS/Brain	27	True	retained_non_singleton_lineage
+MTOR	ACH-000469	CNS/Brain	27	True	retained_non_singleton_lineage
+MTOR	ACH-000470	Bowel	32	True	retained_non_singleton_lineage
+MTOR	ACH-000472	Head and Neck	15	True	retained_non_singleton_lineage
+MTOR	ACH-000473	Bladder/Urinary Tract	11	True	retained_non_singleton_lineage
+MTOR	ACH-000475	Liver	12	True	retained_non_singleton_lineage
+MTOR	ACH-000476	Liver	12	True	retained_non_singleton_lineage
+MTOR	ACH-000480	Liver	12	True	retained_non_singleton_lineage
+MTOR	ACH-000481	Lung	65	True	retained_non_singleton_lineage
+MTOR	ACH-000486	Bladder/Urinary Tract	11	True	retained_non_singleton_lineage
+MTOR	ACH-000489	Bowel	32	True	retained_non_singleton_lineage
+MTOR	ACH-000491	Bowel	32	True	retained_non_singleton_lineage
+MTOR	ACH-000493	Liver	12	True	retained_non_singleton_lineage
+MTOR	ACH-000496	Lung	65	True	retained_non_singleton_lineage
+MTOR	ACH-000501	Bowel	32	True	retained_non_singleton_lineage
+MTOR	ACH-000505	Soft Tissue	8	True	retained_non_singleton_lineage
+MTOR	ACH-000510	Lung	65	True	retained_non_singleton_lineage
+MTOR	ACH-000514	Lung	65	True	retained_non_singleton_lineage
+MTOR	ACH-000516	Bone	14	True	retained_non_singleton_lineage
+MTOR	ACH-000518	Head and Neck	15	True	retained_non_singleton_lineage
+MTOR	ACH-000524	Ovary/Fallopian Tube	19	True	retained_non_singleton_lineage
+MTOR	ACH-000527	Ovary/Fallopian Tube	19	True	retained_non_singleton_lineage
+MTOR	ACH-000532	Bowel	32	True	retained_non_singleton_lineage
+MTOR	ACH-000535	Pancreas	20	True	retained_non_singleton_lineage
+MTOR	ACH-000544	Esophagus/Stomach	35	True	retained_non_singleton_lineage
+MTOR	ACH-000546	Head and Neck	15	True	retained_non_singleton_lineage
+MTOR	ACH-000551	Myeloid	10	True	retained_non_singleton_lineage
+MTOR	ACH-000552	Bowel	32	True	retained_non_singleton_lineage
+MTOR	ACH-000556	Cervix	9	True	retained_non_singleton_lineage
+MTOR	ACH-000558	CNS/Brain	27	True	retained_non_singleton_lineage
+MTOR	ACH-000562	Lung	65	True	retained_non_singleton_lineage
+MTOR	ACH-000563	Lung	65	True	retained_non_singleton_lineage
+MTOR	ACH-000565	Bowel	32	True	retained_non_singleton_lineage
+MTOR	ACH-000569	Pleura	6	True	retained_non_singleton_lineage
+MTOR	ACH-000571	CNS/Brain	27	True	retained_non_singleton_lineage
+MTOR	ACH-000573	Breast	27	True	retained_non_singleton_lineage
+MTOR	ACH-000577	Liver	12	True	retained_non_singleton_lineage
+MTOR	ACH-000579	Skin	16	True	retained_non_singleton_lineage
+MTOR	ACH-000580	Skin	16	True	retained_non_singleton_lineage
+MTOR	ACH-000585	Lung	65	True	retained_non_singleton_lineage
+MTOR	ACH-000587	Lung	65	True	retained_non_singleton_lineage
+MTOR	ACH-000595	CNS/Brain	27	True	retained_non_singleton_lineage
+MTOR	ACH-000596	Lung	65	True	retained_non_singleton_lineage
+MTOR	ACH-000599	Pancreas	20	True	retained_non_singleton_lineage
+MTOR	ACH-000601	Pancreas	20	True	retained_non_singleton_lineage
+MTOR	ACH-000605	Esophagus/Stomach	35	True	retained_non_singleton_lineage
+MTOR	ACH-000607	Kidney	9	True	retained_non_singleton_lineage
+MTOR	ACH-000616	Esophagus/Stomach	35	True	retained_non_singleton_lineage
+MTOR	ACH-000620	Liver	12	True	retained_non_singleton_lineage
+MTOR	ACH-000621	Breast	27	True	retained_non_singleton_lineage
+MTOR	ACH-000624	Breast	27	True	retained_non_singleton_lineage
+MTOR	ACH-000627	Lung	65	True	retained_non_singleton_lineage
+MTOR	ACH-000631	CNS/Brain	27	True	retained_non_singleton_lineage
+MTOR	ACH-000637	Esophagus/Stomach	35	True	retained_non_singleton_lineage
+MTOR	ACH-000638	Lung	65	True	retained_non_singleton_lineage
+MTOR	ACH-000639	Lung	65	True	retained_non_singleton_lineage
+MTOR	ACH-000647	Esophagus/Stomach	35	True	retained_non_singleton_lineage
+MTOR	ACH-000648	Pleura	6	True	retained_non_singleton_lineage
+MTOR	ACH-000649	Kidney	9	True	retained_non_singleton_lineage
+MTOR	ACH-000651	Bowel	32	True	retained_non_singleton_lineage
+MTOR	ACH-000652	Pancreas	20	True	retained_non_singleton_lineage
+MTOR	ACH-000653	Lymphoid	33	True	retained_non_singleton_lineage
+MTOR	ACH-000654	Lymphoid	33	True	retained_non_singleton_lineage
+MTOR	ACH-000655	CNS/Brain	27	True	retained_non_singleton_lineage
+MTOR	ACH-000656	Lymphoid	33	True	retained_non_singleton_lineage
+MTOR	ACH-000657	Ovary/Fallopian Tube	19	True	retained_non_singleton_lineage
+MTOR	ACH-000660	Lymphoid	33	True	retained_non_singleton_lineage
+MTOR	ACH-000662	Lung	65	True	retained_non_singleton_lineage
+MTOR	ACH-000663	Ovary/Fallopian Tube	19	True	retained_non_singleton_lineage
+MTOR	ACH-000665	Lung	65	True	retained_non_singleton_lineage
+MTOR	ACH-000666	Lung	65	True	retained_non_singleton_lineage
+MTOR	ACH-000667	Lung	65	True	retained_non_singleton_lineage
+MTOR	ACH-000668	Breast	27	True	retained_non_singleton_lineage
+MTOR	ACH-000672	Lung	65	True	retained_non_singleton_lineage
+MTOR	ACH-000677	Lung	65	True	retained_non_singleton_lineage
+MTOR	ACH-000681	Lung	65	True	retained_non_singleton_lineage
+MTOR	ACH-000693	Esophagus/Stomach	35	True	retained_non_singleton_lineage
+MTOR	ACH-000694	Esophagus/Stomach	35	True	retained_non_singleton_lineage
+MTOR	ACH-000696	Ovary/Fallopian Tube	19	True	retained_non_singleton_lineage
+MTOR	ACH-000697	Lymphoid	33	True	retained_non_singleton_lineage
+MTOR	ACH-000698	Lung	65	True	retained_non_singleton_lineage
+MTOR	ACH-000702	Lymphoid	33	True	retained_non_singleton_lineage
+MTOR	ACH-000704	Ovary/Fallopian Tube	19	True	retained_non_singleton_lineage
+MTOR	ACH-000711	Breast	27	True	retained_non_singleton_lineage
+MTOR	ACH-000716	Thyroid	9	True	retained_non_singleton_lineage
+MTOR	ACH-000717	Esophagus/Stomach	35	True	retained_non_singleton_lineage
+MTOR	ACH-000720	Bladder/Urinary Tract	11	True	retained_non_singleton_lineage
+MTOR	ACH-000722	Bowel	32	True	retained_non_singleton_lineage
+MTOR	ACH-000724	Bladder/Urinary Tract	11	True	retained_non_singleton_lineage
+MTOR	ACH-000738	CNS/Brain	27	True	retained_non_singleton_lineage
+MTOR	ACH-000740	Head and Neck	15	True	retained_non_singleton_lineage
+MTOR	ACH-000749	Lung	65	True	retained_non_singleton_lineage
+MTOR	ACH-000754	Lymphoid	33	True	retained_non_singleton_lineage
+MTOR	ACH-000756	CNS/Brain	27	True	retained_non_singleton_lineage
+MTOR	ACH-000763	Lymphoid	33	True	retained_non_singleton_lineage
+MTOR	ACH-000767	Lung	65	True	retained_non_singleton_lineage
+MTOR	ACH-000768	Breast	27	True	retained_non_singleton_lineage
+MTOR	ACH-000769	Lung	65	True	retained_non_singleton_lineage
+MTOR	ACH-000775	Lung	65	True	retained_non_singleton_lineage
+MTOR	ACH-000776	CNS/Brain	27	True	retained_non_singleton_lineage
+MTOR	ACH-000778	Head and Neck	15	True	retained_non_singleton_lineage
+MTOR	ACH-000781	Lung	65	True	retained_non_singleton_lineage
+MTOR	ACH-000783	Breast	27	True	retained_non_singleton_lineage
+MTOR	ACH-000784	Esophagus/Stomach	35	True	retained_non_singleton_lineage
+MTOR	ACH-000787	Lung	65	True	retained_non_singleton_lineage
+MTOR	ACH-000788	Skin	16	True	retained_non_singleton_lineage
+MTOR	ACH-000790	Lung	65	True	retained_non_singleton_lineage
+MTOR	ACH-000792	Kidney	9	True	retained_non_singleton_lineage
+MTOR	ACH-000793	Esophagus/Stomach	35	True	retained_non_singleton_lineage
+MTOR	ACH-000794	Head and Neck	15	True	retained_non_singleton_lineage
+MTOR	ACH-000800	Lung	65	True	retained_non_singleton_lineage
+MTOR	ACH-000802	Bladder/Urinary Tract	11	True	retained_non_singleton_lineage
+MTOR	ACH-000805	Skin	16	True	retained_non_singleton_lineage
+MTOR	ACH-000809	Esophagus/Stomach	35	True	retained_non_singleton_lineage
+MTOR	ACH-000811	Ovary/Fallopian Tube	19	True	retained_non_singleton_lineage
+MTOR	ACH-000817	Lymphoid	33	True	retained_non_singleton_lineage
+MTOR	ACH-000819	CNS/Brain	27	True	retained_non_singleton_lineage
+MTOR	ACH-000821	Lymphoid	33	True	retained_non_singleton_lineage
+MTOR	ACH-000822	Skin	16	True	retained_non_singleton_lineage
+MTOR	ACH-000823	Esophagus/Stomach	35	True	retained_non_singleton_lineage
+MTOR	ACH-000827	Skin	16	True	retained_non_singleton_lineage
+MTOR	ACH-000832	Head and Neck	15	True	retained_non_singleton_lineage
+MTOR	ACH-000835	Soft Tissue	8	True	retained_non_singleton_lineage
+MTOR	ACH-000841	Lung	65	True	retained_non_singleton_lineage
+MTOR	ACH-000843	Lung	65	True	retained_non_singleton_lineage
+MTOR	ACH-000846	Head and Neck	15	True	retained_non_singleton_lineage
+MTOR	ACH-000847	Esophagus/Stomach	35	True	retained_non_singleton_lineage
+MTOR	ACH-000848	Liver	12	True	retained_non_singleton_lineage
+MTOR	ACH-000849	Breast	27	True	retained_non_singleton_lineage
+MTOR	ACH-000853	Lung	65	True	retained_non_singleton_lineage
+MTOR	ACH-000856	Breast	27	True	retained_non_singleton_lineage
+MTOR	ACH-000858	Lung	65	True	retained_non_singleton_lineage
+MTOR	ACH-000859	Breast	27	True	retained_non_singleton_lineage
+MTOR	ACH-000860	Lung	65	True	retained_non_singleton_lineage
+MTOR	ACH-000861	Lung	65	True	retained_non_singleton_lineage
+MTOR	ACH-000863	CNS/Brain	27	True	retained_non_singleton_lineage
+MTOR	ACH-000864	Uterus	12	True	retained_non_singleton_lineage
+MTOR	ACH-000865	Esophagus/Stomach	35	True	retained_non_singleton_lineage
+MTOR	ACH-000866	Lung	65	True	retained_non_singleton_lineage
+MTOR	ACH-000869	Lung	65	True	retained_non_singleton_lineage
+MTOR	ACH-000873	Esophagus/Stomach	35	True	retained_non_singleton_lineage
+MTOR	ACH-000874	Lymphoid	33	True	retained_non_singleton_lineage
+MTOR	ACH-000876	Breast	27	True	retained_non_singleton_lineage
+MTOR	ACH-000878	Lung	65	True	retained_non_singleton_lineage
+MTOR	ACH-000879	Uterus	12	True	retained_non_singleton_lineage
+MTOR	ACH-000880	Esophagus/Stomach	35	True	retained_non_singleton_lineage
+MTOR	ACH-000881	Skin	16	True	retained_non_singleton_lineage
+MTOR	ACH-000882	Skin	16	True	retained_non_singleton_lineage
+MTOR	ACH-000885	Ovary/Fallopian Tube	19	True	retained_non_singleton_lineage
+MTOR	ACH-000888	Lung	65	True	retained_non_singleton_lineage
+MTOR	ACH-000890	Lung	65	True	retained_non_singleton_lineage
+MTOR	ACH-000896	Bladder/Urinary Tract	11	True	retained_non_singleton_lineage
+MTOR	ACH-000900	Lung	65	True	retained_non_singleton_lineage
+MTOR	ACH-000903	Thyroid	9	True	retained_non_singleton_lineage
+MTOR	ACH-000905	Bladder/Urinary Tract	11	True	retained_non_singleton_lineage
+MTOR	ACH-000906	Ovary/Fallopian Tube	19	True	retained_non_singleton_lineage
+MTOR	ACH-000910	Breast	27	True	retained_non_singleton_lineage
+MTOR	ACH-000911	Esophagus/Stomach	35	True	retained_non_singleton_lineage
+MTOR	ACH-000913	Uterus	12	True	retained_non_singleton_lineage
+MTOR	ACH-000917	Esophagus/Stomach	35	True	retained_non_singleton_lineage
+MTOR	ACH-000919	Esophagus/Stomach	35	True	retained_non_singleton_lineage
+MTOR	ACH-000920	Myeloid	10	True	retained_non_singleton_lineage
+MTOR	ACH-000926	Bowel	32	True	retained_non_singleton_lineage
+MTOR	ACH-000932	Esophagus/Stomach	35	True	retained_non_singleton_lineage
+MTOR	ACH-000934	Breast	27	True	retained_non_singleton_lineage
+MTOR	ACH-000935	Bowel	32	True	retained_non_singleton_lineage
+MTOR	ACH-000937	Lymphoid	33	True	retained_non_singleton_lineage
+MTOR	ACH-000938	Lymphoid	33	True	retained_non_singleton_lineage
+MTOR	ACH-000939	Uterus	12	True	retained_non_singleton_lineage
+MTOR	ACH-000943	Bowel	32	True	retained_non_singleton_lineage
+MTOR	ACH-000944	Lymphoid	33	True	retained_non_singleton_lineage
+MTOR	ACH-000945	Lung	65	True	retained_non_singleton_lineage
+MTOR	ACH-000948	Esophagus/Stomach	35	True	retained_non_singleton_lineage
+MTOR	ACH-000950	Bowel	32	True	retained_non_singleton_lineage
+MTOR	ACH-000953	Lymphoid	33	True	retained_non_singleton_lineage
+MTOR	ACH-000956	Prostate	6	True	retained_non_singleton_lineage
+MTOR	ACH-000957	Bowel	32	True	retained_non_singleton_lineage
+MTOR	ACH-000958	Bowel	32	True	retained_non_singleton_lineage
+MTOR	ACH-000960	Lymphoid	33	True	retained_non_singleton_lineage
+MTOR	ACH-000963	Bowel	32	True	retained_non_singleton_lineage
+MTOR	ACH-000965	Uterus	12	True	retained_non_singleton_lineage
+MTOR	ACH-000966	Ovary/Fallopian Tube	19	True	retained_non_singleton_lineage
+MTOR	ACH-000968	Skin	16	True	retained_non_singleton_lineage
+MTOR	ACH-000969	Bowel	32	True	retained_non_singleton_lineage
+MTOR	ACH-000970	Bowel	32	True	retained_non_singleton_lineage
+MTOR	ACH-000971	Bowel	32	True	retained_non_singleton_lineage
+MTOR	ACH-000973	Bladder/Urinary Tract	11	True	retained_non_singleton_lineage
+MTOR	ACH-000974	Uterus	12	True	retained_non_singleton_lineage
+MTOR	ACH-000976	Biliary Tract	1	False	singleton_lineage_in_frozen_target_mask
+MTOR	ACH-000977	Prostate	6	True	retained_non_singleton_lineage
+MTOR	ACH-000978	Uterus	12	True	retained_non_singleton_lineage
+MTOR	ACH-000979	Prostate	6	True	retained_non_singleton_lineage
+MTOR	ACH-000980	Lung	65	True	retained_non_singleton_lineage
+MTOR	ACH-000981	Lymphoid	33	True	retained_non_singleton_lineage
+MTOR	ACH-000983	Myeloid	10	True	retained_non_singleton_lineage
+MTOR	ACH-000985	Bowel	32	True	retained_non_singleton_lineage
+MTOR	ACH-000986	Bowel	32	True	retained_non_singleton_lineage
+MTOR	ACH-000988	Uterus	12	True	retained_non_singleton_lineage
+MTOR	ACH-000991	Bowel	32	True	retained_non_singleton_lineage
+MTOR	ACH-000995	Lymphoid	33	True	retained_non_singleton_lineage
+MTOR	ACH-000997	Bowel	32	True	retained_non_singleton_lineage
+MTOR	ACH-001016	CNS/Brain	27	True	retained_non_singleton_lineage
+MTOR	ACH-001021	Liver	12	True	retained_non_singleton_lineage
+MTOR	ACH-001151	Ovary/Fallopian Tube	19	True	retained_non_singleton_lineage
+MTOR	ACH-001190	Skin	16	True	retained_non_singleton_lineage
+MTOR	ACH-001193	Bone	14	True	retained_non_singleton_lineage
+MTOR	ACH-001227	Head and Neck	15	True	retained_non_singleton_lineage
+MTOR	ACH-001274	Soft Tissue	8	True	retained_non_singleton_lineage
+MTOR	ACH-001306	Thyroid	9	True	retained_non_singleton_lineage
+MTOR	ACH-001307	Thyroid	9	True	retained_non_singleton_lineage
+MTOR	ACH-001332	Head and Neck	15	True	retained_non_singleton_lineage
+MTOR	ACH-001333	Cervix	9	True	retained_non_singleton_lineage
+MTOR	ACH-001334	Cervix	9	True	retained_non_singleton_lineage
+MTOR	ACH-001336	Cervix	9	True	retained_non_singleton_lineage
+MTOR	ACH-001338	Peripheral Nervous System	9	True	retained_non_singleton_lineage
+MTOR	ACH-001341	Cervix	9	True	retained_non_singleton_lineage
+MTOR	ACH-001344	Peripheral Nervous System	9	True	retained_non_singleton_lineage
+MTOR	ACH-001345	Bowel	32	True	retained_non_singleton_lineage
+MTOR	ACH-001360	Cervix	9	True	retained_non_singleton_lineage
+MTOR	ACH-001368	Esophagus/Stomach	35	True	retained_non_singleton_lineage
+MTOR	ACH-001374	Ovary/Fallopian Tube	19	True	retained_non_singleton_lineage
+MTOR	ACH-001399	Bowel	32	True	retained_non_singleton_lineage
+MTOR	ACH-001401	Adrenal Gland	1	False	singleton_lineage_in_frozen_target_mask
+MTOR	ACH-001402	Cervix	9	True	retained_non_singleton_lineage
+MTOR	ACH-001443	Thyroid	9	True	retained_non_singleton_lineage
+MTOR	ACH-001453	Prostate	6	True	retained_non_singleton_lineage
+MTOR	ACH-001496	Esophagus/Stomach	35	True	retained_non_singleton_lineage
+MTOR	ACH-001497	Esophagus/Stomach	35	True	retained_non_singleton_lineage
+MTOR	ACH-001500	Esophagus/Stomach	35	True	retained_non_singleton_lineage
+MTOR	ACH-001517	Uterus	12	True	retained_non_singleton_lineage
+MTOR	ACH-001525	Cervix	9	True	retained_non_singleton_lineage
+MTOR	ACH-001526	Bone	14	True	retained_non_singleton_lineage
+MTOR	ACH-001528	Thyroid	9	True	retained_non_singleton_lineage
+MTOR	ACH-001549	Lung	65	True	retained_non_singleton_lineage
+MTOR	ACH-001603	Peripheral Nervous System	9	True	retained_non_singleton_lineage
+MTOR	ACH-001626	Head and Neck	15	True	retained_non_singleton_lineage
+MTOR	ACH-001630	Ovary/Fallopian Tube	19	True	retained_non_singleton_lineage
+MTOR	ACH-001641	Head and Neck	15	True	retained_non_singleton_lineage
+MTOR	ACH-001642	Lymphoid	33	True	retained_non_singleton_lineage
+MTOR	ACH-001650	Cervix	9	True	retained_non_singleton_lineage
+MTOR	ACH-001653	Esophagus/Stomach	35	True	retained_non_singleton_lineage
+MTOR	ACH-001654	Esophagus/Stomach	35	True	retained_non_singleton_lineage
+MTOR	ACH-001655	Uterus	12	True	retained_non_singleton_lineage
+MTOR	ACH-001674	Peripheral Nervous System	9	True	retained_non_singleton_lineage
+MTOR	ACH-001702	Soft Tissue	8	True	retained_non_singleton_lineage
+MTOR	ACH-001715	Bone	14	True	retained_non_singleton_lineage
+MTOR	ACH-002142	Bone	14	True	retained_non_singleton_lineage
+MTOR	ACH-002214	Lymphoid	33	True	retained_non_singleton_lineage
+ESR1	ACH-000001	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+ESR1	ACH-000004	Myeloid	14	True	retained_non_singleton_lineage
+ESR1	ACH-000009	Bowel	31	True	retained_non_singleton_lineage
+ESR1	ACH-000012	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000015	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000018	Bladder/Urinary Tract	13	True	retained_non_singleton_lineage
+ESR1	ACH-000019	Breast	28	True	retained_non_singleton_lineage
+ESR1	ACH-000021	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000023	Pancreas	21	True	retained_non_singleton_lineage
+ESR1	ACH-000024	Lymphoid	48	True	retained_non_singleton_lineage
+ESR1	ACH-000030	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000035	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000040	CNS/Brain	35	True	retained_non_singleton_lineage
+ESR1	ACH-000042	Pancreas	21	True	retained_non_singleton_lineage
+ESR1	ACH-000048	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+ESR1	ACH-000052	Bone	14	True	retained_non_singleton_lineage
+ESR1	ACH-000053	Lymphoid	48	True	retained_non_singleton_lineage
+ESR1	ACH-000054	Soft Tissue	8	True	retained_non_singleton_lineage
+ESR1	ACH-000055	CNS/Brain	35	True	retained_non_singleton_lineage
+ESR1	ACH-000060	Pancreas	21	True	retained_non_singleton_lineage
+ESR1	ACH-000067	CNS/Brain	35	True	retained_non_singleton_lineage
+ESR1	ACH-000070	Lymphoid	48	True	retained_non_singleton_lineage
+ESR1	ACH-000074	Myeloid	14	True	retained_non_singleton_lineage
+ESR1	ACH-000075	CNS/Brain	35	True	retained_non_singleton_lineage
+ESR1	ACH-000078	Peripheral Nervous System	13	True	retained_non_singleton_lineage
+ESR1	ACH-000082	Bone	14	True	retained_non_singleton_lineage
+ESR1	ACH-000087	Bone	14	True	retained_non_singleton_lineage
+ESR1	ACH-000090	Prostate	6	True	retained_non_singleton_lineage
+ESR1	ACH-000094	Pancreas	21	True	retained_non_singleton_lineage
+ESR1	ACH-000096	Kidney	12	True	retained_non_singleton_lineage
+ESR1	ACH-000098	CNS/Brain	35	True	retained_non_singleton_lineage
+ESR1	ACH-000099	Peripheral Nervous System	13	True	retained_non_singleton_lineage
+ESR1	ACH-000100	Soft Tissue	8	True	retained_non_singleton_lineage
+ESR1	ACH-000101	Lymphoid	48	True	retained_non_singleton_lineage
+ESR1	ACH-000106	Lymphoid	48	True	retained_non_singleton_lineage
+ESR1	ACH-000108	Pancreas	21	True	retained_non_singleton_lineage
+ESR1	ACH-000111	Breast	28	True	retained_non_singleton_lineage
+ESR1	ACH-000113	Myeloid	14	True	retained_non_singleton_lineage
+ESR1	ACH-000114	Pancreas	21	True	retained_non_singleton_lineage
+ESR1	ACH-000115	Prostate	6	True	retained_non_singleton_lineage
+ESR1	ACH-000116	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+ESR1	ACH-000118	Pancreas	21	True	retained_non_singleton_lineage
+ESR1	ACH-000120	Peripheral Nervous System	13	True	retained_non_singleton_lineage
+ESR1	ACH-000132	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+ESR1	ACH-000137	CNS/Brain	35	True	retained_non_singleton_lineage
+ESR1	ACH-000138	Pancreas	21	True	retained_non_singleton_lineage
+ESR1	ACH-000142	Bladder/Urinary Tract	13	True	retained_non_singleton_lineage
+ESR1	ACH-000144	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ESR1	ACH-000145	Soft Tissue	8	True	retained_non_singleton_lineage
+ESR1	ACH-000146	Myeloid	14	True	retained_non_singleton_lineage
+ESR1	ACH-000147	Breast	28	True	retained_non_singleton_lineage
+ESR1	ACH-000148	Breast	28	True	retained_non_singleton_lineage
+ESR1	ACH-000151	Lymphoid	48	True	retained_non_singleton_lineage
+ESR1	ACH-000153	Pleura	6	True	retained_non_singleton_lineage
+ESR1	ACH-000159	Kidney	12	True	retained_non_singleton_lineage
+ESR1	ACH-000161	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000168	Myeloid	14	True	retained_non_singleton_lineage
+ESR1	ACH-000169	Soft Tissue	8	True	retained_non_singleton_lineage
+ESR1	ACH-000174	Thyroid	9	True	retained_non_singleton_lineage
+ESR1	ACH-000176	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000181	Head and Neck	21	True	retained_non_singleton_lineage
+ESR1	ACH-000183	Lymphoid	48	True	retained_non_singleton_lineage
+ESR1	ACH-000187	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000188	Head and Neck	21	True	retained_non_singleton_lineage
+ESR1	ACH-000189	Kidney	12	True	retained_non_singleton_lineage
+ESR1	ACH-000191	Thyroid	9	True	retained_non_singleton_lineage
+ESR1	ACH-000192	Uterus	14	True	retained_non_singleton_lineage
+ESR1	ACH-000197	Lymphoid	48	True	retained_non_singleton_lineage
+ESR1	ACH-000198	Myeloid	14	True	retained_non_singleton_lineage
+ESR1	ACH-000200	CNS/Brain	35	True	retained_non_singleton_lineage
+ESR1	ACH-000204	Lymphoid	48	True	retained_non_singleton_lineage
+ESR1	ACH-000207	Head and Neck	21	True	retained_non_singleton_lineage
+ESR1	ACH-000210	Bone	14	True	retained_non_singleton_lineage
+ESR1	ACH-000211	CNS/Brain	35	True	retained_non_singleton_lineage
+ESR1	ACH-000212	Breast	28	True	retained_non_singleton_lineage
+ESR1	ACH-000213	Pancreas	21	True	retained_non_singleton_lineage
+ESR1	ACH-000217	Liver	13	True	retained_non_singleton_lineage
+ESR1	ACH-000219	Skin	23	True	retained_non_singleton_lineage
+ESR1	ACH-000221	Liver	13	True	retained_non_singleton_lineage
+ESR1	ACH-000222	Pancreas	21	True	retained_non_singleton_lineage
+ESR1	ACH-000223	Breast	28	True	retained_non_singleton_lineage
+ESR1	ACH-000226	Lymphoid	48	True	retained_non_singleton_lineage
+ESR1	ACH-000227	Peripheral Nervous System	13	True	retained_non_singleton_lineage
+ESR1	ACH-000228	Head and Neck	21	True	retained_non_singleton_lineage
+ESR1	ACH-000231	CNS/Brain	35	True	retained_non_singleton_lineage
+ESR1	ACH-000232	CNS/Brain	35	True	retained_non_singleton_lineage
+ESR1	ACH-000233	Lymphoid	48	True	retained_non_singleton_lineage
+ESR1	ACH-000238	Head and Neck	21	True	retained_non_singleton_lineage
+ESR1	ACH-000242	Bladder/Urinary Tract	13	True	retained_non_singleton_lineage
+ESR1	ACH-000243	Pancreas	21	True	retained_non_singleton_lineage
+ESR1	ACH-000244	CNS/Brain	35	True	retained_non_singleton_lineage
+ESR1	ACH-000247	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ESR1	ACH-000248	Breast	28	True	retained_non_singleton_lineage
+ESR1	ACH-000249	Bowel	31	True	retained_non_singleton_lineage
+ESR1	ACH-000250	Kidney	12	True	retained_non_singleton_lineage
+ESR1	ACH-000252	Bowel	31	True	retained_non_singleton_lineage
+ESR1	ACH-000258	Breast	28	True	retained_non_singleton_lineage
+ESR1	ACH-000259	Peripheral Nervous System	13	True	retained_non_singleton_lineage
+ESR1	ACH-000260	Peripheral Nervous System	13	True	retained_non_singleton_lineage
+ESR1	ACH-000263	Myeloid	14	True	retained_non_singleton_lineage
+ESR1	ACH-000264	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000265	Pancreas	21	True	retained_non_singleton_lineage
+ESR1	ACH-000269	CNS/Brain	35	True	retained_non_singleton_lineage
+ESR1	ACH-000271	Lymphoid	48	True	retained_non_singleton_lineage
+ESR1	ACH-000273	CNS/Brain	35	True	retained_non_singleton_lineage
+ESR1	ACH-000276	Breast	28	True	retained_non_singleton_lineage
+ESR1	ACH-000277	Breast	28	True	retained_non_singleton_lineage
+ESR1	ACH-000281	Pancreas	21	True	retained_non_singleton_lineage
+ESR1	ACH-000288	Breast	28	True	retained_non_singleton_lineage
+ESR1	ACH-000290	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000291	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+ESR1	ACH-000292	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000293	Uterus	14	True	retained_non_singleton_lineage
+ESR1	ACH-000294	Myeloid	14	True	retained_non_singleton_lineage
+ESR1	ACH-000295	Myeloid	14	True	retained_non_singleton_lineage
+ESR1	ACH-000303	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ESR1	ACH-000304	Skin	23	True	retained_non_singleton_lineage
+ESR1	ACH-000305	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ESR1	ACH-000308	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+ESR1	ACH-000311	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000315	Lymphoid	48	True	retained_non_singleton_lineage
+ESR1	ACH-000318	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ESR1	ACH-000319	Pleura	6	True	retained_non_singleton_lineage
+ESR1	ACH-000320	Pancreas	21	True	retained_non_singleton_lineage
+ESR1	ACH-000322	Skin	23	True	retained_non_singleton_lineage
+ESR1	ACH-000323	CNS/Brain	35	True	retained_non_singleton_lineage
+ESR1	ACH-000330	Breast	28	True	retained_non_singleton_lineage
+ESR1	ACH-000332	Pancreas	21	True	retained_non_singleton_lineage
+ESR1	ACH-000334	Lymphoid	48	True	retained_non_singleton_lineage
+ESR1	ACH-000335	Pleura	6	True	retained_non_singleton_lineage
+ESR1	ACH-000336	Myeloid	14	True	retained_non_singleton_lineage
+ESR1	ACH-000337	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000338	Lymphoid	48	True	retained_non_singleton_lineage
+ESR1	ACH-000343	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000345	Peripheral Nervous System	13	True	retained_non_singleton_lineage
+ESR1	ACH-000346	Lymphoid	48	True	retained_non_singleton_lineage
+ESR1	ACH-000348	Skin	23	True	retained_non_singleton_lineage
+ESR1	ACH-000350	Bowel	31	True	retained_non_singleton_lineage
+ESR1	ACH-000352	Breast	28	True	retained_non_singleton_lineage
+ESR1	ACH-000354	Pancreas	21	True	retained_non_singleton_lineage
+ESR1	ACH-000355	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000356	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ESR1	ACH-000359	Bone	14	True	retained_non_singleton_lineage
+ESR1	ACH-000361	Liver	13	True	retained_non_singleton_lineage
+ESR1	ACH-000362	Myeloid	14	True	retained_non_singleton_lineage
+ESR1	ACH-000363	Lymphoid	48	True	retained_non_singleton_lineage
+ESR1	ACH-000364	Bone	14	True	retained_non_singleton_lineage
+ESR1	ACH-000365	Lymphoid	48	True	retained_non_singleton_lineage
+ESR1	ACH-000366	Peripheral Nervous System	13	True	retained_non_singleton_lineage
+ESR1	ACH-000367	Pleura	6	True	retained_non_singleton_lineage
+ESR1	ACH-000371	Lymphoid	48	True	retained_non_singleton_lineage
+ESR1	ACH-000373	Myeloid	14	True	retained_non_singleton_lineage
+ESR1	ACH-000374	Breast	28	True	retained_non_singleton_lineage
+ESR1	ACH-000375	Kidney	12	True	retained_non_singleton_lineage
+ESR1	ACH-000376	CNS/Brain	35	True	retained_non_singleton_lineage
+ESR1	ACH-000378	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000381	Bowel	31	True	retained_non_singleton_lineage
+ESR1	ACH-000383	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ESR1	ACH-000389	CNS/Brain	35	True	retained_non_singleton_lineage
+ESR1	ACH-000391	Bone	14	True	retained_non_singleton_lineage
+ESR1	ACH-000395	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000396	Bladder/Urinary Tract	13	True	retained_non_singleton_lineage
+ESR1	ACH-000401	Skin	23	True	retained_non_singleton_lineage
+ESR1	ACH-000403	Bowel	31	True	retained_non_singleton_lineage
+ESR1	ACH-000408	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ESR1	ACH-000410	Bone	14	True	retained_non_singleton_lineage
+ESR1	ACH-000411	Kidney	12	True	retained_non_singleton_lineage
+ESR1	ACH-000414	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000416	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000417	Pancreas	21	True	retained_non_singleton_lineage
+ESR1	ACH-000420	Liver	13	True	retained_non_singleton_lineage
+ESR1	ACH-000421	Bowel	31	True	retained_non_singleton_lineage
+ESR1	ACH-000424	Bone	14	True	retained_non_singleton_lineage
+ESR1	ACH-000425	Skin	23	True	retained_non_singleton_lineage
+ESR1	ACH-000427	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ESR1	ACH-000430	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+ESR1	ACH-000431	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000433	Kidney	12	True	retained_non_singleton_lineage
+ESR1	ACH-000434	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000437	CNS/Brain	35	True	retained_non_singleton_lineage
+ESR1	ACH-000438	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000441	Skin	23	True	retained_non_singleton_lineage
+ESR1	ACH-000442	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000448	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000450	Skin	23	True	retained_non_singleton_lineage
+ESR1	ACH-000452	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ESR1	ACH-000456	Thyroid	9	True	retained_non_singleton_lineage
+ESR1	ACH-000463	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000464	CNS/Brain	35	True	retained_non_singleton_lineage
+ESR1	ACH-000469	CNS/Brain	35	True	retained_non_singleton_lineage
+ESR1	ACH-000470	Bowel	31	True	retained_non_singleton_lineage
+ESR1	ACH-000472	Head and Neck	21	True	retained_non_singleton_lineage
+ESR1	ACH-000473	Bladder/Urinary Tract	13	True	retained_non_singleton_lineage
+ESR1	ACH-000475	Liver	13	True	retained_non_singleton_lineage
+ESR1	ACH-000476	Liver	13	True	retained_non_singleton_lineage
+ESR1	ACH-000478	Liver	13	True	retained_non_singleton_lineage
+ESR1	ACH-000480	Liver	13	True	retained_non_singleton_lineage
+ESR1	ACH-000481	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000484	Kidney	12	True	retained_non_singleton_lineage
+ESR1	ACH-000486	Bladder/Urinary Tract	13	True	retained_non_singleton_lineage
+ESR1	ACH-000488	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ESR1	ACH-000489	Bowel	31	True	retained_non_singleton_lineage
+ESR1	ACH-000491	Bowel	31	True	retained_non_singleton_lineage
+ESR1	ACH-000493	Liver	13	True	retained_non_singleton_lineage
+ESR1	ACH-000496	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000501	Bowel	31	True	retained_non_singleton_lineage
+ESR1	ACH-000504	CNS/Brain	35	True	retained_non_singleton_lineage
+ESR1	ACH-000505	Soft Tissue	8	True	retained_non_singleton_lineage
+ESR1	ACH-000510	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000514	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000515	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000516	Bone	14	True	retained_non_singleton_lineage
+ESR1	ACH-000518	Head and Neck	21	True	retained_non_singleton_lineage
+ESR1	ACH-000521	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000524	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+ESR1	ACH-000525	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000527	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+ESR1	ACH-000528	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000532	Bowel	31	True	retained_non_singleton_lineage
+ESR1	ACH-000535	Pancreas	21	True	retained_non_singleton_lineage
+ESR1	ACH-000544	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ESR1	ACH-000546	Head and Neck	21	True	retained_non_singleton_lineage
+ESR1	ACH-000547	Bladder/Urinary Tract	13	True	retained_non_singleton_lineage
+ESR1	ACH-000548	Head and Neck	21	True	retained_non_singleton_lineage
+ESR1	ACH-000552	Bowel	31	True	retained_non_singleton_lineage
+ESR1	ACH-000554	Breast	28	True	retained_non_singleton_lineage
+ESR1	ACH-000556	Cervix	9	True	retained_non_singleton_lineage
+ESR1	ACH-000558	CNS/Brain	35	True	retained_non_singleton_lineage
+ESR1	ACH-000559	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000562	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000563	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000565	Bowel	31	True	retained_non_singleton_lineage
+ESR1	ACH-000567	Lymphoid	48	True	retained_non_singleton_lineage
+ESR1	ACH-000569	Pleura	6	True	retained_non_singleton_lineage
+ESR1	ACH-000570	CNS/Brain	35	True	retained_non_singleton_lineage
+ESR1	ACH-000571	CNS/Brain	35	True	retained_non_singleton_lineage
+ESR1	ACH-000573	Breast	28	True	retained_non_singleton_lineage
+ESR1	ACH-000577	Liver	13	True	retained_non_singleton_lineage
+ESR1	ACH-000579	Skin	23	True	retained_non_singleton_lineage
+ESR1	ACH-000580	Skin	23	True	retained_non_singleton_lineage
+ESR1	ACH-000583	Lymphoid	48	True	retained_non_singleton_lineage
+ESR1	ACH-000584	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+ESR1	ACH-000585	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000587	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000589	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000595	CNS/Brain	35	True	retained_non_singleton_lineage
+ESR1	ACH-000596	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000599	Pancreas	21	True	retained_non_singleton_lineage
+ESR1	ACH-000601	Pancreas	21	True	retained_non_singleton_lineage
+ESR1	ACH-000605	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ESR1	ACH-000607	Kidney	12	True	retained_non_singleton_lineage
+ESR1	ACH-000609	CNS/Brain	35	True	retained_non_singleton_lineage
+ESR1	ACH-000614	Skin	23	True	retained_non_singleton_lineage
+ESR1	ACH-000616	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ESR1	ACH-000619	Head and Neck	21	True	retained_non_singleton_lineage
+ESR1	ACH-000620	Liver	13	True	retained_non_singleton_lineage
+ESR1	ACH-000621	Breast	28	True	retained_non_singleton_lineage
+ESR1	ACH-000622	CNS/Brain	35	True	retained_non_singleton_lineage
+ESR1	ACH-000624	Breast	28	True	retained_non_singleton_lineage
+ESR1	ACH-000627	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000631	CNS/Brain	35	True	retained_non_singleton_lineage
+ESR1	ACH-000637	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ESR1	ACH-000638	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000639	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000647	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ESR1	ACH-000648	Pleura	6	True	retained_non_singleton_lineage
+ESR1	ACH-000649	Kidney	12	True	retained_non_singleton_lineage
+ESR1	ACH-000651	Bowel	31	True	retained_non_singleton_lineage
+ESR1	ACH-000652	Pancreas	21	True	retained_non_singleton_lineage
+ESR1	ACH-000653	Lymphoid	48	True	retained_non_singleton_lineage
+ESR1	ACH-000654	Lymphoid	48	True	retained_non_singleton_lineage
+ESR1	ACH-000655	CNS/Brain	35	True	retained_non_singleton_lineage
+ESR1	ACH-000656	Lymphoid	48	True	retained_non_singleton_lineage
+ESR1	ACH-000657	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+ESR1	ACH-000660	Lymphoid	48	True	retained_non_singleton_lineage
+ESR1	ACH-000662	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000663	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+ESR1	ACH-000664	Lymphoid	48	True	retained_non_singleton_lineage
+ESR1	ACH-000665	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000666	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000667	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000668	Breast	28	True	retained_non_singleton_lineage
+ESR1	ACH-000672	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000677	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000681	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000688	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+ESR1	ACH-000693	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ESR1	ACH-000694	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ESR1	ACH-000696	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+ESR1	ACH-000697	Lymphoid	48	True	retained_non_singleton_lineage
+ESR1	ACH-000698	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000702	Lymphoid	48	True	retained_non_singleton_lineage
+ESR1	ACH-000704	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+ESR1	ACH-000706	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000711	Breast	28	True	retained_non_singleton_lineage
+ESR1	ACH-000713	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+ESR1	ACH-000714	Lymphoid	48	True	retained_non_singleton_lineage
+ESR1	ACH-000716	Thyroid	9	True	retained_non_singleton_lineage
+ESR1	ACH-000717	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ESR1	ACH-000718	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000720	Bladder/Urinary Tract	13	True	retained_non_singleton_lineage
+ESR1	ACH-000722	Bowel	31	True	retained_non_singleton_lineage
+ESR1	ACH-000724	Bladder/Urinary Tract	13	True	retained_non_singleton_lineage
+ESR1	ACH-000738	CNS/Brain	35	True	retained_non_singleton_lineage
+ESR1	ACH-000740	Head and Neck	21	True	retained_non_singleton_lineage
+ESR1	ACH-000749	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000754	Lymphoid	48	True	retained_non_singleton_lineage
+ESR1	ACH-000756	CNS/Brain	35	True	retained_non_singleton_lineage
+ESR1	ACH-000757	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000763	Lymphoid	48	True	retained_non_singleton_lineage
+ESR1	ACH-000768	Breast	28	True	retained_non_singleton_lineage
+ESR1	ACH-000769	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000775	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000776	CNS/Brain	35	True	retained_non_singleton_lineage
+ESR1	ACH-000778	Head and Neck	21	True	retained_non_singleton_lineage
+ESR1	ACH-000781	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000783	Breast	28	True	retained_non_singleton_lineage
+ESR1	ACH-000784	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ESR1	ACH-000787	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000788	Skin	23	True	retained_non_singleton_lineage
+ESR1	ACH-000790	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000792	Kidney	12	True	retained_non_singleton_lineage
+ESR1	ACH-000793	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ESR1	ACH-000794	Head and Neck	21	True	retained_non_singleton_lineage
+ESR1	ACH-000800	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000802	Bladder/Urinary Tract	13	True	retained_non_singleton_lineage
+ESR1	ACH-000805	Skin	23	True	retained_non_singleton_lineage
+ESR1	ACH-000809	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ESR1	ACH-000810	Skin	23	True	retained_non_singleton_lineage
+ESR1	ACH-000811	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+ESR1	ACH-000817	Lymphoid	48	True	retained_non_singleton_lineage
+ESR1	ACH-000819	CNS/Brain	35	True	retained_non_singleton_lineage
+ESR1	ACH-000821	Lymphoid	48	True	retained_non_singleton_lineage
+ESR1	ACH-000822	Skin	23	True	retained_non_singleton_lineage
+ESR1	ACH-000823	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ESR1	ACH-000824	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ESR1	ACH-000827	Skin	23	True	retained_non_singleton_lineage
+ESR1	ACH-000832	Head and Neck	21	True	retained_non_singleton_lineage
+ESR1	ACH-000835	Soft Tissue	8	True	retained_non_singleton_lineage
+ESR1	ACH-000838	Lymphoid	48	True	retained_non_singleton_lineage
+ESR1	ACH-000840	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000841	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000843	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000846	Head and Neck	21	True	retained_non_singleton_lineage
+ESR1	ACH-000847	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ESR1	ACH-000848	Liver	13	True	retained_non_singleton_lineage
+ESR1	ACH-000849	Breast	28	True	retained_non_singleton_lineage
+ESR1	ACH-000853	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000856	Breast	28	True	retained_non_singleton_lineage
+ESR1	ACH-000858	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000859	Breast	28	True	retained_non_singleton_lineage
+ESR1	ACH-000860	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000861	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000863	CNS/Brain	35	True	retained_non_singleton_lineage
+ESR1	ACH-000864	Uterus	14	True	retained_non_singleton_lineage
+ESR1	ACH-000865	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ESR1	ACH-000866	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000867	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000869	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000871	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000873	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ESR1	ACH-000874	Lymphoid	48	True	retained_non_singleton_lineage
+ESR1	ACH-000876	Breast	28	True	retained_non_singleton_lineage
+ESR1	ACH-000878	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000879	Uterus	14	True	retained_non_singleton_lineage
+ESR1	ACH-000880	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ESR1	ACH-000881	Skin	23	True	retained_non_singleton_lineage
+ESR1	ACH-000882	Skin	23	True	retained_non_singleton_lineage
+ESR1	ACH-000885	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+ESR1	ACH-000888	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000890	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000894	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000896	Bladder/Urinary Tract	13	True	retained_non_singleton_lineage
+ESR1	ACH-000900	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000903	Thyroid	9	True	retained_non_singleton_lineage
+ESR1	ACH-000905	Bladder/Urinary Tract	13	True	retained_non_singleton_lineage
+ESR1	ACH-000906	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+ESR1	ACH-000910	Breast	28	True	retained_non_singleton_lineage
+ESR1	ACH-000911	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ESR1	ACH-000913	Uterus	14	True	retained_non_singleton_lineage
+ESR1	ACH-000914	Lymphoid	48	True	retained_non_singleton_lineage
+ESR1	ACH-000915	Skin	23	True	retained_non_singleton_lineage
+ESR1	ACH-000917	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ESR1	ACH-000919	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ESR1	ACH-000920	Myeloid	14	True	retained_non_singleton_lineage
+ESR1	ACH-000922	Lymphoid	48	True	retained_non_singleton_lineage
+ESR1	ACH-000924	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000926	Bowel	31	True	retained_non_singleton_lineage
+ESR1	ACH-000929	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000932	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ESR1	ACH-000934	Breast	28	True	retained_non_singleton_lineage
+ESR1	ACH-000935	Bowel	31	True	retained_non_singleton_lineage
+ESR1	ACH-000936	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+ESR1	ACH-000937	Lymphoid	48	True	retained_non_singleton_lineage
+ESR1	ACH-000938	Lymphoid	48	True	retained_non_singleton_lineage
+ESR1	ACH-000939	Uterus	14	True	retained_non_singleton_lineage
+ESR1	ACH-000943	Bowel	31	True	retained_non_singleton_lineage
+ESR1	ACH-000944	Lymphoid	48	True	retained_non_singleton_lineage
+ESR1	ACH-000945	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000947	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+ESR1	ACH-000948	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ESR1	ACH-000950	Bowel	31	True	retained_non_singleton_lineage
+ESR1	ACH-000953	Lymphoid	48	True	retained_non_singleton_lineage
+ESR1	ACH-000956	Prostate	6	True	retained_non_singleton_lineage
+ESR1	ACH-000957	Bowel	31	True	retained_non_singleton_lineage
+ESR1	ACH-000958	Bowel	31	True	retained_non_singleton_lineage
+ESR1	ACH-000960	Lymphoid	48	True	retained_non_singleton_lineage
+ESR1	ACH-000963	Bowel	31	True	retained_non_singleton_lineage
+ESR1	ACH-000965	Uterus	14	True	retained_non_singleton_lineage
+ESR1	ACH-000966	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+ESR1	ACH-000968	Skin	23	True	retained_non_singleton_lineage
+ESR1	ACH-000969	Bowel	31	True	retained_non_singleton_lineage
+ESR1	ACH-000970	Bowel	31	True	retained_non_singleton_lineage
+ESR1	ACH-000971	Bowel	31	True	retained_non_singleton_lineage
+ESR1	ACH-000973	Bladder/Urinary Tract	13	True	retained_non_singleton_lineage
+ESR1	ACH-000974	Uterus	14	True	retained_non_singleton_lineage
+ESR1	ACH-000976	Biliary Tract	1	False	singleton_lineage_in_frozen_target_mask
+ESR1	ACH-000977	Prostate	6	True	retained_non_singleton_lineage
+ESR1	ACH-000978	Uterus	14	True	retained_non_singleton_lineage
+ESR1	ACH-000979	Prostate	6	True	retained_non_singleton_lineage
+ESR1	ACH-000980	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-000981	Lymphoid	48	True	retained_non_singleton_lineage
+ESR1	ACH-000983	Myeloid	14	True	retained_non_singleton_lineage
+ESR1	ACH-000986	Bowel	31	True	retained_non_singleton_lineage
+ESR1	ACH-000988	Uterus	14	True	retained_non_singleton_lineage
+ESR1	ACH-000991	Bowel	31	True	retained_non_singleton_lineage
+ESR1	ACH-000995	Lymphoid	48	True	retained_non_singleton_lineage
+ESR1	ACH-000997	Bowel	31	True	retained_non_singleton_lineage
+ESR1	ACH-001016	CNS/Brain	35	True	retained_non_singleton_lineage
+ESR1	ACH-001021	Liver	13	True	retained_non_singleton_lineage
+ESR1	ACH-001075	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-001151	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+ESR1	ACH-001190	Skin	23	True	retained_non_singleton_lineage
+ESR1	ACH-001193	Bone	14	True	retained_non_singleton_lineage
+ESR1	ACH-001227	Head and Neck	21	True	retained_non_singleton_lineage
+ESR1	ACH-001274	Soft Tissue	8	True	retained_non_singleton_lineage
+ESR1	ACH-001306	Thyroid	9	True	retained_non_singleton_lineage
+ESR1	ACH-001307	Thyroid	9	True	retained_non_singleton_lineage
+ESR1	ACH-001328	Skin	23	True	retained_non_singleton_lineage
+ESR1	ACH-001332	Head and Neck	21	True	retained_non_singleton_lineage
+ESR1	ACH-001333	Cervix	9	True	retained_non_singleton_lineage
+ESR1	ACH-001334	Cervix	9	True	retained_non_singleton_lineage
+ESR1	ACH-001336	Cervix	9	True	retained_non_singleton_lineage
+ESR1	ACH-001338	Peripheral Nervous System	13	True	retained_non_singleton_lineage
+ESR1	ACH-001341	Cervix	9	True	retained_non_singleton_lineage
+ESR1	ACH-001344	Peripheral Nervous System	13	True	retained_non_singleton_lineage
+ESR1	ACH-001345	Bowel	31	True	retained_non_singleton_lineage
+ESR1	ACH-001360	Cervix	9	True	retained_non_singleton_lineage
+ESR1	ACH-001368	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ESR1	ACH-001374	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+ESR1	ACH-001398	Kidney	12	True	retained_non_singleton_lineage
+ESR1	ACH-001399	Bowel	31	True	retained_non_singleton_lineage
+ESR1	ACH-001400	Vulva/Vagina	1	False	singleton_lineage_in_frozen_target_mask
+ESR1	ACH-001401	Adrenal Gland	1	False	singleton_lineage_in_frozen_target_mask
+ESR1	ACH-001402	Cervix	9	True	retained_non_singleton_lineage
+ESR1	ACH-001418	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+ESR1	ACH-001442	Skin	23	True	retained_non_singleton_lineage
+ESR1	ACH-001443	Thyroid	9	True	retained_non_singleton_lineage
+ESR1	ACH-001453	Prostate	6	True	retained_non_singleton_lineage
+ESR1	ACH-001496	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ESR1	ACH-001497	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ESR1	ACH-001500	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ESR1	ACH-001517	Uterus	14	True	retained_non_singleton_lineage
+ESR1	ACH-001525	Cervix	9	True	retained_non_singleton_lineage
+ESR1	ACH-001526	Bone	14	True	retained_non_singleton_lineage
+ESR1	ACH-001528	Thyroid	9	True	retained_non_singleton_lineage
+ESR1	ACH-001529	Uterus	14	True	retained_non_singleton_lineage
+ESR1	ACH-001530	Uterus	14	True	retained_non_singleton_lineage
+ESR1	ACH-001542	Head and Neck	21	True	retained_non_singleton_lineage
+ESR1	ACH-001543	Head and Neck	21	True	retained_non_singleton_lineage
+ESR1	ACH-001549	Lung	83	True	retained_non_singleton_lineage
+ESR1	ACH-001603	Peripheral Nervous System	13	True	retained_non_singleton_lineage
+ESR1	ACH-001606	CNS/Brain	35	True	retained_non_singleton_lineage
+ESR1	ACH-001626	Head and Neck	21	True	retained_non_singleton_lineage
+ESR1	ACH-001630	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+ESR1	ACH-001641	Head and Neck	21	True	retained_non_singleton_lineage
+ESR1	ACH-001642	Lymphoid	48	True	retained_non_singleton_lineage
+ESR1	ACH-001650	Cervix	9	True	retained_non_singleton_lineage
+ESR1	ACH-001653	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ESR1	ACH-001654	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ESR1	ACH-001655	Uterus	14	True	retained_non_singleton_lineage
+ESR1	ACH-001674	Peripheral Nervous System	13	True	retained_non_singleton_lineage
+ESR1	ACH-001702	Soft Tissue	8	True	retained_non_singleton_lineage
+ESR1	ACH-001709	Lymphoid	48	True	retained_non_singleton_lineage
+ESR1	ACH-001715	Bone	14	True	retained_non_singleton_lineage
+ESR1	ACH-002142	Bone	14	True	retained_non_singleton_lineage
+ESR1	ACH-002214	Lymphoid	48	True	retained_non_singleton_lineage
+ESR1	ACH-002215	Lymphoid	48	True	retained_non_singleton_lineage
+ESR1	ACH-002283	Peripheral Nervous System	13	True	retained_non_singleton_lineage
+TOP1	ACH-000001	Ovary/Fallopian Tube	21	True	retained_non_singleton_lineage
+TOP1	ACH-000004	Myeloid	13	True	retained_non_singleton_lineage
+TOP1	ACH-000009	Bowel	32	True	retained_non_singleton_lineage
+TOP1	ACH-000012	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-000015	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-000019	Breast	27	True	retained_non_singleton_lineage
+TOP1	ACH-000021	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-000023	Pancreas	21	True	retained_non_singleton_lineage
+TOP1	ACH-000024	Lymphoid	38	True	retained_non_singleton_lineage
+TOP1	ACH-000030	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-000035	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-000040	CNS/Brain	27	True	retained_non_singleton_lineage
+TOP1	ACH-000042	Pancreas	21	True	retained_non_singleton_lineage
+TOP1	ACH-000048	Ovary/Fallopian Tube	21	True	retained_non_singleton_lineage
+TOP1	ACH-000052	Bone	13	True	retained_non_singleton_lineage
+TOP1	ACH-000053	Lymphoid	38	True	retained_non_singleton_lineage
+TOP1	ACH-000054	Soft Tissue	8	True	retained_non_singleton_lineage
+TOP1	ACH-000055	CNS/Brain	27	True	retained_non_singleton_lineage
+TOP1	ACH-000060	Pancreas	21	True	retained_non_singleton_lineage
+TOP1	ACH-000070	Lymphoid	38	True	retained_non_singleton_lineage
+TOP1	ACH-000074	Myeloid	13	True	retained_non_singleton_lineage
+TOP1	ACH-000075	CNS/Brain	27	True	retained_non_singleton_lineage
+TOP1	ACH-000082	Bone	13	True	retained_non_singleton_lineage
+TOP1	ACH-000087	Bone	13	True	retained_non_singleton_lineage
+TOP1	ACH-000090	Prostate	6	True	retained_non_singleton_lineage
+TOP1	ACH-000094	Pancreas	21	True	retained_non_singleton_lineage
+TOP1	ACH-000096	Kidney	9	True	retained_non_singleton_lineage
+TOP1	ACH-000098	CNS/Brain	27	True	retained_non_singleton_lineage
+TOP1	ACH-000099	Peripheral Nervous System	9	True	retained_non_singleton_lineage
+TOP1	ACH-000100	Soft Tissue	8	True	retained_non_singleton_lineage
+TOP1	ACH-000101	Lymphoid	38	True	retained_non_singleton_lineage
+TOP1	ACH-000106	Lymphoid	38	True	retained_non_singleton_lineage
+TOP1	ACH-000108	Pancreas	21	True	retained_non_singleton_lineage
+TOP1	ACH-000111	Breast	27	True	retained_non_singleton_lineage
+TOP1	ACH-000113	Myeloid	13	True	retained_non_singleton_lineage
+TOP1	ACH-000114	Pancreas	21	True	retained_non_singleton_lineage
+TOP1	ACH-000115	Prostate	6	True	retained_non_singleton_lineage
+TOP1	ACH-000116	Ovary/Fallopian Tube	21	True	retained_non_singleton_lineage
+TOP1	ACH-000118	Pancreas	21	True	retained_non_singleton_lineage
+TOP1	ACH-000120	Peripheral Nervous System	9	True	retained_non_singleton_lineage
+TOP1	ACH-000137	CNS/Brain	27	True	retained_non_singleton_lineage
+TOP1	ACH-000138	Pancreas	21	True	retained_non_singleton_lineage
+TOP1	ACH-000142	Bladder/Urinary Tract	10	True	retained_non_singleton_lineage
+TOP1	ACH-000144	Esophagus/Stomach	37	True	retained_non_singleton_lineage
+TOP1	ACH-000145	Soft Tissue	8	True	retained_non_singleton_lineage
+TOP1	ACH-000147	Breast	27	True	retained_non_singleton_lineage
+TOP1	ACH-000148	Breast	27	True	retained_non_singleton_lineage
+TOP1	ACH-000153	Pleura	6	True	retained_non_singleton_lineage
+TOP1	ACH-000159	Kidney	9	True	retained_non_singleton_lineage
+TOP1	ACH-000161	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-000168	Myeloid	13	True	retained_non_singleton_lineage
+TOP1	ACH-000169	Soft Tissue	8	True	retained_non_singleton_lineage
+TOP1	ACH-000174	Thyroid	9	True	retained_non_singleton_lineage
+TOP1	ACH-000176	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-000181	Head and Neck	15	True	retained_non_singleton_lineage
+TOP1	ACH-000183	Lymphoid	38	True	retained_non_singleton_lineage
+TOP1	ACH-000187	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-000189	Kidney	9	True	retained_non_singleton_lineage
+TOP1	ACH-000191	Thyroid	9	True	retained_non_singleton_lineage
+TOP1	ACH-000192	Uterus	12	True	retained_non_singleton_lineage
+TOP1	ACH-000198	Myeloid	13	True	retained_non_singleton_lineage
+TOP1	ACH-000204	Lymphoid	38	True	retained_non_singleton_lineage
+TOP1	ACH-000207	Head and Neck	15	True	retained_non_singleton_lineage
+TOP1	ACH-000210	Bone	13	True	retained_non_singleton_lineage
+TOP1	ACH-000211	CNS/Brain	27	True	retained_non_singleton_lineage
+TOP1	ACH-000212	Breast	27	True	retained_non_singleton_lineage
+TOP1	ACH-000213	Pancreas	21	True	retained_non_singleton_lineage
+TOP1	ACH-000217	Liver	12	True	retained_non_singleton_lineage
+TOP1	ACH-000219	Skin	16	True	retained_non_singleton_lineage
+TOP1	ACH-000221	Liver	12	True	retained_non_singleton_lineage
+TOP1	ACH-000222	Pancreas	21	True	retained_non_singleton_lineage
+TOP1	ACH-000223	Breast	27	True	retained_non_singleton_lineage
+TOP1	ACH-000226	Lymphoid	38	True	retained_non_singleton_lineage
+TOP1	ACH-000231	CNS/Brain	27	True	retained_non_singleton_lineage
+TOP1	ACH-000232	CNS/Brain	27	True	retained_non_singleton_lineage
+TOP1	ACH-000233	Lymphoid	38	True	retained_non_singleton_lineage
+TOP1	ACH-000238	Head and Neck	15	True	retained_non_singleton_lineage
+TOP1	ACH-000242	Bladder/Urinary Tract	10	True	retained_non_singleton_lineage
+TOP1	ACH-000243	Pancreas	21	True	retained_non_singleton_lineage
+TOP1	ACH-000244	CNS/Brain	27	True	retained_non_singleton_lineage
+TOP1	ACH-000247	Esophagus/Stomach	37	True	retained_non_singleton_lineage
+TOP1	ACH-000248	Breast	27	True	retained_non_singleton_lineage
+TOP1	ACH-000249	Bowel	32	True	retained_non_singleton_lineage
+TOP1	ACH-000250	Kidney	9	True	retained_non_singleton_lineage
+TOP1	ACH-000252	Bowel	32	True	retained_non_singleton_lineage
+TOP1	ACH-000258	Breast	27	True	retained_non_singleton_lineage
+TOP1	ACH-000259	Peripheral Nervous System	9	True	retained_non_singleton_lineage
+TOP1	ACH-000260	Peripheral Nervous System	9	True	retained_non_singleton_lineage
+TOP1	ACH-000263	Myeloid	13	True	retained_non_singleton_lineage
+TOP1	ACH-000264	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-000265	Pancreas	21	True	retained_non_singleton_lineage
+TOP1	ACH-000269	CNS/Brain	27	True	retained_non_singleton_lineage
+TOP1	ACH-000271	Lymphoid	38	True	retained_non_singleton_lineage
+TOP1	ACH-000273	CNS/Brain	27	True	retained_non_singleton_lineage
+TOP1	ACH-000276	Breast	27	True	retained_non_singleton_lineage
+TOP1	ACH-000277	Breast	27	True	retained_non_singleton_lineage
+TOP1	ACH-000281	Pancreas	21	True	retained_non_singleton_lineage
+TOP1	ACH-000288	Breast	27	True	retained_non_singleton_lineage
+TOP1	ACH-000290	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-000291	Ovary/Fallopian Tube	21	True	retained_non_singleton_lineage
+TOP1	ACH-000292	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-000293	Uterus	12	True	retained_non_singleton_lineage
+TOP1	ACH-000295	Myeloid	13	True	retained_non_singleton_lineage
+TOP1	ACH-000303	Esophagus/Stomach	37	True	retained_non_singleton_lineage
+TOP1	ACH-000304	Skin	16	True	retained_non_singleton_lineage
+TOP1	ACH-000305	Esophagus/Stomach	37	True	retained_non_singleton_lineage
+TOP1	ACH-000308	Ovary/Fallopian Tube	21	True	retained_non_singleton_lineage
+TOP1	ACH-000311	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-000315	Lymphoid	38	True	retained_non_singleton_lineage
+TOP1	ACH-000319	Pleura	6	True	retained_non_singleton_lineage
+TOP1	ACH-000320	Pancreas	21	True	retained_non_singleton_lineage
+TOP1	ACH-000322	Skin	16	True	retained_non_singleton_lineage
+TOP1	ACH-000323	CNS/Brain	27	True	retained_non_singleton_lineage
+TOP1	ACH-000330	Breast	27	True	retained_non_singleton_lineage
+TOP1	ACH-000332	Pancreas	21	True	retained_non_singleton_lineage
+TOP1	ACH-000334	Lymphoid	38	True	retained_non_singleton_lineage
+TOP1	ACH-000335	Pleura	6	True	retained_non_singleton_lineage
+TOP1	ACH-000336	Myeloid	13	True	retained_non_singleton_lineage
+TOP1	ACH-000337	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-000338	Lymphoid	38	True	retained_non_singleton_lineage
+TOP1	ACH-000343	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-000346	Lymphoid	38	True	retained_non_singleton_lineage
+TOP1	ACH-000348	Skin	16	True	retained_non_singleton_lineage
+TOP1	ACH-000350	Bowel	32	True	retained_non_singleton_lineage
+TOP1	ACH-000352	Breast	27	True	retained_non_singleton_lineage
+TOP1	ACH-000354	Pancreas	21	True	retained_non_singleton_lineage
+TOP1	ACH-000355	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-000356	Esophagus/Stomach	37	True	retained_non_singleton_lineage
+TOP1	ACH-000361	Liver	12	True	retained_non_singleton_lineage
+TOP1	ACH-000362	Myeloid	13	True	retained_non_singleton_lineage
+TOP1	ACH-000363	Lymphoid	38	True	retained_non_singleton_lineage
+TOP1	ACH-000364	Bone	13	True	retained_non_singleton_lineage
+TOP1	ACH-000366	Peripheral Nervous System	9	True	retained_non_singleton_lineage
+TOP1	ACH-000367	Pleura	6	True	retained_non_singleton_lineage
+TOP1	ACH-000373	Myeloid	13	True	retained_non_singleton_lineage
+TOP1	ACH-000374	Breast	27	True	retained_non_singleton_lineage
+TOP1	ACH-000375	Kidney	9	True	retained_non_singleton_lineage
+TOP1	ACH-000381	Bowel	32	True	retained_non_singleton_lineage
+TOP1	ACH-000383	Esophagus/Stomach	37	True	retained_non_singleton_lineage
+TOP1	ACH-000389	CNS/Brain	27	True	retained_non_singleton_lineage
+TOP1	ACH-000391	Bone	13	True	retained_non_singleton_lineage
+TOP1	ACH-000395	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-000396	Bladder/Urinary Tract	10	True	retained_non_singleton_lineage
+TOP1	ACH-000403	Bowel	32	True	retained_non_singleton_lineage
+TOP1	ACH-000408	Esophagus/Stomach	37	True	retained_non_singleton_lineage
+TOP1	ACH-000410	Bone	13	True	retained_non_singleton_lineage
+TOP1	ACH-000411	Kidney	9	True	retained_non_singleton_lineage
+TOP1	ACH-000414	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-000417	Pancreas	21	True	retained_non_singleton_lineage
+TOP1	ACH-000420	Liver	12	True	retained_non_singleton_lineage
+TOP1	ACH-000421	Bowel	32	True	retained_non_singleton_lineage
+TOP1	ACH-000424	Bone	13	True	retained_non_singleton_lineage
+TOP1	ACH-000425	Skin	16	True	retained_non_singleton_lineage
+TOP1	ACH-000427	Esophagus/Stomach	37	True	retained_non_singleton_lineage
+TOP1	ACH-000430	Ovary/Fallopian Tube	21	True	retained_non_singleton_lineage
+TOP1	ACH-000431	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-000434	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-000437	CNS/Brain	27	True	retained_non_singleton_lineage
+TOP1	ACH-000438	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-000441	Skin	16	True	retained_non_singleton_lineage
+TOP1	ACH-000442	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-000448	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-000452	Esophagus/Stomach	37	True	retained_non_singleton_lineage
+TOP1	ACH-000456	Thyroid	9	True	retained_non_singleton_lineage
+TOP1	ACH-000464	CNS/Brain	27	True	retained_non_singleton_lineage
+TOP1	ACH-000469	CNS/Brain	27	True	retained_non_singleton_lineage
+TOP1	ACH-000470	Bowel	32	True	retained_non_singleton_lineage
+TOP1	ACH-000472	Head and Neck	15	True	retained_non_singleton_lineage
+TOP1	ACH-000473	Bladder/Urinary Tract	10	True	retained_non_singleton_lineage
+TOP1	ACH-000475	Liver	12	True	retained_non_singleton_lineage
+TOP1	ACH-000476	Liver	12	True	retained_non_singleton_lineage
+TOP1	ACH-000478	Liver	12	True	retained_non_singleton_lineage
+TOP1	ACH-000480	Liver	12	True	retained_non_singleton_lineage
+TOP1	ACH-000481	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-000486	Bladder/Urinary Tract	10	True	retained_non_singleton_lineage
+TOP1	ACH-000489	Bowel	32	True	retained_non_singleton_lineage
+TOP1	ACH-000491	Bowel	32	True	retained_non_singleton_lineage
+TOP1	ACH-000493	Liver	12	True	retained_non_singleton_lineage
+TOP1	ACH-000496	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-000501	Bowel	32	True	retained_non_singleton_lineage
+TOP1	ACH-000505	Soft Tissue	8	True	retained_non_singleton_lineage
+TOP1	ACH-000510	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-000514	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-000516	Bone	13	True	retained_non_singleton_lineage
+TOP1	ACH-000518	Head and Neck	15	True	retained_non_singleton_lineage
+TOP1	ACH-000524	Ovary/Fallopian Tube	21	True	retained_non_singleton_lineage
+TOP1	ACH-000527	Ovary/Fallopian Tube	21	True	retained_non_singleton_lineage
+TOP1	ACH-000528	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-000532	Bowel	32	True	retained_non_singleton_lineage
+TOP1	ACH-000535	Pancreas	21	True	retained_non_singleton_lineage
+TOP1	ACH-000544	Esophagus/Stomach	37	True	retained_non_singleton_lineage
+TOP1	ACH-000546	Head and Neck	15	True	retained_non_singleton_lineage
+TOP1	ACH-000551	Myeloid	13	True	retained_non_singleton_lineage
+TOP1	ACH-000552	Bowel	32	True	retained_non_singleton_lineage
+TOP1	ACH-000556	Cervix	9	True	retained_non_singleton_lineage
+TOP1	ACH-000558	CNS/Brain	27	True	retained_non_singleton_lineage
+TOP1	ACH-000562	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-000563	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-000565	Bowel	32	True	retained_non_singleton_lineage
+TOP1	ACH-000567	Lymphoid	38	True	retained_non_singleton_lineage
+TOP1	ACH-000569	Pleura	6	True	retained_non_singleton_lineage
+TOP1	ACH-000571	CNS/Brain	27	True	retained_non_singleton_lineage
+TOP1	ACH-000573	Breast	27	True	retained_non_singleton_lineage
+TOP1	ACH-000577	Liver	12	True	retained_non_singleton_lineage
+TOP1	ACH-000579	Skin	16	True	retained_non_singleton_lineage
+TOP1	ACH-000580	Skin	16	True	retained_non_singleton_lineage
+TOP1	ACH-000585	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-000587	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-000595	CNS/Brain	27	True	retained_non_singleton_lineage
+TOP1	ACH-000596	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-000599	Pancreas	21	True	retained_non_singleton_lineage
+TOP1	ACH-000601	Pancreas	21	True	retained_non_singleton_lineage
+TOP1	ACH-000605	Esophagus/Stomach	37	True	retained_non_singleton_lineage
+TOP1	ACH-000607	Kidney	9	True	retained_non_singleton_lineage
+TOP1	ACH-000616	Esophagus/Stomach	37	True	retained_non_singleton_lineage
+TOP1	ACH-000621	Breast	27	True	retained_non_singleton_lineage
+TOP1	ACH-000624	Breast	27	True	retained_non_singleton_lineage
+TOP1	ACH-000627	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-000631	CNS/Brain	27	True	retained_non_singleton_lineage
+TOP1	ACH-000637	Esophagus/Stomach	37	True	retained_non_singleton_lineage
+TOP1	ACH-000638	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-000639	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-000647	Esophagus/Stomach	37	True	retained_non_singleton_lineage
+TOP1	ACH-000648	Pleura	6	True	retained_non_singleton_lineage
+TOP1	ACH-000649	Kidney	9	True	retained_non_singleton_lineage
+TOP1	ACH-000651	Bowel	32	True	retained_non_singleton_lineage
+TOP1	ACH-000652	Pancreas	21	True	retained_non_singleton_lineage
+TOP1	ACH-000653	Lymphoid	38	True	retained_non_singleton_lineage
+TOP1	ACH-000654	Lymphoid	38	True	retained_non_singleton_lineage
+TOP1	ACH-000655	CNS/Brain	27	True	retained_non_singleton_lineage
+TOP1	ACH-000656	Lymphoid	38	True	retained_non_singleton_lineage
+TOP1	ACH-000657	Ovary/Fallopian Tube	21	True	retained_non_singleton_lineage
+TOP1	ACH-000660	Lymphoid	38	True	retained_non_singleton_lineage
+TOP1	ACH-000662	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-000663	Ovary/Fallopian Tube	21	True	retained_non_singleton_lineage
+TOP1	ACH-000665	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-000666	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-000667	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-000668	Breast	27	True	retained_non_singleton_lineage
+TOP1	ACH-000672	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-000677	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-000681	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-000693	Esophagus/Stomach	37	True	retained_non_singleton_lineage
+TOP1	ACH-000694	Esophagus/Stomach	37	True	retained_non_singleton_lineage
+TOP1	ACH-000696	Ovary/Fallopian Tube	21	True	retained_non_singleton_lineage
+TOP1	ACH-000697	Lymphoid	38	True	retained_non_singleton_lineage
+TOP1	ACH-000698	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-000702	Lymphoid	38	True	retained_non_singleton_lineage
+TOP1	ACH-000704	Ovary/Fallopian Tube	21	True	retained_non_singleton_lineage
+TOP1	ACH-000706	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-000711	Breast	27	True	retained_non_singleton_lineage
+TOP1	ACH-000716	Thyroid	9	True	retained_non_singleton_lineage
+TOP1	ACH-000717	Esophagus/Stomach	37	True	retained_non_singleton_lineage
+TOP1	ACH-000720	Bladder/Urinary Tract	10	True	retained_non_singleton_lineage
+TOP1	ACH-000722	Bowel	32	True	retained_non_singleton_lineage
+TOP1	ACH-000738	CNS/Brain	27	True	retained_non_singleton_lineage
+TOP1	ACH-000740	Head and Neck	15	True	retained_non_singleton_lineage
+TOP1	ACH-000749	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-000754	Lymphoid	38	True	retained_non_singleton_lineage
+TOP1	ACH-000756	CNS/Brain	27	True	retained_non_singleton_lineage
+TOP1	ACH-000757	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-000763	Lymphoid	38	True	retained_non_singleton_lineage
+TOP1	ACH-000767	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-000768	Breast	27	True	retained_non_singleton_lineage
+TOP1	ACH-000769	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-000775	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-000776	CNS/Brain	27	True	retained_non_singleton_lineage
+TOP1	ACH-000778	Head and Neck	15	True	retained_non_singleton_lineage
+TOP1	ACH-000781	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-000783	Breast	27	True	retained_non_singleton_lineage
+TOP1	ACH-000784	Esophagus/Stomach	37	True	retained_non_singleton_lineage
+TOP1	ACH-000787	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-000788	Skin	16	True	retained_non_singleton_lineage
+TOP1	ACH-000790	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-000792	Kidney	9	True	retained_non_singleton_lineage
+TOP1	ACH-000793	Esophagus/Stomach	37	True	retained_non_singleton_lineage
+TOP1	ACH-000794	Head and Neck	15	True	retained_non_singleton_lineage
+TOP1	ACH-000800	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-000802	Bladder/Urinary Tract	10	True	retained_non_singleton_lineage
+TOP1	ACH-000805	Skin	16	True	retained_non_singleton_lineage
+TOP1	ACH-000809	Esophagus/Stomach	37	True	retained_non_singleton_lineage
+TOP1	ACH-000811	Ovary/Fallopian Tube	21	True	retained_non_singleton_lineage
+TOP1	ACH-000817	Lymphoid	38	True	retained_non_singleton_lineage
+TOP1	ACH-000819	CNS/Brain	27	True	retained_non_singleton_lineage
+TOP1	ACH-000821	Lymphoid	38	True	retained_non_singleton_lineage
+TOP1	ACH-000822	Skin	16	True	retained_non_singleton_lineage
+TOP1	ACH-000823	Esophagus/Stomach	37	True	retained_non_singleton_lineage
+TOP1	ACH-000824	Esophagus/Stomach	37	True	retained_non_singleton_lineage
+TOP1	ACH-000827	Skin	16	True	retained_non_singleton_lineage
+TOP1	ACH-000832	Head and Neck	15	True	retained_non_singleton_lineage
+TOP1	ACH-000835	Soft Tissue	8	True	retained_non_singleton_lineage
+TOP1	ACH-000840	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-000841	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-000843	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-000846	Head and Neck	15	True	retained_non_singleton_lineage
+TOP1	ACH-000847	Esophagus/Stomach	37	True	retained_non_singleton_lineage
+TOP1	ACH-000848	Liver	12	True	retained_non_singleton_lineage
+TOP1	ACH-000849	Breast	27	True	retained_non_singleton_lineage
+TOP1	ACH-000853	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-000856	Breast	27	True	retained_non_singleton_lineage
+TOP1	ACH-000858	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-000859	Breast	27	True	retained_non_singleton_lineage
+TOP1	ACH-000860	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-000861	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-000863	CNS/Brain	27	True	retained_non_singleton_lineage
+TOP1	ACH-000864	Uterus	12	True	retained_non_singleton_lineage
+TOP1	ACH-000865	Esophagus/Stomach	37	True	retained_non_singleton_lineage
+TOP1	ACH-000866	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-000869	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-000873	Esophagus/Stomach	37	True	retained_non_singleton_lineage
+TOP1	ACH-000874	Lymphoid	38	True	retained_non_singleton_lineage
+TOP1	ACH-000876	Breast	27	True	retained_non_singleton_lineage
+TOP1	ACH-000878	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-000879	Uterus	12	True	retained_non_singleton_lineage
+TOP1	ACH-000880	Esophagus/Stomach	37	True	retained_non_singleton_lineage
+TOP1	ACH-000881	Skin	16	True	retained_non_singleton_lineage
+TOP1	ACH-000882	Skin	16	True	retained_non_singleton_lineage
+TOP1	ACH-000885	Ovary/Fallopian Tube	21	True	retained_non_singleton_lineage
+TOP1	ACH-000888	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-000890	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-000894	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-000896	Bladder/Urinary Tract	10	True	retained_non_singleton_lineage
+TOP1	ACH-000900	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-000903	Thyroid	9	True	retained_non_singleton_lineage
+TOP1	ACH-000905	Bladder/Urinary Tract	10	True	retained_non_singleton_lineage
+TOP1	ACH-000906	Ovary/Fallopian Tube	21	True	retained_non_singleton_lineage
+TOP1	ACH-000910	Breast	27	True	retained_non_singleton_lineage
+TOP1	ACH-000911	Esophagus/Stomach	37	True	retained_non_singleton_lineage
+TOP1	ACH-000913	Uterus	12	True	retained_non_singleton_lineage
+TOP1	ACH-000917	Esophagus/Stomach	37	True	retained_non_singleton_lineage
+TOP1	ACH-000919	Esophagus/Stomach	37	True	retained_non_singleton_lineage
+TOP1	ACH-000920	Myeloid	13	True	retained_non_singleton_lineage
+TOP1	ACH-000926	Bowel	32	True	retained_non_singleton_lineage
+TOP1	ACH-000932	Esophagus/Stomach	37	True	retained_non_singleton_lineage
+TOP1	ACH-000934	Breast	27	True	retained_non_singleton_lineage
+TOP1	ACH-000935	Bowel	32	True	retained_non_singleton_lineage
+TOP1	ACH-000936	Ovary/Fallopian Tube	21	True	retained_non_singleton_lineage
+TOP1	ACH-000937	Lymphoid	38	True	retained_non_singleton_lineage
+TOP1	ACH-000938	Lymphoid	38	True	retained_non_singleton_lineage
+TOP1	ACH-000939	Uterus	12	True	retained_non_singleton_lineage
+TOP1	ACH-000943	Bowel	32	True	retained_non_singleton_lineage
+TOP1	ACH-000944	Lymphoid	38	True	retained_non_singleton_lineage
+TOP1	ACH-000945	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-000947	Ovary/Fallopian Tube	21	True	retained_non_singleton_lineage
+TOP1	ACH-000948	Esophagus/Stomach	37	True	retained_non_singleton_lineage
+TOP1	ACH-000950	Bowel	32	True	retained_non_singleton_lineage
+TOP1	ACH-000953	Lymphoid	38	True	retained_non_singleton_lineage
+TOP1	ACH-000956	Prostate	6	True	retained_non_singleton_lineage
+TOP1	ACH-000957	Bowel	32	True	retained_non_singleton_lineage
+TOP1	ACH-000958	Bowel	32	True	retained_non_singleton_lineage
+TOP1	ACH-000960	Lymphoid	38	True	retained_non_singleton_lineage
+TOP1	ACH-000963	Bowel	32	True	retained_non_singleton_lineage
+TOP1	ACH-000965	Uterus	12	True	retained_non_singleton_lineage
+TOP1	ACH-000966	Ovary/Fallopian Tube	21	True	retained_non_singleton_lineage
+TOP1	ACH-000968	Skin	16	True	retained_non_singleton_lineage
+TOP1	ACH-000969	Bowel	32	True	retained_non_singleton_lineage
+TOP1	ACH-000970	Bowel	32	True	retained_non_singleton_lineage
+TOP1	ACH-000971	Bowel	32	True	retained_non_singleton_lineage
+TOP1	ACH-000973	Bladder/Urinary Tract	10	True	retained_non_singleton_lineage
+TOP1	ACH-000974	Uterus	12	True	retained_non_singleton_lineage
+TOP1	ACH-000976	Biliary Tract	1	False	singleton_lineage_in_frozen_target_mask
+TOP1	ACH-000977	Prostate	6	True	retained_non_singleton_lineage
+TOP1	ACH-000978	Uterus	12	True	retained_non_singleton_lineage
+TOP1	ACH-000979	Prostate	6	True	retained_non_singleton_lineage
+TOP1	ACH-000980	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-000981	Lymphoid	38	True	retained_non_singleton_lineage
+TOP1	ACH-000983	Myeloid	13	True	retained_non_singleton_lineage
+TOP1	ACH-000985	Bowel	32	True	retained_non_singleton_lineage
+TOP1	ACH-000986	Bowel	32	True	retained_non_singleton_lineage
+TOP1	ACH-000988	Uterus	12	True	retained_non_singleton_lineage
+TOP1	ACH-000991	Bowel	32	True	retained_non_singleton_lineage
+TOP1	ACH-000995	Lymphoid	38	True	retained_non_singleton_lineage
+TOP1	ACH-000997	Bowel	32	True	retained_non_singleton_lineage
+TOP1	ACH-001016	CNS/Brain	27	True	retained_non_singleton_lineage
+TOP1	ACH-001021	Liver	12	True	retained_non_singleton_lineage
+TOP1	ACH-001151	Ovary/Fallopian Tube	21	True	retained_non_singleton_lineage
+TOP1	ACH-001190	Skin	16	True	retained_non_singleton_lineage
+TOP1	ACH-001193	Bone	13	True	retained_non_singleton_lineage
+TOP1	ACH-001227	Head and Neck	15	True	retained_non_singleton_lineage
+TOP1	ACH-001274	Soft Tissue	8	True	retained_non_singleton_lineage
+TOP1	ACH-001306	Thyroid	9	True	retained_non_singleton_lineage
+TOP1	ACH-001307	Thyroid	9	True	retained_non_singleton_lineage
+TOP1	ACH-001332	Head and Neck	15	True	retained_non_singleton_lineage
+TOP1	ACH-001333	Cervix	9	True	retained_non_singleton_lineage
+TOP1	ACH-001334	Cervix	9	True	retained_non_singleton_lineage
+TOP1	ACH-001336	Cervix	9	True	retained_non_singleton_lineage
+TOP1	ACH-001338	Peripheral Nervous System	9	True	retained_non_singleton_lineage
+TOP1	ACH-001341	Cervix	9	True	retained_non_singleton_lineage
+TOP1	ACH-001344	Peripheral Nervous System	9	True	retained_non_singleton_lineage
+TOP1	ACH-001345	Bowel	32	True	retained_non_singleton_lineage
+TOP1	ACH-001360	Cervix	9	True	retained_non_singleton_lineage
+TOP1	ACH-001368	Esophagus/Stomach	37	True	retained_non_singleton_lineage
+TOP1	ACH-001374	Ovary/Fallopian Tube	21	True	retained_non_singleton_lineage
+TOP1	ACH-001399	Bowel	32	True	retained_non_singleton_lineage
+TOP1	ACH-001401	Adrenal Gland	1	False	singleton_lineage_in_frozen_target_mask
+TOP1	ACH-001402	Cervix	9	True	retained_non_singleton_lineage
+TOP1	ACH-001443	Thyroid	9	True	retained_non_singleton_lineage
+TOP1	ACH-001453	Prostate	6	True	retained_non_singleton_lineage
+TOP1	ACH-001496	Esophagus/Stomach	37	True	retained_non_singleton_lineage
+TOP1	ACH-001497	Esophagus/Stomach	37	True	retained_non_singleton_lineage
+TOP1	ACH-001498	Lymphoid	38	True	retained_non_singleton_lineage
+TOP1	ACH-001500	Esophagus/Stomach	37	True	retained_non_singleton_lineage
+TOP1	ACH-001517	Uterus	12	True	retained_non_singleton_lineage
+TOP1	ACH-001525	Cervix	9	True	retained_non_singleton_lineage
+TOP1	ACH-001526	Bone	13	True	retained_non_singleton_lineage
+TOP1	ACH-001528	Thyroid	9	True	retained_non_singleton_lineage
+TOP1	ACH-001549	Lung	70	True	retained_non_singleton_lineage
+TOP1	ACH-001603	Peripheral Nervous System	9	True	retained_non_singleton_lineage
+TOP1	ACH-001626	Head and Neck	15	True	retained_non_singleton_lineage
+TOP1	ACH-001630	Ovary/Fallopian Tube	21	True	retained_non_singleton_lineage
+TOP1	ACH-001641	Head and Neck	15	True	retained_non_singleton_lineage
+TOP1	ACH-001642	Lymphoid	38	True	retained_non_singleton_lineage
+TOP1	ACH-001650	Cervix	9	True	retained_non_singleton_lineage
+TOP1	ACH-001653	Esophagus/Stomach	37	True	retained_non_singleton_lineage
+TOP1	ACH-001654	Esophagus/Stomach	37	True	retained_non_singleton_lineage
+TOP1	ACH-001655	Uterus	12	True	retained_non_singleton_lineage
+TOP1	ACH-001674	Peripheral Nervous System	9	True	retained_non_singleton_lineage
+TOP1	ACH-001702	Soft Tissue	8	True	retained_non_singleton_lineage
+TOP1	ACH-001709	Lymphoid	38	True	retained_non_singleton_lineage
+TOP1	ACH-001715	Bone	13	True	retained_non_singleton_lineage
+TOP1	ACH-002142	Bone	13	True	retained_non_singleton_lineage
+TOP1	ACH-002214	Lymphoid	38	True	retained_non_singleton_lineage
+ATR	ACH-000001	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+ATR	ACH-000004	Myeloid	15	True	retained_non_singleton_lineage
+ATR	ACH-000009	Bowel	31	True	retained_non_singleton_lineage
+ATR	ACH-000012	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000015	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000018	Bladder/Urinary Tract	11	True	retained_non_singleton_lineage
+ATR	ACH-000019	Breast	28	True	retained_non_singleton_lineage
+ATR	ACH-000021	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000023	Pancreas	21	True	retained_non_singleton_lineage
+ATR	ACH-000024	Lymphoid	49	True	retained_non_singleton_lineage
+ATR	ACH-000030	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000035	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000040	CNS/Brain	35	True	retained_non_singleton_lineage
+ATR	ACH-000042	Pancreas	21	True	retained_non_singleton_lineage
+ATR	ACH-000048	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+ATR	ACH-000052	Bone	14	True	retained_non_singleton_lineage
+ATR	ACH-000053	Lymphoid	49	True	retained_non_singleton_lineage
+ATR	ACH-000054	Soft Tissue	8	True	retained_non_singleton_lineage
+ATR	ACH-000055	CNS/Brain	35	True	retained_non_singleton_lineage
+ATR	ACH-000060	Pancreas	21	True	retained_non_singleton_lineage
+ATR	ACH-000067	CNS/Brain	35	True	retained_non_singleton_lineage
+ATR	ACH-000070	Lymphoid	49	True	retained_non_singleton_lineage
+ATR	ACH-000074	Myeloid	15	True	retained_non_singleton_lineage
+ATR	ACH-000075	CNS/Brain	35	True	retained_non_singleton_lineage
+ATR	ACH-000078	Peripheral Nervous System	13	True	retained_non_singleton_lineage
+ATR	ACH-000082	Bone	14	True	retained_non_singleton_lineage
+ATR	ACH-000087	Bone	14	True	retained_non_singleton_lineage
+ATR	ACH-000090	Prostate	5	True	retained_non_singleton_lineage
+ATR	ACH-000094	Pancreas	21	True	retained_non_singleton_lineage
+ATR	ACH-000096	Kidney	12	True	retained_non_singleton_lineage
+ATR	ACH-000098	CNS/Brain	35	True	retained_non_singleton_lineage
+ATR	ACH-000099	Peripheral Nervous System	13	True	retained_non_singleton_lineage
+ATR	ACH-000100	Soft Tissue	8	True	retained_non_singleton_lineage
+ATR	ACH-000101	Lymphoid	49	True	retained_non_singleton_lineage
+ATR	ACH-000106	Lymphoid	49	True	retained_non_singleton_lineage
+ATR	ACH-000108	Pancreas	21	True	retained_non_singleton_lineage
+ATR	ACH-000111	Breast	28	True	retained_non_singleton_lineage
+ATR	ACH-000113	Myeloid	15	True	retained_non_singleton_lineage
+ATR	ACH-000114	Pancreas	21	True	retained_non_singleton_lineage
+ATR	ACH-000116	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+ATR	ACH-000118	Pancreas	21	True	retained_non_singleton_lineage
+ATR	ACH-000120	Peripheral Nervous System	13	True	retained_non_singleton_lineage
+ATR	ACH-000132	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+ATR	ACH-000137	CNS/Brain	35	True	retained_non_singleton_lineage
+ATR	ACH-000138	Pancreas	21	True	retained_non_singleton_lineage
+ATR	ACH-000142	Bladder/Urinary Tract	11	True	retained_non_singleton_lineage
+ATR	ACH-000144	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ATR	ACH-000145	Soft Tissue	8	True	retained_non_singleton_lineage
+ATR	ACH-000146	Myeloid	15	True	retained_non_singleton_lineage
+ATR	ACH-000147	Breast	28	True	retained_non_singleton_lineage
+ATR	ACH-000148	Breast	28	True	retained_non_singleton_lineage
+ATR	ACH-000151	Lymphoid	49	True	retained_non_singleton_lineage
+ATR	ACH-000153	Pleura	6	True	retained_non_singleton_lineage
+ATR	ACH-000159	Kidney	12	True	retained_non_singleton_lineage
+ATR	ACH-000161	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000168	Myeloid	15	True	retained_non_singleton_lineage
+ATR	ACH-000169	Soft Tissue	8	True	retained_non_singleton_lineage
+ATR	ACH-000174	Thyroid	9	True	retained_non_singleton_lineage
+ATR	ACH-000176	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000181	Head and Neck	21	True	retained_non_singleton_lineage
+ATR	ACH-000183	Lymphoid	49	True	retained_non_singleton_lineage
+ATR	ACH-000187	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000188	Head and Neck	21	True	retained_non_singleton_lineage
+ATR	ACH-000189	Kidney	12	True	retained_non_singleton_lineage
+ATR	ACH-000191	Thyroid	9	True	retained_non_singleton_lineage
+ATR	ACH-000192	Uterus	14	True	retained_non_singleton_lineage
+ATR	ACH-000197	Lymphoid	49	True	retained_non_singleton_lineage
+ATR	ACH-000198	Myeloid	15	True	retained_non_singleton_lineage
+ATR	ACH-000200	CNS/Brain	35	True	retained_non_singleton_lineage
+ATR	ACH-000204	Lymphoid	49	True	retained_non_singleton_lineage
+ATR	ACH-000207	Head and Neck	21	True	retained_non_singleton_lineage
+ATR	ACH-000210	Bone	14	True	retained_non_singleton_lineage
+ATR	ACH-000211	CNS/Brain	35	True	retained_non_singleton_lineage
+ATR	ACH-000212	Breast	28	True	retained_non_singleton_lineage
+ATR	ACH-000213	Pancreas	21	True	retained_non_singleton_lineage
+ATR	ACH-000217	Liver	13	True	retained_non_singleton_lineage
+ATR	ACH-000219	Skin	23	True	retained_non_singleton_lineage
+ATR	ACH-000221	Liver	13	True	retained_non_singleton_lineage
+ATR	ACH-000222	Pancreas	21	True	retained_non_singleton_lineage
+ATR	ACH-000223	Breast	28	True	retained_non_singleton_lineage
+ATR	ACH-000226	Lymphoid	49	True	retained_non_singleton_lineage
+ATR	ACH-000227	Peripheral Nervous System	13	True	retained_non_singleton_lineage
+ATR	ACH-000228	Head and Neck	21	True	retained_non_singleton_lineage
+ATR	ACH-000231	CNS/Brain	35	True	retained_non_singleton_lineage
+ATR	ACH-000232	CNS/Brain	35	True	retained_non_singleton_lineage
+ATR	ACH-000233	Lymphoid	49	True	retained_non_singleton_lineage
+ATR	ACH-000238	Head and Neck	21	True	retained_non_singleton_lineage
+ATR	ACH-000242	Bladder/Urinary Tract	11	True	retained_non_singleton_lineage
+ATR	ACH-000243	Pancreas	21	True	retained_non_singleton_lineage
+ATR	ACH-000244	CNS/Brain	35	True	retained_non_singleton_lineage
+ATR	ACH-000247	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ATR	ACH-000248	Breast	28	True	retained_non_singleton_lineage
+ATR	ACH-000249	Bowel	31	True	retained_non_singleton_lineage
+ATR	ACH-000250	Kidney	12	True	retained_non_singleton_lineage
+ATR	ACH-000252	Bowel	31	True	retained_non_singleton_lineage
+ATR	ACH-000258	Breast	28	True	retained_non_singleton_lineage
+ATR	ACH-000259	Peripheral Nervous System	13	True	retained_non_singleton_lineage
+ATR	ACH-000260	Peripheral Nervous System	13	True	retained_non_singleton_lineage
+ATR	ACH-000263	Myeloid	15	True	retained_non_singleton_lineage
+ATR	ACH-000264	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000265	Pancreas	21	True	retained_non_singleton_lineage
+ATR	ACH-000269	CNS/Brain	35	True	retained_non_singleton_lineage
+ATR	ACH-000271	Lymphoid	49	True	retained_non_singleton_lineage
+ATR	ACH-000273	CNS/Brain	35	True	retained_non_singleton_lineage
+ATR	ACH-000276	Breast	28	True	retained_non_singleton_lineage
+ATR	ACH-000277	Breast	28	True	retained_non_singleton_lineage
+ATR	ACH-000281	Pancreas	21	True	retained_non_singleton_lineage
+ATR	ACH-000288	Breast	28	True	retained_non_singleton_lineage
+ATR	ACH-000290	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000291	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+ATR	ACH-000292	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000293	Uterus	14	True	retained_non_singleton_lineage
+ATR	ACH-000294	Myeloid	15	True	retained_non_singleton_lineage
+ATR	ACH-000295	Myeloid	15	True	retained_non_singleton_lineage
+ATR	ACH-000303	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ATR	ACH-000304	Skin	23	True	retained_non_singleton_lineage
+ATR	ACH-000305	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ATR	ACH-000308	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+ATR	ACH-000311	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000315	Lymphoid	49	True	retained_non_singleton_lineage
+ATR	ACH-000318	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ATR	ACH-000319	Pleura	6	True	retained_non_singleton_lineage
+ATR	ACH-000320	Pancreas	21	True	retained_non_singleton_lineage
+ATR	ACH-000322	Skin	23	True	retained_non_singleton_lineage
+ATR	ACH-000323	CNS/Brain	35	True	retained_non_singleton_lineage
+ATR	ACH-000330	Breast	28	True	retained_non_singleton_lineage
+ATR	ACH-000332	Pancreas	21	True	retained_non_singleton_lineage
+ATR	ACH-000334	Lymphoid	49	True	retained_non_singleton_lineage
+ATR	ACH-000335	Pleura	6	True	retained_non_singleton_lineage
+ATR	ACH-000336	Myeloid	15	True	retained_non_singleton_lineage
+ATR	ACH-000337	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000338	Lymphoid	49	True	retained_non_singleton_lineage
+ATR	ACH-000343	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000345	Peripheral Nervous System	13	True	retained_non_singleton_lineage
+ATR	ACH-000346	Lymphoid	49	True	retained_non_singleton_lineage
+ATR	ACH-000348	Skin	23	True	retained_non_singleton_lineage
+ATR	ACH-000350	Bowel	31	True	retained_non_singleton_lineage
+ATR	ACH-000352	Breast	28	True	retained_non_singleton_lineage
+ATR	ACH-000354	Pancreas	21	True	retained_non_singleton_lineage
+ATR	ACH-000355	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000356	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ATR	ACH-000359	Bone	14	True	retained_non_singleton_lineage
+ATR	ACH-000361	Liver	13	True	retained_non_singleton_lineage
+ATR	ACH-000362	Myeloid	15	True	retained_non_singleton_lineage
+ATR	ACH-000363	Lymphoid	49	True	retained_non_singleton_lineage
+ATR	ACH-000364	Bone	14	True	retained_non_singleton_lineage
+ATR	ACH-000365	Lymphoid	49	True	retained_non_singleton_lineage
+ATR	ACH-000366	Peripheral Nervous System	13	True	retained_non_singleton_lineage
+ATR	ACH-000367	Pleura	6	True	retained_non_singleton_lineage
+ATR	ACH-000371	Lymphoid	49	True	retained_non_singleton_lineage
+ATR	ACH-000373	Myeloid	15	True	retained_non_singleton_lineage
+ATR	ACH-000374	Breast	28	True	retained_non_singleton_lineage
+ATR	ACH-000375	Kidney	12	True	retained_non_singleton_lineage
+ATR	ACH-000376	CNS/Brain	35	True	retained_non_singleton_lineage
+ATR	ACH-000378	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000381	Bowel	31	True	retained_non_singleton_lineage
+ATR	ACH-000383	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ATR	ACH-000389	CNS/Brain	35	True	retained_non_singleton_lineage
+ATR	ACH-000391	Bone	14	True	retained_non_singleton_lineage
+ATR	ACH-000395	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000396	Bladder/Urinary Tract	11	True	retained_non_singleton_lineage
+ATR	ACH-000401	Skin	23	True	retained_non_singleton_lineage
+ATR	ACH-000403	Bowel	31	True	retained_non_singleton_lineage
+ATR	ACH-000408	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ATR	ACH-000410	Bone	14	True	retained_non_singleton_lineage
+ATR	ACH-000411	Kidney	12	True	retained_non_singleton_lineage
+ATR	ACH-000414	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000416	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000417	Pancreas	21	True	retained_non_singleton_lineage
+ATR	ACH-000420	Liver	13	True	retained_non_singleton_lineage
+ATR	ACH-000424	Bone	14	True	retained_non_singleton_lineage
+ATR	ACH-000425	Skin	23	True	retained_non_singleton_lineage
+ATR	ACH-000427	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ATR	ACH-000430	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+ATR	ACH-000431	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000433	Kidney	12	True	retained_non_singleton_lineage
+ATR	ACH-000434	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000437	CNS/Brain	35	True	retained_non_singleton_lineage
+ATR	ACH-000438	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000441	Skin	23	True	retained_non_singleton_lineage
+ATR	ACH-000442	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000448	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000450	Skin	23	True	retained_non_singleton_lineage
+ATR	ACH-000452	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ATR	ACH-000456	Thyroid	9	True	retained_non_singleton_lineage
+ATR	ACH-000463	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000464	CNS/Brain	35	True	retained_non_singleton_lineage
+ATR	ACH-000469	CNS/Brain	35	True	retained_non_singleton_lineage
+ATR	ACH-000470	Bowel	31	True	retained_non_singleton_lineage
+ATR	ACH-000472	Head and Neck	21	True	retained_non_singleton_lineage
+ATR	ACH-000473	Bladder/Urinary Tract	11	True	retained_non_singleton_lineage
+ATR	ACH-000475	Liver	13	True	retained_non_singleton_lineage
+ATR	ACH-000476	Liver	13	True	retained_non_singleton_lineage
+ATR	ACH-000478	Liver	13	True	retained_non_singleton_lineage
+ATR	ACH-000480	Liver	13	True	retained_non_singleton_lineage
+ATR	ACH-000481	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000484	Kidney	12	True	retained_non_singleton_lineage
+ATR	ACH-000486	Bladder/Urinary Tract	11	True	retained_non_singleton_lineage
+ATR	ACH-000488	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ATR	ACH-000489	Bowel	31	True	retained_non_singleton_lineage
+ATR	ACH-000491	Bowel	31	True	retained_non_singleton_lineage
+ATR	ACH-000493	Liver	13	True	retained_non_singleton_lineage
+ATR	ACH-000496	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000501	Bowel	31	True	retained_non_singleton_lineage
+ATR	ACH-000504	CNS/Brain	35	True	retained_non_singleton_lineage
+ATR	ACH-000505	Soft Tissue	8	True	retained_non_singleton_lineage
+ATR	ACH-000510	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000514	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000515	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000516	Bone	14	True	retained_non_singleton_lineage
+ATR	ACH-000518	Head and Neck	21	True	retained_non_singleton_lineage
+ATR	ACH-000521	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000524	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+ATR	ACH-000525	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000527	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+ATR	ACH-000528	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000532	Bowel	31	True	retained_non_singleton_lineage
+ATR	ACH-000535	Pancreas	21	True	retained_non_singleton_lineage
+ATR	ACH-000544	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ATR	ACH-000546	Head and Neck	21	True	retained_non_singleton_lineage
+ATR	ACH-000547	Bladder/Urinary Tract	11	True	retained_non_singleton_lineage
+ATR	ACH-000548	Head and Neck	21	True	retained_non_singleton_lineage
+ATR	ACH-000551	Myeloid	15	True	retained_non_singleton_lineage
+ATR	ACH-000552	Bowel	31	True	retained_non_singleton_lineage
+ATR	ACH-000554	Breast	28	True	retained_non_singleton_lineage
+ATR	ACH-000556	Cervix	9	True	retained_non_singleton_lineage
+ATR	ACH-000558	CNS/Brain	35	True	retained_non_singleton_lineage
+ATR	ACH-000559	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000562	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000563	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000565	Bowel	31	True	retained_non_singleton_lineage
+ATR	ACH-000567	Lymphoid	49	True	retained_non_singleton_lineage
+ATR	ACH-000569	Pleura	6	True	retained_non_singleton_lineage
+ATR	ACH-000570	CNS/Brain	35	True	retained_non_singleton_lineage
+ATR	ACH-000571	CNS/Brain	35	True	retained_non_singleton_lineage
+ATR	ACH-000573	Breast	28	True	retained_non_singleton_lineage
+ATR	ACH-000577	Liver	13	True	retained_non_singleton_lineage
+ATR	ACH-000579	Skin	23	True	retained_non_singleton_lineage
+ATR	ACH-000580	Skin	23	True	retained_non_singleton_lineage
+ATR	ACH-000583	Lymphoid	49	True	retained_non_singleton_lineage
+ATR	ACH-000584	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+ATR	ACH-000585	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000587	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000589	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000595	CNS/Brain	35	True	retained_non_singleton_lineage
+ATR	ACH-000596	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000599	Pancreas	21	True	retained_non_singleton_lineage
+ATR	ACH-000601	Pancreas	21	True	retained_non_singleton_lineage
+ATR	ACH-000605	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ATR	ACH-000607	Kidney	12	True	retained_non_singleton_lineage
+ATR	ACH-000609	CNS/Brain	35	True	retained_non_singleton_lineage
+ATR	ACH-000614	Skin	23	True	retained_non_singleton_lineage
+ATR	ACH-000616	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ATR	ACH-000619	Head and Neck	21	True	retained_non_singleton_lineage
+ATR	ACH-000620	Liver	13	True	retained_non_singleton_lineage
+ATR	ACH-000621	Breast	28	True	retained_non_singleton_lineage
+ATR	ACH-000622	CNS/Brain	35	True	retained_non_singleton_lineage
+ATR	ACH-000624	Breast	28	True	retained_non_singleton_lineage
+ATR	ACH-000627	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000631	CNS/Brain	35	True	retained_non_singleton_lineage
+ATR	ACH-000637	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ATR	ACH-000638	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000639	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000647	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ATR	ACH-000648	Pleura	6	True	retained_non_singleton_lineage
+ATR	ACH-000649	Kidney	12	True	retained_non_singleton_lineage
+ATR	ACH-000651	Bowel	31	True	retained_non_singleton_lineage
+ATR	ACH-000652	Pancreas	21	True	retained_non_singleton_lineage
+ATR	ACH-000653	Lymphoid	49	True	retained_non_singleton_lineage
+ATR	ACH-000654	Lymphoid	49	True	retained_non_singleton_lineage
+ATR	ACH-000655	CNS/Brain	35	True	retained_non_singleton_lineage
+ATR	ACH-000656	Lymphoid	49	True	retained_non_singleton_lineage
+ATR	ACH-000657	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+ATR	ACH-000660	Lymphoid	49	True	retained_non_singleton_lineage
+ATR	ACH-000662	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000663	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+ATR	ACH-000664	Lymphoid	49	True	retained_non_singleton_lineage
+ATR	ACH-000665	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000666	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000667	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000668	Breast	28	True	retained_non_singleton_lineage
+ATR	ACH-000672	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000677	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000681	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000688	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+ATR	ACH-000693	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ATR	ACH-000694	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ATR	ACH-000696	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+ATR	ACH-000697	Lymphoid	49	True	retained_non_singleton_lineage
+ATR	ACH-000698	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000702	Lymphoid	49	True	retained_non_singleton_lineage
+ATR	ACH-000704	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+ATR	ACH-000706	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000711	Breast	28	True	retained_non_singleton_lineage
+ATR	ACH-000713	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+ATR	ACH-000714	Lymphoid	49	True	retained_non_singleton_lineage
+ATR	ACH-000716	Thyroid	9	True	retained_non_singleton_lineage
+ATR	ACH-000717	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ATR	ACH-000718	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000720	Bladder/Urinary Tract	11	True	retained_non_singleton_lineage
+ATR	ACH-000722	Bowel	31	True	retained_non_singleton_lineage
+ATR	ACH-000738	CNS/Brain	35	True	retained_non_singleton_lineage
+ATR	ACH-000740	Head and Neck	21	True	retained_non_singleton_lineage
+ATR	ACH-000749	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000754	Lymphoid	49	True	retained_non_singleton_lineage
+ATR	ACH-000756	CNS/Brain	35	True	retained_non_singleton_lineage
+ATR	ACH-000757	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000763	Lymphoid	49	True	retained_non_singleton_lineage
+ATR	ACH-000767	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000768	Breast	28	True	retained_non_singleton_lineage
+ATR	ACH-000769	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000775	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000776	CNS/Brain	35	True	retained_non_singleton_lineage
+ATR	ACH-000778	Head and Neck	21	True	retained_non_singleton_lineage
+ATR	ACH-000781	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000783	Breast	28	True	retained_non_singleton_lineage
+ATR	ACH-000784	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ATR	ACH-000787	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000788	Skin	23	True	retained_non_singleton_lineage
+ATR	ACH-000790	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000792	Kidney	12	True	retained_non_singleton_lineage
+ATR	ACH-000793	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ATR	ACH-000794	Head and Neck	21	True	retained_non_singleton_lineage
+ATR	ACH-000800	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000802	Bladder/Urinary Tract	11	True	retained_non_singleton_lineage
+ATR	ACH-000805	Skin	23	True	retained_non_singleton_lineage
+ATR	ACH-000809	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ATR	ACH-000810	Skin	23	True	retained_non_singleton_lineage
+ATR	ACH-000811	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+ATR	ACH-000817	Lymphoid	49	True	retained_non_singleton_lineage
+ATR	ACH-000819	CNS/Brain	35	True	retained_non_singleton_lineage
+ATR	ACH-000821	Lymphoid	49	True	retained_non_singleton_lineage
+ATR	ACH-000822	Skin	23	True	retained_non_singleton_lineage
+ATR	ACH-000823	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ATR	ACH-000824	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ATR	ACH-000826	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000827	Skin	23	True	retained_non_singleton_lineage
+ATR	ACH-000832	Head and Neck	21	True	retained_non_singleton_lineage
+ATR	ACH-000835	Soft Tissue	8	True	retained_non_singleton_lineage
+ATR	ACH-000838	Lymphoid	49	True	retained_non_singleton_lineage
+ATR	ACH-000840	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000841	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000843	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000846	Head and Neck	21	True	retained_non_singleton_lineage
+ATR	ACH-000847	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ATR	ACH-000848	Liver	13	True	retained_non_singleton_lineage
+ATR	ACH-000849	Breast	28	True	retained_non_singleton_lineage
+ATR	ACH-000853	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000856	Breast	28	True	retained_non_singleton_lineage
+ATR	ACH-000858	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000859	Breast	28	True	retained_non_singleton_lineage
+ATR	ACH-000860	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000861	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000863	CNS/Brain	35	True	retained_non_singleton_lineage
+ATR	ACH-000864	Uterus	14	True	retained_non_singleton_lineage
+ATR	ACH-000865	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ATR	ACH-000866	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000867	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000869	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000871	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000873	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ATR	ACH-000874	Lymphoid	49	True	retained_non_singleton_lineage
+ATR	ACH-000876	Breast	28	True	retained_non_singleton_lineage
+ATR	ACH-000878	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000879	Uterus	14	True	retained_non_singleton_lineage
+ATR	ACH-000880	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ATR	ACH-000881	Skin	23	True	retained_non_singleton_lineage
+ATR	ACH-000882	Skin	23	True	retained_non_singleton_lineage
+ATR	ACH-000885	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+ATR	ACH-000888	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000890	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000894	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000896	Bladder/Urinary Tract	11	True	retained_non_singleton_lineage
+ATR	ACH-000900	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000903	Thyroid	9	True	retained_non_singleton_lineage
+ATR	ACH-000905	Bladder/Urinary Tract	11	True	retained_non_singleton_lineage
+ATR	ACH-000906	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+ATR	ACH-000910	Breast	28	True	retained_non_singleton_lineage
+ATR	ACH-000911	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ATR	ACH-000913	Uterus	14	True	retained_non_singleton_lineage
+ATR	ACH-000914	Lymphoid	49	True	retained_non_singleton_lineage
+ATR	ACH-000915	Skin	23	True	retained_non_singleton_lineage
+ATR	ACH-000917	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ATR	ACH-000919	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ATR	ACH-000920	Myeloid	15	True	retained_non_singleton_lineage
+ATR	ACH-000922	Lymphoid	49	True	retained_non_singleton_lineage
+ATR	ACH-000924	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000926	Bowel	31	True	retained_non_singleton_lineage
+ATR	ACH-000929	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000932	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ATR	ACH-000934	Breast	28	True	retained_non_singleton_lineage
+ATR	ACH-000935	Bowel	31	True	retained_non_singleton_lineage
+ATR	ACH-000936	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+ATR	ACH-000937	Lymphoid	49	True	retained_non_singleton_lineage
+ATR	ACH-000938	Lymphoid	49	True	retained_non_singleton_lineage
+ATR	ACH-000939	Uterus	14	True	retained_non_singleton_lineage
+ATR	ACH-000943	Bowel	31	True	retained_non_singleton_lineage
+ATR	ACH-000944	Lymphoid	49	True	retained_non_singleton_lineage
+ATR	ACH-000945	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000947	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+ATR	ACH-000948	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ATR	ACH-000950	Bowel	31	True	retained_non_singleton_lineage
+ATR	ACH-000953	Lymphoid	49	True	retained_non_singleton_lineage
+ATR	ACH-000956	Prostate	5	True	retained_non_singleton_lineage
+ATR	ACH-000957	Bowel	31	True	retained_non_singleton_lineage
+ATR	ACH-000958	Bowel	31	True	retained_non_singleton_lineage
+ATR	ACH-000960	Lymphoid	49	True	retained_non_singleton_lineage
+ATR	ACH-000963	Bowel	31	True	retained_non_singleton_lineage
+ATR	ACH-000965	Uterus	14	True	retained_non_singleton_lineage
+ATR	ACH-000966	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+ATR	ACH-000968	Skin	23	True	retained_non_singleton_lineage
+ATR	ACH-000969	Bowel	31	True	retained_non_singleton_lineage
+ATR	ACH-000970	Bowel	31	True	retained_non_singleton_lineage
+ATR	ACH-000971	Bowel	31	True	retained_non_singleton_lineage
+ATR	ACH-000974	Uterus	14	True	retained_non_singleton_lineage
+ATR	ACH-000976	Biliary Tract	1	False	singleton_lineage_in_frozen_target_mask
+ATR	ACH-000977	Prostate	5	True	retained_non_singleton_lineage
+ATR	ACH-000978	Uterus	14	True	retained_non_singleton_lineage
+ATR	ACH-000979	Prostate	5	True	retained_non_singleton_lineage
+ATR	ACH-000980	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-000981	Lymphoid	49	True	retained_non_singleton_lineage
+ATR	ACH-000983	Myeloid	15	True	retained_non_singleton_lineage
+ATR	ACH-000985	Bowel	31	True	retained_non_singleton_lineage
+ATR	ACH-000986	Bowel	31	True	retained_non_singleton_lineage
+ATR	ACH-000988	Uterus	14	True	retained_non_singleton_lineage
+ATR	ACH-000991	Bowel	31	True	retained_non_singleton_lineage
+ATR	ACH-000995	Lymphoid	49	True	retained_non_singleton_lineage
+ATR	ACH-000997	Bowel	31	True	retained_non_singleton_lineage
+ATR	ACH-001016	CNS/Brain	35	True	retained_non_singleton_lineage
+ATR	ACH-001021	Liver	13	True	retained_non_singleton_lineage
+ATR	ACH-001075	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-001151	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+ATR	ACH-001190	Skin	23	True	retained_non_singleton_lineage
+ATR	ACH-001193	Bone	14	True	retained_non_singleton_lineage
+ATR	ACH-001227	Head and Neck	21	True	retained_non_singleton_lineage
+ATR	ACH-001274	Soft Tissue	8	True	retained_non_singleton_lineage
+ATR	ACH-001306	Thyroid	9	True	retained_non_singleton_lineage
+ATR	ACH-001307	Thyroid	9	True	retained_non_singleton_lineage
+ATR	ACH-001328	Skin	23	True	retained_non_singleton_lineage
+ATR	ACH-001332	Head and Neck	21	True	retained_non_singleton_lineage
+ATR	ACH-001333	Cervix	9	True	retained_non_singleton_lineage
+ATR	ACH-001334	Cervix	9	True	retained_non_singleton_lineage
+ATR	ACH-001336	Cervix	9	True	retained_non_singleton_lineage
+ATR	ACH-001338	Peripheral Nervous System	13	True	retained_non_singleton_lineage
+ATR	ACH-001341	Cervix	9	True	retained_non_singleton_lineage
+ATR	ACH-001344	Peripheral Nervous System	13	True	retained_non_singleton_lineage
+ATR	ACH-001345	Bowel	31	True	retained_non_singleton_lineage
+ATR	ACH-001360	Cervix	9	True	retained_non_singleton_lineage
+ATR	ACH-001368	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ATR	ACH-001374	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+ATR	ACH-001398	Kidney	12	True	retained_non_singleton_lineage
+ATR	ACH-001399	Bowel	31	True	retained_non_singleton_lineage
+ATR	ACH-001400	Vulva/Vagina	1	False	singleton_lineage_in_frozen_target_mask
+ATR	ACH-001401	Adrenal Gland	1	False	singleton_lineage_in_frozen_target_mask
+ATR	ACH-001402	Cervix	9	True	retained_non_singleton_lineage
+ATR	ACH-001418	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+ATR	ACH-001442	Skin	23	True	retained_non_singleton_lineage
+ATR	ACH-001443	Thyroid	9	True	retained_non_singleton_lineage
+ATR	ACH-001453	Prostate	5	True	retained_non_singleton_lineage
+ATR	ACH-001496	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ATR	ACH-001497	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ATR	ACH-001498	Lymphoid	49	True	retained_non_singleton_lineage
+ATR	ACH-001500	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ATR	ACH-001517	Uterus	14	True	retained_non_singleton_lineage
+ATR	ACH-001525	Cervix	9	True	retained_non_singleton_lineage
+ATR	ACH-001526	Bone	14	True	retained_non_singleton_lineage
+ATR	ACH-001528	Thyroid	9	True	retained_non_singleton_lineage
+ATR	ACH-001529	Uterus	14	True	retained_non_singleton_lineage
+ATR	ACH-001530	Uterus	14	True	retained_non_singleton_lineage
+ATR	ACH-001542	Head and Neck	21	True	retained_non_singleton_lineage
+ATR	ACH-001543	Head and Neck	21	True	retained_non_singleton_lineage
+ATR	ACH-001549	Lung	85	True	retained_non_singleton_lineage
+ATR	ACH-001603	Peripheral Nervous System	13	True	retained_non_singleton_lineage
+ATR	ACH-001606	CNS/Brain	35	True	retained_non_singleton_lineage
+ATR	ACH-001626	Head and Neck	21	True	retained_non_singleton_lineage
+ATR	ACH-001630	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+ATR	ACH-001641	Head and Neck	21	True	retained_non_singleton_lineage
+ATR	ACH-001642	Lymphoid	49	True	retained_non_singleton_lineage
+ATR	ACH-001650	Cervix	9	True	retained_non_singleton_lineage
+ATR	ACH-001653	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ATR	ACH-001654	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+ATR	ACH-001655	Uterus	14	True	retained_non_singleton_lineage
+ATR	ACH-001674	Peripheral Nervous System	13	True	retained_non_singleton_lineage
+ATR	ACH-001702	Soft Tissue	8	True	retained_non_singleton_lineage
+ATR	ACH-001709	Lymphoid	49	True	retained_non_singleton_lineage
+ATR	ACH-001715	Bone	14	True	retained_non_singleton_lineage
+ATR	ACH-002142	Bone	14	True	retained_non_singleton_lineage
+ATR	ACH-002214	Lymphoid	49	True	retained_non_singleton_lineage
+ATR	ACH-002215	Lymphoid	49	True	retained_non_singleton_lineage
+ATR	ACH-002283	Peripheral Nervous System	13	True	retained_non_singleton_lineage
+CHEK1	ACH-000001	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+CHEK1	ACH-000004	Myeloid	15	True	retained_non_singleton_lineage
+CHEK1	ACH-000009	Bowel	30	True	retained_non_singleton_lineage
+CHEK1	ACH-000012	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000015	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000018	Bladder/Urinary Tract	13	True	retained_non_singleton_lineage
+CHEK1	ACH-000019	Breast	28	True	retained_non_singleton_lineage
+CHEK1	ACH-000021	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000023	Pancreas	21	True	retained_non_singleton_lineage
+CHEK1	ACH-000024	Lymphoid	49	True	retained_non_singleton_lineage
+CHEK1	ACH-000030	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000035	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000040	CNS/Brain	34	True	retained_non_singleton_lineage
+CHEK1	ACH-000042	Pancreas	21	True	retained_non_singleton_lineage
+CHEK1	ACH-000048	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+CHEK1	ACH-000052	Bone	14	True	retained_non_singleton_lineage
+CHEK1	ACH-000053	Lymphoid	49	True	retained_non_singleton_lineage
+CHEK1	ACH-000054	Soft Tissue	8	True	retained_non_singleton_lineage
+CHEK1	ACH-000055	CNS/Brain	34	True	retained_non_singleton_lineage
+CHEK1	ACH-000060	Pancreas	21	True	retained_non_singleton_lineage
+CHEK1	ACH-000067	CNS/Brain	34	True	retained_non_singleton_lineage
+CHEK1	ACH-000070	Lymphoid	49	True	retained_non_singleton_lineage
+CHEK1	ACH-000074	Myeloid	15	True	retained_non_singleton_lineage
+CHEK1	ACH-000075	CNS/Brain	34	True	retained_non_singleton_lineage
+CHEK1	ACH-000078	Peripheral Nervous System	13	True	retained_non_singleton_lineage
+CHEK1	ACH-000082	Bone	14	True	retained_non_singleton_lineage
+CHEK1	ACH-000087	Bone	14	True	retained_non_singleton_lineage
+CHEK1	ACH-000090	Prostate	6	True	retained_non_singleton_lineage
+CHEK1	ACH-000094	Pancreas	21	True	retained_non_singleton_lineage
+CHEK1	ACH-000096	Kidney	12	True	retained_non_singleton_lineage
+CHEK1	ACH-000098	CNS/Brain	34	True	retained_non_singleton_lineage
+CHEK1	ACH-000099	Peripheral Nervous System	13	True	retained_non_singleton_lineage
+CHEK1	ACH-000100	Soft Tissue	8	True	retained_non_singleton_lineage
+CHEK1	ACH-000101	Lymphoid	49	True	retained_non_singleton_lineage
+CHEK1	ACH-000106	Lymphoid	49	True	retained_non_singleton_lineage
+CHEK1	ACH-000108	Pancreas	21	True	retained_non_singleton_lineage
+CHEK1	ACH-000111	Breast	28	True	retained_non_singleton_lineage
+CHEK1	ACH-000113	Myeloid	15	True	retained_non_singleton_lineage
+CHEK1	ACH-000114	Pancreas	21	True	retained_non_singleton_lineage
+CHEK1	ACH-000115	Prostate	6	True	retained_non_singleton_lineage
+CHEK1	ACH-000116	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+CHEK1	ACH-000118	Pancreas	21	True	retained_non_singleton_lineage
+CHEK1	ACH-000120	Peripheral Nervous System	13	True	retained_non_singleton_lineage
+CHEK1	ACH-000132	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+CHEK1	ACH-000137	CNS/Brain	34	True	retained_non_singleton_lineage
+CHEK1	ACH-000138	Pancreas	21	True	retained_non_singleton_lineage
+CHEK1	ACH-000142	Bladder/Urinary Tract	13	True	retained_non_singleton_lineage
+CHEK1	ACH-000144	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+CHEK1	ACH-000145	Soft Tissue	8	True	retained_non_singleton_lineage
+CHEK1	ACH-000146	Myeloid	15	True	retained_non_singleton_lineage
+CHEK1	ACH-000147	Breast	28	True	retained_non_singleton_lineage
+CHEK1	ACH-000148	Breast	28	True	retained_non_singleton_lineage
+CHEK1	ACH-000151	Lymphoid	49	True	retained_non_singleton_lineage
+CHEK1	ACH-000153	Pleura	6	True	retained_non_singleton_lineage
+CHEK1	ACH-000159	Kidney	12	True	retained_non_singleton_lineage
+CHEK1	ACH-000161	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000168	Myeloid	15	True	retained_non_singleton_lineage
+CHEK1	ACH-000169	Soft Tissue	8	True	retained_non_singleton_lineage
+CHEK1	ACH-000174	Thyroid	9	True	retained_non_singleton_lineage
+CHEK1	ACH-000176	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000181	Head and Neck	21	True	retained_non_singleton_lineage
+CHEK1	ACH-000183	Lymphoid	49	True	retained_non_singleton_lineage
+CHEK1	ACH-000187	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000188	Head and Neck	21	True	retained_non_singleton_lineage
+CHEK1	ACH-000189	Kidney	12	True	retained_non_singleton_lineage
+CHEK1	ACH-000191	Thyroid	9	True	retained_non_singleton_lineage
+CHEK1	ACH-000192	Uterus	14	True	retained_non_singleton_lineage
+CHEK1	ACH-000197	Lymphoid	49	True	retained_non_singleton_lineage
+CHEK1	ACH-000198	Myeloid	15	True	retained_non_singleton_lineage
+CHEK1	ACH-000200	CNS/Brain	34	True	retained_non_singleton_lineage
+CHEK1	ACH-000204	Lymphoid	49	True	retained_non_singleton_lineage
+CHEK1	ACH-000207	Head and Neck	21	True	retained_non_singleton_lineage
+CHEK1	ACH-000210	Bone	14	True	retained_non_singleton_lineage
+CHEK1	ACH-000211	CNS/Brain	34	True	retained_non_singleton_lineage
+CHEK1	ACH-000212	Breast	28	True	retained_non_singleton_lineage
+CHEK1	ACH-000213	Pancreas	21	True	retained_non_singleton_lineage
+CHEK1	ACH-000217	Liver	13	True	retained_non_singleton_lineage
+CHEK1	ACH-000219	Skin	23	True	retained_non_singleton_lineage
+CHEK1	ACH-000221	Liver	13	True	retained_non_singleton_lineage
+CHEK1	ACH-000222	Pancreas	21	True	retained_non_singleton_lineage
+CHEK1	ACH-000223	Breast	28	True	retained_non_singleton_lineage
+CHEK1	ACH-000226	Lymphoid	49	True	retained_non_singleton_lineage
+CHEK1	ACH-000227	Peripheral Nervous System	13	True	retained_non_singleton_lineage
+CHEK1	ACH-000228	Head and Neck	21	True	retained_non_singleton_lineage
+CHEK1	ACH-000231	CNS/Brain	34	True	retained_non_singleton_lineage
+CHEK1	ACH-000232	CNS/Brain	34	True	retained_non_singleton_lineage
+CHEK1	ACH-000233	Lymphoid	49	True	retained_non_singleton_lineage
+CHEK1	ACH-000238	Head and Neck	21	True	retained_non_singleton_lineage
+CHEK1	ACH-000242	Bladder/Urinary Tract	13	True	retained_non_singleton_lineage
+CHEK1	ACH-000243	Pancreas	21	True	retained_non_singleton_lineage
+CHEK1	ACH-000244	CNS/Brain	34	True	retained_non_singleton_lineage
+CHEK1	ACH-000247	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+CHEK1	ACH-000248	Breast	28	True	retained_non_singleton_lineage
+CHEK1	ACH-000249	Bowel	30	True	retained_non_singleton_lineage
+CHEK1	ACH-000250	Kidney	12	True	retained_non_singleton_lineage
+CHEK1	ACH-000252	Bowel	30	True	retained_non_singleton_lineage
+CHEK1	ACH-000258	Breast	28	True	retained_non_singleton_lineage
+CHEK1	ACH-000259	Peripheral Nervous System	13	True	retained_non_singleton_lineage
+CHEK1	ACH-000260	Peripheral Nervous System	13	True	retained_non_singleton_lineage
+CHEK1	ACH-000263	Myeloid	15	True	retained_non_singleton_lineage
+CHEK1	ACH-000264	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000265	Pancreas	21	True	retained_non_singleton_lineage
+CHEK1	ACH-000269	CNS/Brain	34	True	retained_non_singleton_lineage
+CHEK1	ACH-000271	Lymphoid	49	True	retained_non_singleton_lineage
+CHEK1	ACH-000273	CNS/Brain	34	True	retained_non_singleton_lineage
+CHEK1	ACH-000276	Breast	28	True	retained_non_singleton_lineage
+CHEK1	ACH-000277	Breast	28	True	retained_non_singleton_lineage
+CHEK1	ACH-000281	Pancreas	21	True	retained_non_singleton_lineage
+CHEK1	ACH-000288	Breast	28	True	retained_non_singleton_lineage
+CHEK1	ACH-000290	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000291	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+CHEK1	ACH-000292	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000293	Uterus	14	True	retained_non_singleton_lineage
+CHEK1	ACH-000294	Myeloid	15	True	retained_non_singleton_lineage
+CHEK1	ACH-000295	Myeloid	15	True	retained_non_singleton_lineage
+CHEK1	ACH-000303	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+CHEK1	ACH-000304	Skin	23	True	retained_non_singleton_lineage
+CHEK1	ACH-000305	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+CHEK1	ACH-000308	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+CHEK1	ACH-000311	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000315	Lymphoid	49	True	retained_non_singleton_lineage
+CHEK1	ACH-000318	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+CHEK1	ACH-000319	Pleura	6	True	retained_non_singleton_lineage
+CHEK1	ACH-000320	Pancreas	21	True	retained_non_singleton_lineage
+CHEK1	ACH-000322	Skin	23	True	retained_non_singleton_lineage
+CHEK1	ACH-000323	CNS/Brain	34	True	retained_non_singleton_lineage
+CHEK1	ACH-000330	Breast	28	True	retained_non_singleton_lineage
+CHEK1	ACH-000332	Pancreas	21	True	retained_non_singleton_lineage
+CHEK1	ACH-000334	Lymphoid	49	True	retained_non_singleton_lineage
+CHEK1	ACH-000335	Pleura	6	True	retained_non_singleton_lineage
+CHEK1	ACH-000336	Myeloid	15	True	retained_non_singleton_lineage
+CHEK1	ACH-000337	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000338	Lymphoid	49	True	retained_non_singleton_lineage
+CHEK1	ACH-000343	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000345	Peripheral Nervous System	13	True	retained_non_singleton_lineage
+CHEK1	ACH-000346	Lymphoid	49	True	retained_non_singleton_lineage
+CHEK1	ACH-000348	Skin	23	True	retained_non_singleton_lineage
+CHEK1	ACH-000350	Bowel	30	True	retained_non_singleton_lineage
+CHEK1	ACH-000352	Breast	28	True	retained_non_singleton_lineage
+CHEK1	ACH-000354	Pancreas	21	True	retained_non_singleton_lineage
+CHEK1	ACH-000355	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000356	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+CHEK1	ACH-000359	Bone	14	True	retained_non_singleton_lineage
+CHEK1	ACH-000361	Liver	13	True	retained_non_singleton_lineage
+CHEK1	ACH-000362	Myeloid	15	True	retained_non_singleton_lineage
+CHEK1	ACH-000363	Lymphoid	49	True	retained_non_singleton_lineage
+CHEK1	ACH-000364	Bone	14	True	retained_non_singleton_lineage
+CHEK1	ACH-000365	Lymphoid	49	True	retained_non_singleton_lineage
+CHEK1	ACH-000366	Peripheral Nervous System	13	True	retained_non_singleton_lineage
+CHEK1	ACH-000367	Pleura	6	True	retained_non_singleton_lineage
+CHEK1	ACH-000371	Lymphoid	49	True	retained_non_singleton_lineage
+CHEK1	ACH-000373	Myeloid	15	True	retained_non_singleton_lineage
+CHEK1	ACH-000374	Breast	28	True	retained_non_singleton_lineage
+CHEK1	ACH-000375	Kidney	12	True	retained_non_singleton_lineage
+CHEK1	ACH-000376	CNS/Brain	34	True	retained_non_singleton_lineage
+CHEK1	ACH-000378	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000381	Bowel	30	True	retained_non_singleton_lineage
+CHEK1	ACH-000383	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+CHEK1	ACH-000389	CNS/Brain	34	True	retained_non_singleton_lineage
+CHEK1	ACH-000391	Bone	14	True	retained_non_singleton_lineage
+CHEK1	ACH-000395	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000396	Bladder/Urinary Tract	13	True	retained_non_singleton_lineage
+CHEK1	ACH-000401	Skin	23	True	retained_non_singleton_lineage
+CHEK1	ACH-000403	Bowel	30	True	retained_non_singleton_lineage
+CHEK1	ACH-000408	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+CHEK1	ACH-000410	Bone	14	True	retained_non_singleton_lineage
+CHEK1	ACH-000411	Kidney	12	True	retained_non_singleton_lineage
+CHEK1	ACH-000414	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000416	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000417	Pancreas	21	True	retained_non_singleton_lineage
+CHEK1	ACH-000420	Liver	13	True	retained_non_singleton_lineage
+CHEK1	ACH-000421	Bowel	30	True	retained_non_singleton_lineage
+CHEK1	ACH-000424	Bone	14	True	retained_non_singleton_lineage
+CHEK1	ACH-000425	Skin	23	True	retained_non_singleton_lineage
+CHEK1	ACH-000427	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+CHEK1	ACH-000430	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+CHEK1	ACH-000433	Kidney	12	True	retained_non_singleton_lineage
+CHEK1	ACH-000434	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000437	CNS/Brain	34	True	retained_non_singleton_lineage
+CHEK1	ACH-000438	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000441	Skin	23	True	retained_non_singleton_lineage
+CHEK1	ACH-000442	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000448	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000450	Skin	23	True	retained_non_singleton_lineage
+CHEK1	ACH-000452	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+CHEK1	ACH-000456	Thyroid	9	True	retained_non_singleton_lineage
+CHEK1	ACH-000463	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000464	CNS/Brain	34	True	retained_non_singleton_lineage
+CHEK1	ACH-000469	CNS/Brain	34	True	retained_non_singleton_lineage
+CHEK1	ACH-000470	Bowel	30	True	retained_non_singleton_lineage
+CHEK1	ACH-000472	Head and Neck	21	True	retained_non_singleton_lineage
+CHEK1	ACH-000473	Bladder/Urinary Tract	13	True	retained_non_singleton_lineage
+CHEK1	ACH-000475	Liver	13	True	retained_non_singleton_lineage
+CHEK1	ACH-000476	Liver	13	True	retained_non_singleton_lineage
+CHEK1	ACH-000478	Liver	13	True	retained_non_singleton_lineage
+CHEK1	ACH-000480	Liver	13	True	retained_non_singleton_lineage
+CHEK1	ACH-000481	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000484	Kidney	12	True	retained_non_singleton_lineage
+CHEK1	ACH-000486	Bladder/Urinary Tract	13	True	retained_non_singleton_lineage
+CHEK1	ACH-000488	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+CHEK1	ACH-000489	Bowel	30	True	retained_non_singleton_lineage
+CHEK1	ACH-000491	Bowel	30	True	retained_non_singleton_lineage
+CHEK1	ACH-000493	Liver	13	True	retained_non_singleton_lineage
+CHEK1	ACH-000496	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000501	Bowel	30	True	retained_non_singleton_lineage
+CHEK1	ACH-000504	CNS/Brain	34	True	retained_non_singleton_lineage
+CHEK1	ACH-000505	Soft Tissue	8	True	retained_non_singleton_lineage
+CHEK1	ACH-000510	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000514	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000515	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000516	Bone	14	True	retained_non_singleton_lineage
+CHEK1	ACH-000518	Head and Neck	21	True	retained_non_singleton_lineage
+CHEK1	ACH-000521	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000524	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+CHEK1	ACH-000525	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000527	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+CHEK1	ACH-000528	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000535	Pancreas	21	True	retained_non_singleton_lineage
+CHEK1	ACH-000544	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+CHEK1	ACH-000546	Head and Neck	21	True	retained_non_singleton_lineage
+CHEK1	ACH-000547	Bladder/Urinary Tract	13	True	retained_non_singleton_lineage
+CHEK1	ACH-000548	Head and Neck	21	True	retained_non_singleton_lineage
+CHEK1	ACH-000551	Myeloid	15	True	retained_non_singleton_lineage
+CHEK1	ACH-000552	Bowel	30	True	retained_non_singleton_lineage
+CHEK1	ACH-000554	Breast	28	True	retained_non_singleton_lineage
+CHEK1	ACH-000556	Cervix	9	True	retained_non_singleton_lineage
+CHEK1	ACH-000558	CNS/Brain	34	True	retained_non_singleton_lineage
+CHEK1	ACH-000559	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000562	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000563	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000565	Bowel	30	True	retained_non_singleton_lineage
+CHEK1	ACH-000567	Lymphoid	49	True	retained_non_singleton_lineage
+CHEK1	ACH-000569	Pleura	6	True	retained_non_singleton_lineage
+CHEK1	ACH-000570	CNS/Brain	34	True	retained_non_singleton_lineage
+CHEK1	ACH-000571	CNS/Brain	34	True	retained_non_singleton_lineage
+CHEK1	ACH-000573	Breast	28	True	retained_non_singleton_lineage
+CHEK1	ACH-000577	Liver	13	True	retained_non_singleton_lineage
+CHEK1	ACH-000579	Skin	23	True	retained_non_singleton_lineage
+CHEK1	ACH-000580	Skin	23	True	retained_non_singleton_lineage
+CHEK1	ACH-000583	Lymphoid	49	True	retained_non_singleton_lineage
+CHEK1	ACH-000584	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+CHEK1	ACH-000585	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000587	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000589	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000595	CNS/Brain	34	True	retained_non_singleton_lineage
+CHEK1	ACH-000596	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000599	Pancreas	21	True	retained_non_singleton_lineage
+CHEK1	ACH-000601	Pancreas	21	True	retained_non_singleton_lineage
+CHEK1	ACH-000605	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+CHEK1	ACH-000607	Kidney	12	True	retained_non_singleton_lineage
+CHEK1	ACH-000609	CNS/Brain	34	True	retained_non_singleton_lineage
+CHEK1	ACH-000614	Skin	23	True	retained_non_singleton_lineage
+CHEK1	ACH-000616	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+CHEK1	ACH-000619	Head and Neck	21	True	retained_non_singleton_lineage
+CHEK1	ACH-000620	Liver	13	True	retained_non_singleton_lineage
+CHEK1	ACH-000621	Breast	28	True	retained_non_singleton_lineage
+CHEK1	ACH-000622	CNS/Brain	34	True	retained_non_singleton_lineage
+CHEK1	ACH-000624	Breast	28	True	retained_non_singleton_lineage
+CHEK1	ACH-000627	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000631	CNS/Brain	34	True	retained_non_singleton_lineage
+CHEK1	ACH-000637	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+CHEK1	ACH-000638	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000639	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000647	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+CHEK1	ACH-000648	Pleura	6	True	retained_non_singleton_lineage
+CHEK1	ACH-000649	Kidney	12	True	retained_non_singleton_lineage
+CHEK1	ACH-000651	Bowel	30	True	retained_non_singleton_lineage
+CHEK1	ACH-000652	Pancreas	21	True	retained_non_singleton_lineage
+CHEK1	ACH-000653	Lymphoid	49	True	retained_non_singleton_lineage
+CHEK1	ACH-000654	Lymphoid	49	True	retained_non_singleton_lineage
+CHEK1	ACH-000655	CNS/Brain	34	True	retained_non_singleton_lineage
+CHEK1	ACH-000656	Lymphoid	49	True	retained_non_singleton_lineage
+CHEK1	ACH-000657	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+CHEK1	ACH-000660	Lymphoid	49	True	retained_non_singleton_lineage
+CHEK1	ACH-000662	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000663	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+CHEK1	ACH-000664	Lymphoid	49	True	retained_non_singleton_lineage
+CHEK1	ACH-000665	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000666	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000667	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000668	Breast	28	True	retained_non_singleton_lineage
+CHEK1	ACH-000672	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000677	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000681	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000688	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+CHEK1	ACH-000693	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+CHEK1	ACH-000694	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+CHEK1	ACH-000696	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+CHEK1	ACH-000697	Lymphoid	49	True	retained_non_singleton_lineage
+CHEK1	ACH-000698	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000702	Lymphoid	49	True	retained_non_singleton_lineage
+CHEK1	ACH-000704	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+CHEK1	ACH-000706	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000711	Breast	28	True	retained_non_singleton_lineage
+CHEK1	ACH-000713	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+CHEK1	ACH-000714	Lymphoid	49	True	retained_non_singleton_lineage
+CHEK1	ACH-000716	Thyroid	9	True	retained_non_singleton_lineage
+CHEK1	ACH-000717	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+CHEK1	ACH-000718	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000720	Bladder/Urinary Tract	13	True	retained_non_singleton_lineage
+CHEK1	ACH-000722	Bowel	30	True	retained_non_singleton_lineage
+CHEK1	ACH-000724	Bladder/Urinary Tract	13	True	retained_non_singleton_lineage
+CHEK1	ACH-000738	CNS/Brain	34	True	retained_non_singleton_lineage
+CHEK1	ACH-000740	Head and Neck	21	True	retained_non_singleton_lineage
+CHEK1	ACH-000749	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000754	Lymphoid	49	True	retained_non_singleton_lineage
+CHEK1	ACH-000757	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000763	Lymphoid	49	True	retained_non_singleton_lineage
+CHEK1	ACH-000767	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000768	Breast	28	True	retained_non_singleton_lineage
+CHEK1	ACH-000769	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000775	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000776	CNS/Brain	34	True	retained_non_singleton_lineage
+CHEK1	ACH-000778	Head and Neck	21	True	retained_non_singleton_lineage
+CHEK1	ACH-000781	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000783	Breast	28	True	retained_non_singleton_lineage
+CHEK1	ACH-000784	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+CHEK1	ACH-000787	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000788	Skin	23	True	retained_non_singleton_lineage
+CHEK1	ACH-000790	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000792	Kidney	12	True	retained_non_singleton_lineage
+CHEK1	ACH-000793	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+CHEK1	ACH-000794	Head and Neck	21	True	retained_non_singleton_lineage
+CHEK1	ACH-000800	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000802	Bladder/Urinary Tract	13	True	retained_non_singleton_lineage
+CHEK1	ACH-000805	Skin	23	True	retained_non_singleton_lineage
+CHEK1	ACH-000809	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+CHEK1	ACH-000810	Skin	23	True	retained_non_singleton_lineage
+CHEK1	ACH-000811	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+CHEK1	ACH-000817	Lymphoid	49	True	retained_non_singleton_lineage
+CHEK1	ACH-000819	CNS/Brain	34	True	retained_non_singleton_lineage
+CHEK1	ACH-000821	Lymphoid	49	True	retained_non_singleton_lineage
+CHEK1	ACH-000822	Skin	23	True	retained_non_singleton_lineage
+CHEK1	ACH-000823	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+CHEK1	ACH-000824	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+CHEK1	ACH-000826	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000827	Skin	23	True	retained_non_singleton_lineage
+CHEK1	ACH-000832	Head and Neck	21	True	retained_non_singleton_lineage
+CHEK1	ACH-000835	Soft Tissue	8	True	retained_non_singleton_lineage
+CHEK1	ACH-000838	Lymphoid	49	True	retained_non_singleton_lineage
+CHEK1	ACH-000840	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000841	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000843	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000846	Head and Neck	21	True	retained_non_singleton_lineage
+CHEK1	ACH-000847	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+CHEK1	ACH-000848	Liver	13	True	retained_non_singleton_lineage
+CHEK1	ACH-000849	Breast	28	True	retained_non_singleton_lineage
+CHEK1	ACH-000853	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000856	Breast	28	True	retained_non_singleton_lineage
+CHEK1	ACH-000858	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000859	Breast	28	True	retained_non_singleton_lineage
+CHEK1	ACH-000860	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000861	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000863	CNS/Brain	34	True	retained_non_singleton_lineage
+CHEK1	ACH-000864	Uterus	14	True	retained_non_singleton_lineage
+CHEK1	ACH-000865	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+CHEK1	ACH-000866	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000867	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000869	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000871	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000873	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+CHEK1	ACH-000874	Lymphoid	49	True	retained_non_singleton_lineage
+CHEK1	ACH-000876	Breast	28	True	retained_non_singleton_lineage
+CHEK1	ACH-000878	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000879	Uterus	14	True	retained_non_singleton_lineage
+CHEK1	ACH-000880	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+CHEK1	ACH-000881	Skin	23	True	retained_non_singleton_lineage
+CHEK1	ACH-000882	Skin	23	True	retained_non_singleton_lineage
+CHEK1	ACH-000885	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+CHEK1	ACH-000888	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000890	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000894	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000896	Bladder/Urinary Tract	13	True	retained_non_singleton_lineage
+CHEK1	ACH-000900	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000903	Thyroid	9	True	retained_non_singleton_lineage
+CHEK1	ACH-000905	Bladder/Urinary Tract	13	True	retained_non_singleton_lineage
+CHEK1	ACH-000906	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+CHEK1	ACH-000910	Breast	28	True	retained_non_singleton_lineage
+CHEK1	ACH-000911	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+CHEK1	ACH-000913	Uterus	14	True	retained_non_singleton_lineage
+CHEK1	ACH-000914	Lymphoid	49	True	retained_non_singleton_lineage
+CHEK1	ACH-000915	Skin	23	True	retained_non_singleton_lineage
+CHEK1	ACH-000917	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+CHEK1	ACH-000919	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+CHEK1	ACH-000920	Myeloid	15	True	retained_non_singleton_lineage
+CHEK1	ACH-000922	Lymphoid	49	True	retained_non_singleton_lineage
+CHEK1	ACH-000924	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000926	Bowel	30	True	retained_non_singleton_lineage
+CHEK1	ACH-000929	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000932	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+CHEK1	ACH-000934	Breast	28	True	retained_non_singleton_lineage
+CHEK1	ACH-000936	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+CHEK1	ACH-000937	Lymphoid	49	True	retained_non_singleton_lineage
+CHEK1	ACH-000938	Lymphoid	49	True	retained_non_singleton_lineage
+CHEK1	ACH-000939	Uterus	14	True	retained_non_singleton_lineage
+CHEK1	ACH-000943	Bowel	30	True	retained_non_singleton_lineage
+CHEK1	ACH-000944	Lymphoid	49	True	retained_non_singleton_lineage
+CHEK1	ACH-000945	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000947	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+CHEK1	ACH-000948	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+CHEK1	ACH-000950	Bowel	30	True	retained_non_singleton_lineage
+CHEK1	ACH-000953	Lymphoid	49	True	retained_non_singleton_lineage
+CHEK1	ACH-000956	Prostate	6	True	retained_non_singleton_lineage
+CHEK1	ACH-000957	Bowel	30	True	retained_non_singleton_lineage
+CHEK1	ACH-000958	Bowel	30	True	retained_non_singleton_lineage
+CHEK1	ACH-000960	Lymphoid	49	True	retained_non_singleton_lineage
+CHEK1	ACH-000963	Bowel	30	True	retained_non_singleton_lineage
+CHEK1	ACH-000965	Uterus	14	True	retained_non_singleton_lineage
+CHEK1	ACH-000966	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+CHEK1	ACH-000968	Skin	23	True	retained_non_singleton_lineage
+CHEK1	ACH-000969	Bowel	30	True	retained_non_singleton_lineage
+CHEK1	ACH-000970	Bowel	30	True	retained_non_singleton_lineage
+CHEK1	ACH-000971	Bowel	30	True	retained_non_singleton_lineage
+CHEK1	ACH-000973	Bladder/Urinary Tract	13	True	retained_non_singleton_lineage
+CHEK1	ACH-000974	Uterus	14	True	retained_non_singleton_lineage
+CHEK1	ACH-000976	Biliary Tract	1	False	singleton_lineage_in_frozen_target_mask
+CHEK1	ACH-000977	Prostate	6	True	retained_non_singleton_lineage
+CHEK1	ACH-000978	Uterus	14	True	retained_non_singleton_lineage
+CHEK1	ACH-000979	Prostate	6	True	retained_non_singleton_lineage
+CHEK1	ACH-000980	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-000981	Lymphoid	49	True	retained_non_singleton_lineage
+CHEK1	ACH-000983	Myeloid	15	True	retained_non_singleton_lineage
+CHEK1	ACH-000985	Bowel	30	True	retained_non_singleton_lineage
+CHEK1	ACH-000986	Bowel	30	True	retained_non_singleton_lineage
+CHEK1	ACH-000988	Uterus	14	True	retained_non_singleton_lineage
+CHEK1	ACH-000991	Bowel	30	True	retained_non_singleton_lineage
+CHEK1	ACH-000995	Lymphoid	49	True	retained_non_singleton_lineage
+CHEK1	ACH-000997	Bowel	30	True	retained_non_singleton_lineage
+CHEK1	ACH-001016	CNS/Brain	34	True	retained_non_singleton_lineage
+CHEK1	ACH-001021	Liver	13	True	retained_non_singleton_lineage
+CHEK1	ACH-001075	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-001151	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+CHEK1	ACH-001190	Skin	23	True	retained_non_singleton_lineage
+CHEK1	ACH-001193	Bone	14	True	retained_non_singleton_lineage
+CHEK1	ACH-001227	Head and Neck	21	True	retained_non_singleton_lineage
+CHEK1	ACH-001274	Soft Tissue	8	True	retained_non_singleton_lineage
+CHEK1	ACH-001306	Thyroid	9	True	retained_non_singleton_lineage
+CHEK1	ACH-001307	Thyroid	9	True	retained_non_singleton_lineage
+CHEK1	ACH-001328	Skin	23	True	retained_non_singleton_lineage
+CHEK1	ACH-001332	Head and Neck	21	True	retained_non_singleton_lineage
+CHEK1	ACH-001333	Cervix	9	True	retained_non_singleton_lineage
+CHEK1	ACH-001334	Cervix	9	True	retained_non_singleton_lineage
+CHEK1	ACH-001336	Cervix	9	True	retained_non_singleton_lineage
+CHEK1	ACH-001338	Peripheral Nervous System	13	True	retained_non_singleton_lineage
+CHEK1	ACH-001341	Cervix	9	True	retained_non_singleton_lineage
+CHEK1	ACH-001344	Peripheral Nervous System	13	True	retained_non_singleton_lineage
+CHEK1	ACH-001345	Bowel	30	True	retained_non_singleton_lineage
+CHEK1	ACH-001360	Cervix	9	True	retained_non_singleton_lineage
+CHEK1	ACH-001368	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+CHEK1	ACH-001374	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+CHEK1	ACH-001398	Kidney	12	True	retained_non_singleton_lineage
+CHEK1	ACH-001399	Bowel	30	True	retained_non_singleton_lineage
+CHEK1	ACH-001400	Vulva/Vagina	1	False	singleton_lineage_in_frozen_target_mask
+CHEK1	ACH-001401	Adrenal Gland	1	False	singleton_lineage_in_frozen_target_mask
+CHEK1	ACH-001402	Cervix	9	True	retained_non_singleton_lineage
+CHEK1	ACH-001418	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+CHEK1	ACH-001442	Skin	23	True	retained_non_singleton_lineage
+CHEK1	ACH-001443	Thyroid	9	True	retained_non_singleton_lineage
+CHEK1	ACH-001453	Prostate	6	True	retained_non_singleton_lineage
+CHEK1	ACH-001496	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+CHEK1	ACH-001497	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+CHEK1	ACH-001498	Lymphoid	49	True	retained_non_singleton_lineage
+CHEK1	ACH-001500	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+CHEK1	ACH-001517	Uterus	14	True	retained_non_singleton_lineage
+CHEK1	ACH-001525	Cervix	9	True	retained_non_singleton_lineage
+CHEK1	ACH-001526	Bone	14	True	retained_non_singleton_lineage
+CHEK1	ACH-001528	Thyroid	9	True	retained_non_singleton_lineage
+CHEK1	ACH-001529	Uterus	14	True	retained_non_singleton_lineage
+CHEK1	ACH-001530	Uterus	14	True	retained_non_singleton_lineage
+CHEK1	ACH-001542	Head and Neck	21	True	retained_non_singleton_lineage
+CHEK1	ACH-001543	Head and Neck	21	True	retained_non_singleton_lineage
+CHEK1	ACH-001549	Lung	84	True	retained_non_singleton_lineage
+CHEK1	ACH-001603	Peripheral Nervous System	13	True	retained_non_singleton_lineage
+CHEK1	ACH-001606	CNS/Brain	34	True	retained_non_singleton_lineage
+CHEK1	ACH-001626	Head and Neck	21	True	retained_non_singleton_lineage
+CHEK1	ACH-001630	Ovary/Fallopian Tube	26	True	retained_non_singleton_lineage
+CHEK1	ACH-001641	Head and Neck	21	True	retained_non_singleton_lineage
+CHEK1	ACH-001642	Lymphoid	49	True	retained_non_singleton_lineage
+CHEK1	ACH-001650	Cervix	9	True	retained_non_singleton_lineage
+CHEK1	ACH-001653	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+CHEK1	ACH-001654	Esophagus/Stomach	39	True	retained_non_singleton_lineage
+CHEK1	ACH-001655	Uterus	14	True	retained_non_singleton_lineage
+CHEK1	ACH-001674	Peripheral Nervous System	13	True	retained_non_singleton_lineage
+CHEK1	ACH-001702	Soft Tissue	8	True	retained_non_singleton_lineage
+CHEK1	ACH-001709	Lymphoid	49	True	retained_non_singleton_lineage
+CHEK1	ACH-001715	Bone	14	True	retained_non_singleton_lineage
+CHEK1	ACH-002142	Bone	14	True	retained_non_singleton_lineage
+CHEK1	ACH-002214	Lymphoid	49	True	retained_non_singleton_lineage
+CHEK1	ACH-002215	Lymphoid	49	True	retained_non_singleton_lineage
+CHEK1	ACH-002283	Peripheral Nervous System	13	True	retained_non_singleton_lineage

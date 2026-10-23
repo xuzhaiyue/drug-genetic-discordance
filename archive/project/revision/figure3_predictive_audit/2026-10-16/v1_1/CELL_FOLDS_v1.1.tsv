@@ -1,0 +1,591 @@
+ModelID	lineage	proposed_fold
+ACH-000001	Ovary/Fallopian Tube	1
+ACH-000004	Myeloid	4
+ACH-000007	Bowel	4
+ACH-000009	Bowel	2
+ACH-000012	Lung	1
+ACH-000015	Lung	2
+ACH-000018	Bladder/Urinary Tract	1
+ACH-000019	Breast	4
+ACH-000021	Lung	3
+ACH-000023	Pancreas	0
+ACH-000024	Lymphoid	4
+ACH-000030	Lung	1
+ACH-000035	Lung	2
+ACH-000040	CNS/Brain	2
+ACH-000042	Pancreas	0
+ACH-000045	Myeloid	0
+ACH-000047	Esophagus/Stomach	2
+ACH-000048	Ovary/Fallopian Tube	1
+ACH-000052	Bone	3
+ACH-000053	Lymphoid	1
+ACH-000054	Soft Tissue	0
+ACH-000055	CNS/Brain	1
+ACH-000060	Pancreas	0
+ACH-000067	CNS/Brain	2
+ACH-000070	Lymphoid	3
+ACH-000074	Myeloid	2
+ACH-000075	CNS/Brain	4
+ACH-000078	Peripheral Nervous System	0
+ACH-000082	Bone	3
+ACH-000087	Bone	0
+ACH-000090	Prostate	0
+ACH-000092	Pleura	2
+ACH-000094	Pancreas	4
+ACH-000096	Kidney	4
+ACH-000098	CNS/Brain	3
+ACH-000099	Peripheral Nervous System	1
+ACH-000100	Soft Tissue	2
+ACH-000101	Lymphoid	0
+ACH-000103	Ovary/Fallopian Tube	3
+ACH-000106	Lymphoid	3
+ACH-000108	Pancreas	3
+ACH-000111	Breast	1
+ACH-000113	Myeloid	4
+ACH-000114	Pancreas	1
+ACH-000115	Prostate	0
+ACH-000116	Ovary/Fallopian Tube	0
+ACH-000118	Pancreas	1
+ACH-000120	Peripheral Nervous System	1
+ACH-000124	Lymphoid	2
+ACH-000132	Ovary/Fallopian Tube	0
+ACH-000137	CNS/Brain	1
+ACH-000138	Pancreas	1
+ACH-000139	Pancreas	1
+ACH-000142	Bladder/Urinary Tract	1
+ACH-000144	Esophagus/Stomach	1
+ACH-000145	Soft Tissue	3
+ACH-000146	Myeloid	3
+ACH-000147	Breast	4
+ACH-000148	Breast	0
+ACH-000149	Peripheral Nervous System	3
+ACH-000151	Lymphoid	4
+ACH-000153	Pleura	1
+ACH-000155	Pancreas	1
+ACH-000159	Kidney	1
+ACH-000161	Lung	3
+ACH-000168	Myeloid	3
+ACH-000169	Soft Tissue	2
+ACH-000174	Thyroid	2
+ACH-000176	Lung	0
+ACH-000178	Pancreas	0
+ACH-000181	Head and Neck	2
+ACH-000183	Lymphoid	2
+ACH-000187	Lung	0
+ACH-000188	Head and Neck	4
+ACH-000189	Kidney	4
+ACH-000191	Thyroid	0
+ACH-000192	Uterus	4
+ACH-000197	Lymphoid	1
+ACH-000198	Myeloid	4
+ACH-000200	CNS/Brain	1
+ACH-000204	Lymphoid	0
+ACH-000207	Head and Neck	2
+ACH-000210	Bone	0
+ACH-000211	CNS/Brain	2
+ACH-000212	Breast	0
+ACH-000213	Pancreas	2
+ACH-000217	Liver	4
+ACH-000219	Skin	0
+ACH-000221	Liver	0
+ACH-000222	Pancreas	3
+ACH-000223	Breast	0
+ACH-000226	Lymphoid	4
+ACH-000227	Peripheral Nervous System	4
+ACH-000228	Head and Neck	4
+ACH-000231	CNS/Brain	4
+ACH-000232	CNS/Brain	0
+ACH-000233	Lymphoid	3
+ACH-000235	Pancreas	4
+ACH-000238	Head and Neck	1
+ACH-000242	Bladder/Urinary Tract	4
+ACH-000243	Pancreas	2
+ACH-000244	CNS/Brain	0
+ACH-000247	Esophagus/Stomach	4
+ACH-000248	Breast	1
+ACH-000249	Bowel	0
+ACH-000250	Kidney	3
+ACH-000252	Bowel	0
+ACH-000257	Lung	3
+ACH-000258	Breast	3
+ACH-000259	Peripheral Nervous System	4
+ACH-000260	Peripheral Nervous System	4
+ACH-000263	Myeloid	1
+ACH-000264	Lung	4
+ACH-000265	Pancreas	4
+ACH-000269	CNS/Brain	2
+ACH-000271	Lymphoid	0
+ACH-000273	CNS/Brain	3
+ACH-000276	Breast	1
+ACH-000277	Breast	3
+ACH-000281	Pancreas	4
+ACH-000288	Breast	4
+ACH-000290	Lung	0
+ACH-000291	Ovary/Fallopian Tube	0
+ACH-000292	Lung	4
+ACH-000293	Uterus	0
+ACH-000294	Myeloid	0
+ACH-000295	Myeloid	3
+ACH-000303	Esophagus/Stomach	0
+ACH-000304	Skin	3
+ACH-000305	Esophagus/Stomach	4
+ACH-000308	Ovary/Fallopian Tube	1
+ACH-000311	Lung	3
+ACH-000315	Lymphoid	4
+ACH-000318	Esophagus/Stomach	3
+ACH-000319	Pleura	3
+ACH-000320	Pancreas	3
+ACH-000322	Skin	4
+ACH-000323	CNS/Brain	3
+ACH-000326	Myeloid	1
+ACH-000330	Breast	0
+ACH-000332	Pancreas	3
+ACH-000334	Lymphoid	1
+ACH-000335	Pleura	1
+ACH-000336	Myeloid	0
+ACH-000337	Lung	2
+ACH-000338	Lymphoid	0
+ACH-000341	Peripheral Nervous System	0
+ACH-000343	Lung	0
+ACH-000345	Peripheral Nervous System	0
+ACH-000346	Lymphoid	1
+ACH-000348	Skin	3
+ACH-000350	Bowel	1
+ACH-000352	Breast	2
+ACH-000354	Pancreas	0
+ACH-000355	Lung	0
+ACH-000356	Esophagus/Stomach	2
+ACH-000359	Bone	2
+ACH-000361	Liver	0
+ACH-000362	Myeloid	2
+ACH-000363	Lymphoid	4
+ACH-000364	Bone	2
+ACH-000365	Lymphoid	1
+ACH-000366	Peripheral Nervous System	3
+ACH-000367	Pleura	4
+ACH-000371	Lymphoid	0
+ACH-000373	Myeloid	1
+ACH-000374	Breast	3
+ACH-000375	Kidney	0
+ACH-000376	CNS/Brain	4
+ACH-000378	Lung	2
+ACH-000381	Bowel	4
+ACH-000383	Esophagus/Stomach	3
+ACH-000389	CNS/Brain	1
+ACH-000391	Bone	1
+ACH-000395	Lung	0
+ACH-000396	Bladder/Urinary Tract	3
+ACH-000401	Skin	1
+ACH-000403	Bowel	2
+ACH-000408	Esophagus/Stomach	1
+ACH-000410	Bone	2
+ACH-000411	Kidney	3
+ACH-000414	Lung	2
+ACH-000416	Lung	2
+ACH-000417	Pancreas	2
+ACH-000420	Liver	0
+ACH-000421	Bowel	3
+ACH-000424	Bone	4
+ACH-000425	Skin	4
+ACH-000427	Esophagus/Stomach	1
+ACH-000430	Ovary/Fallopian Tube	2
+ACH-000431	Lung	4
+ACH-000433	Kidney	1
+ACH-000434	Lung	4
+ACH-000437	CNS/Brain	0
+ACH-000438	Lung	0
+ACH-000441	Skin	3
+ACH-000442	Lung	3
+ACH-000448	Lung	4
+ACH-000450	Skin	4
+ACH-000452	Esophagus/Stomach	2
+ACH-000456	Thyroid	1
+ACH-000463	Lung	3
+ACH-000464	CNS/Brain	3
+ACH-000469	CNS/Brain	2
+ACH-000470	Bowel	3
+ACH-000472	Head and Neck	0
+ACH-000473	Bladder/Urinary Tract	0
+ACH-000475	Liver	1
+ACH-000476	Liver	1
+ACH-000478	Liver	2
+ACH-000480	Liver	2
+ACH-000481	Lung	1
+ACH-000484	Kidney	0
+ACH-000486	Bladder/Urinary Tract	3
+ACH-000488	Esophagus/Stomach	2
+ACH-000489	Bowel	4
+ACH-000491	Bowel	0
+ACH-000493	Liver	3
+ACH-000496	Lung	0
+ACH-000501	Bowel	3
+ACH-000504	CNS/Brain	0
+ACH-000505	Soft Tissue	1
+ACH-000510	Lung	3
+ACH-000514	Lung	1
+ACH-000515	Lung	2
+ACH-000516	Bone	1
+ACH-000518	Head and Neck	1
+ACH-000521	Lung	3
+ACH-000522	Bladder/Urinary Tract	0
+ACH-000524	Ovary/Fallopian Tube	1
+ACH-000525	Lung	0
+ACH-000527	Ovary/Fallopian Tube	2
+ACH-000528	Lung	0
+ACH-000532	Bowel	3
+ACH-000535	Pancreas	1
+ACH-000544	Esophagus/Stomach	1
+ACH-000546	Head and Neck	2
+ACH-000547	Bladder/Urinary Tract	2
+ACH-000548	Head and Neck	0
+ACH-000551	Myeloid	4
+ACH-000552	Bowel	2
+ACH-000554	Breast	1
+ACH-000556	Cervix	3
+ACH-000558	CNS/Brain	3
+ACH-000559	Lung	1
+ACH-000561	Esophagus/Stomach	4
+ACH-000562	Lung	1
+ACH-000563	Lung	0
+ACH-000565	Bowel	0
+ACH-000567	Lymphoid	2
+ACH-000569	Pleura	0
+ACH-000570	CNS/Brain	4
+ACH-000571	CNS/Brain	3
+ACH-000573	Breast	3
+ACH-000577	Liver	1
+ACH-000579	Skin	2
+ACH-000580	Skin	0
+ACH-000581	Esophagus/Stomach	4
+ACH-000583	Lymphoid	2
+ACH-000584	Ovary/Fallopian Tube	2
+ACH-000585	Lung	0
+ACH-000587	Lung	4
+ACH-000589	Lung	4
+ACH-000595	CNS/Brain	0
+ACH-000596	Lung	1
+ACH-000599	Pancreas	0
+ACH-000601	Pancreas	2
+ACH-000605	Esophagus/Stomach	2
+ACH-000607	Kidney	2
+ACH-000609	CNS/Brain	4
+ACH-000614	Skin	1
+ACH-000616	Esophagus/Stomach	0
+ACH-000619	Head and Neck	0
+ACH-000620	Liver	4
+ACH-000621	Breast	1
+ACH-000622	CNS/Brain	3
+ACH-000624	Breast	2
+ACH-000627	Lung	3
+ACH-000631	CNS/Brain	0
+ACH-000633	Esophagus/Stomach	1
+ACH-000637	Esophagus/Stomach	3
+ACH-000638	Lung	2
+ACH-000639	Lung	4
+ACH-000647	Esophagus/Stomach	0
+ACH-000648	Pleura	0
+ACH-000649	Kidney	0
+ACH-000651	Bowel	4
+ACH-000652	Pancreas	2
+ACH-000653	Lymphoid	0
+ACH-000654	Lymphoid	0
+ACH-000655	CNS/Brain	0
+ACH-000656	Lymphoid	4
+ACH-000657	Ovary/Fallopian Tube	1
+ACH-000660	Lymphoid	3
+ACH-000662	Lung	3
+ACH-000663	Ovary/Fallopian Tube	1
+ACH-000664	Lymphoid	4
+ACH-000665	Lung	4
+ACH-000666	Lung	4
+ACH-000667	Lung	4
+ACH-000668	Breast	0
+ACH-000672	Lung	2
+ACH-000677	Lung	3
+ACH-000681	Lung	0
+ACH-000684	Kidney	3
+ACH-000688	Ovary/Fallopian Tube	3
+ACH-000693	Esophagus/Stomach	0
+ACH-000694	Esophagus/Stomach	1
+ACH-000696	Ovary/Fallopian Tube	2
+ACH-000697	Lymphoid	1
+ACH-000698	Lung	3
+ACH-000699	Breast	3
+ACH-000702	Lymphoid	3
+ACH-000704	Ovary/Fallopian Tube	4
+ACH-000706	Lung	3
+ACH-000711	Breast	3
+ACH-000713	Ovary/Fallopian Tube	3
+ACH-000714	Lymphoid	4
+ACH-000716	Thyroid	3
+ACH-000717	Esophagus/Stomach	1
+ACH-000718	Lung	1
+ACH-000719	Ovary/Fallopian Tube	4
+ACH-000720	Bladder/Urinary Tract	1
+ACH-000722	Bowel	4
+ACH-000724	Bladder/Urinary Tract	4
+ACH-000725	Breast	2
+ACH-000738	CNS/Brain	4
+ACH-000740	Head and Neck	4
+ACH-000747	Lung	0
+ACH-000748	Bone	0
+ACH-000749	Lung	4
+ACH-000754	Lymphoid	4
+ACH-000756	CNS/Brain	1
+ACH-000757	Lung	4
+ACH-000763	Lymphoid	2
+ACH-000766	Lung	2
+ACH-000767	Lung	2
+ACH-000768	Breast	4
+ACH-000769	Lung	3
+ACH-000770	Myeloid	0
+ACH-000775	Lung	1
+ACH-000776	CNS/Brain	1
+ACH-000778	Head and Neck	3
+ACH-000781	Lung	4
+ACH-000783	Breast	4
+ACH-000784	Esophagus/Stomach	0
+ACH-000787	Lung	0
+ACH-000788	Skin	0
+ACH-000790	Lung	2
+ACH-000792	Kidney	2
+ACH-000793	Esophagus/Stomach	3
+ACH-000794	Head and Neck	4
+ACH-000800	Lung	4
+ACH-000802	Bladder/Urinary Tract	2
+ACH-000804	Peripheral Nervous System	4
+ACH-000805	Skin	0
+ACH-000809	Esophagus/Stomach	3
+ACH-000810	Skin	2
+ACH-000811	Ovary/Fallopian Tube	3
+ACH-000817	Lymphoid	2
+ACH-000819	CNS/Brain	2
+ACH-000821	Lymphoid	1
+ACH-000822	Skin	0
+ACH-000823	Esophagus/Stomach	4
+ACH-000824	Esophagus/Stomach	0
+ACH-000826	Lung	1
+ACH-000827	Skin	1
+ACH-000832	Head and Neck	3
+ACH-000835	Soft Tissue	0
+ACH-000838	Lymphoid	0
+ACH-000840	Lung	1
+ACH-000841	Lung	3
+ACH-000843	Lung	4
+ACH-000846	Head and Neck	0
+ACH-000847	Esophagus/Stomach	2
+ACH-000848	Liver	2
+ACH-000849	Breast	2
+ACH-000853	Lung	2
+ACH-000855	Esophagus/Stomach	2
+ACH-000856	Breast	0
+ACH-000858	Lung	1
+ACH-000859	Breast	2
+ACH-000860	Lung	2
+ACH-000861	Lung	1
+ACH-000863	CNS/Brain	0
+ACH-000864	Uterus	2
+ACH-000865	Esophagus/Stomach	1
+ACH-000866	Lung	1
+ACH-000867	Lung	0
+ACH-000869	Lung	2
+ACH-000871	Lung	1
+ACH-000873	Esophagus/Stomach	3
+ACH-000874	Lymphoid	3
+ACH-000876	Breast	1
+ACH-000878	Lung	0
+ACH-000879	Uterus	1
+ACH-000880	Esophagus/Stomach	4
+ACH-000881	Skin	3
+ACH-000882	Skin	2
+ACH-000885	Ovary/Fallopian Tube	0
+ACH-000886	Lung	2
+ACH-000888	Lung	1
+ACH-000890	Lung	2
+ACH-000894	Lung	4
+ACH-000896	Bladder/Urinary Tract	2
+ACH-000900	Lung	2
+ACH-000903	Thyroid	3
+ACH-000905	Bladder/Urinary Tract	0
+ACH-000906	Ovary/Fallopian Tube	2
+ACH-000910	Breast	2
+ACH-000911	Esophagus/Stomach	1
+ACH-000913	Uterus	0
+ACH-000914	Lymphoid	2
+ACH-000915	Skin	2
+ACH-000916	Lung	3
+ACH-000917	Esophagus/Stomach	3
+ACH-000919	Esophagus/Stomach	0
+ACH-000920	Myeloid	2
+ACH-000922	Lymphoid	3
+ACH-000924	Lung	3
+ACH-000926	Bowel	0
+ACH-000929	Lung	4
+ACH-000932	Esophagus/Stomach	3
+ACH-000934	Breast	4
+ACH-000935	Bowel	3
+ACH-000936	Ovary/Fallopian Tube	4
+ACH-000937	Lymphoid	3
+ACH-000938	Lymphoid	1
+ACH-000939	Uterus	3
+ACH-000943	Bowel	2
+ACH-000944	Lymphoid	0
+ACH-000945	Lung	0
+ACH-000947	Ovary/Fallopian Tube	3
+ACH-000948	Esophagus/Stomach	3
+ACH-000950	Bowel	1
+ACH-000953	Lymphoid	0
+ACH-000956	Prostate	3
+ACH-000957	Bowel	2
+ACH-000958	Bowel	1
+ACH-000960	Lymphoid	2
+ACH-000962	Ovary/Fallopian Tube	4
+ACH-000963	Bowel	0
+ACH-000965	Uterus	2
+ACH-000966	Ovary/Fallopian Tube	0
+ACH-000968	Skin	4
+ACH-000969	Bowel	1
+ACH-000970	Bowel	0
+ACH-000971	Bowel	1
+ACH-000973	Bladder/Urinary Tract	3
+ACH-000974	Uterus	1
+ACH-000976	Biliary Tract	0
+ACH-000977	Prostate	1
+ACH-000978	Uterus	1
+ACH-000979	Prostate	4
+ACH-000980	Lung	3
+ACH-000981	Lymphoid	3
+ACH-000983	Myeloid	1
+ACH-000985	Bowel	1
+ACH-000986	Bowel	4
+ACH-000988	Uterus	3
+ACH-000991	Bowel	3
+ACH-000995	Lymphoid	4
+ACH-000997	Bowel	3
+ACH-001016	CNS/Brain	4
+ACH-001021	Liver	3
+ACH-001039	Bowel	1
+ACH-001065	Breast	0
+ACH-001075	Lung	0
+ACH-001081	Bowel	0
+ACH-001107	Pancreas	4
+ACH-001126	CNS/Brain	1
+ACH-001137	Lung	1
+ACH-001151	Ovary/Fallopian Tube	4
+ACH-001190	Skin	1
+ACH-001193	Bone	4
+ACH-001227	Head and Neck	2
+ACH-001233	Lung	2
+ACH-001274	Soft Tissue	1
+ACH-001306	Thyroid	0
+ACH-001307	Thyroid	2
+ACH-001328	Skin	2
+ACH-001331	Head and Neck	4
+ACH-001332	Head and Neck	0
+ACH-001333	Cervix	1
+ACH-001334	Cervix	4
+ACH-001336	Cervix	3
+ACH-001338	Peripheral Nervous System	3
+ACH-001341	Cervix	1
+ACH-001344	Peripheral Nervous System	1
+ACH-001345	Bowel	4
+ACH-001360	Cervix	2
+ACH-001368	Esophagus/Stomach	1
+ACH-001374	Ovary/Fallopian Tube	1
+ACH-001398	Kidney	2
+ACH-001399	Bowel	2
+ACH-001400	Vulva/Vagina	0
+ACH-001401	Adrenal Gland	0
+ACH-001402	Cervix	0
+ACH-001418	Ovary/Fallopian Tube	4
+ACH-001442	Skin	1
+ACH-001443	Thyroid	4
+ACH-001453	Prostate	2
+ACH-001496	Esophagus/Stomach	2
+ACH-001497	Esophagus/Stomach	0
+ACH-001498	Lymphoid	2
+ACH-001500	Esophagus/Stomach	0
+ACH-001517	Uterus	3
+ACH-001525	Cervix	0
+ACH-001526	Bone	0
+ACH-001528	Thyroid	1
+ACH-001529	Uterus	2
+ACH-001530	Uterus	4
+ACH-001542	Head and Neck	1
+ACH-001543	Head and Neck	2
+ACH-001544	Esophagus/Stomach	4
+ACH-001549	Lung	1
+ACH-001578	Testis	1
+ACH-001603	Peripheral Nervous System	3
+ACH-001605	CNS/Brain	2
+ACH-001606	CNS/Brain	4
+ACH-001625	Head and Neck	0
+ACH-001626	Head and Neck	1
+ACH-001630	Ovary/Fallopian Tube	3
+ACH-001639	Lymphoid	3
+ACH-001641	Head and Neck	3
+ACH-001642	Lymphoid	2
+ACH-001650	Cervix	2
+ACH-001653	Esophagus/Stomach	4
+ACH-001654	Esophagus/Stomach	4
+ACH-001655	Uterus	0
+ACH-001674	Peripheral Nervous System	1
+ACH-001702	Soft Tissue	4
+ACH-001709	Lymphoid	1
+ACH-001711	CNS/Brain	0
+ACH-001715	Bone	3
+ACH-002105	Bone	2
+ACH-002106	Bone	1
+ACH-002109	Bone	0
+ACH-002110	Bone	3
+ACH-002114	Bone	4
+ACH-002116	Bone	2
+ACH-002119	Bone	1
+ACH-002140	Ovary/Fallopian Tube	0
+ACH-002141	Esophagus/Stomach	4
+ACH-002142	Bone	1
+ACH-002143	Skin	3
+ACH-002150	Kidney	4
+ACH-002156	Lung	1
+ACH-002160	Bone	4
+ACH-002161	Esophagus/Stomach	2
+ACH-002179	Breast	1
+ACH-002181	Ovary/Fallopian Tube	0
+ACH-002183	Ovary/Fallopian Tube	2
+ACH-002186	Pancreas	3
+ACH-002189	Kidney	1
+ACH-002198	Other	0
+ACH-002202	Esophagus/Stomach	2
+ACH-002210	Myeloid	3
+ACH-002212	Head and Neck	0
+ACH-002214	Lymphoid	0
+ACH-002215	Lymphoid	1
+ACH-002228	CNS/Brain	2
+ACH-002229	CNS/Brain	1
+ACH-002230	CNS/Brain	3
+ACH-002233	Bowel	2
+ACH-002234	Head and Neck	2
+ACH-002239	Head and Neck	2
+ACH-002243	Esophagus/Stomach	3
+ACH-002247	Myeloid	2
+ACH-002249	Head and Neck	3
+ACH-002250	Head and Neck	3
+ACH-002251	Head and Neck	4
+ACH-002257	CNS/Brain	3
+ACH-002261	Peripheral Nervous System	2
+ACH-002263	Esophagus/Stomach	0
+ACH-002265	Head and Neck	4
+ACH-002269	CNS/Brain	1
+ACH-002278	Peripheral Nervous System	2
+ACH-002280	Peripheral Nervous System	2
+ACH-002282	Peripheral Nervous System	0
+ACH-002283	Peripheral Nervous System	2
+ACH-002284	Peripheral Nervous System	0
+ACH-002285	Peripheral Nervous System	1
+ACH-002291	Testis	0
+ACH-002294	Head and Neck	1
+ACH-002295	Head and Neck	3
+ACH-002297	Head and Neck	1
+ACH-002298	Head and Neck	3
+ACH-002304	CNS/Brain	2
+ACH-002305	Head and Neck	1

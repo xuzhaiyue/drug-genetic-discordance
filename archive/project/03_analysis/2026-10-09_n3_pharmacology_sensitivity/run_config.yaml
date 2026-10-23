@@ -1,0 +1,32 @@
+status: AUTHORIZED_S1_S11_ONLY
+date: '2026-10-09'
+r2_directory: revision/inclusion_audit/2026-10-09/r2
+baseline_directory: revision/inclusion_audit/2026-10-09/gate_c/run1
+loss_reason_metadata: revision/inclusion_audit/2026-10-09/preflight/sensitivity_target_losses.tsv
+focal_targets:
+- EGFR
+- MTOR
+- ESR1
+- TOP1
+- ATR
+- CHEK1
+scenario_order:
+- S1_distinct_scaffold
+- S2_no_BEZ235
+- S3_no_AZD7762
+- S4_no_parent_pair
+- S5_no_irinotecan
+- S6_no_tamoxifen
+- S7_core_combined
+- S8_all43_multimechanism
+- S9_narrow_controls
+- S10_broad_controls
+- S11_strict_combined
+seed_rule: 20260927 + 1000*scenario_index + resource_offset (GDSC2=0, PRISM=100)
+bootstrap_draws_eligible: 10000
+minimum_groups: 4
+permutation_runs: 0
+pair_source: Gate C validated deterministic S0 pair tables; per-drug residual fits
+  unchanged by identity/pair exclusions
+source_hash_lock: 03_analysis/2026-10-09_n3_pharmacology_sensitivity/input_lock.json
+script_sha256: 9ac160f9ebb602aefa6e3e06a751863f8f3a649039ca42a5e983333d1b29ac9d

@@ -1,0 +1,32 @@
+{
+  "status": "PASS",
+  "start_utc": "2026-10-16T08:12:46.961085+00:00",
+  "python": "/Library/Developer/CommandLineTools/usr/bin/python3",
+  "versions": {
+    "python": "3.9.6",
+    "numpy": "2.0.2",
+    "pandas": "2.3.3",
+    "scipy": "1.13.1"
+  },
+  "config_sha256": "2216f6bc9ebffe8cf6c4cbed1464fdab8c3c9f9637f8e5516ffe78699b1f2566",
+  "new_model_selection": false,
+  "new_inference": false,
+  "new_permutations": 0,
+  "new_bootstraps": 0,
+  "demeter2_residuals_refitted": false,
+  "end_utc": "2026-10-16T08:13:05.820469+00:00",
+  "n_analyzed_drugs": 42,
+  "n_focal_targets": 6,
+  "pair_cell_count_checks": 903,
+  "all_pair_cell_counts_match": true,
+  "median_delta_recovered": 0.34905064470645397,
+  "median_delta_frozen": 0.34905064470645397,
+  "absolute_error": 0.0,
+  "missing_target_genes": [
+    "PIK3CD"
+  ],
+  "mapping_diagnostics_match": true,
+  "target_denominators_match_demeter2": true,
+  "frozen_sources_unchanged": true,
+  "n_fits_recovered": 42
+}

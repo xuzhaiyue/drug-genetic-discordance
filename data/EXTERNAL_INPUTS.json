@@ -1,0 +1,270 @@
+{
+  "files": [
+    {
+      "bytes": 440646050,
+      "sha256": "e610a4cefb13a82b5b256b47eb08b63ff14843f8dbd0fb164bc0a32688e5b89e",
+      "release": "DepMap Public 26Q1",
+      "source": "DepMap Portal official data API (queried 2026-06-02)",
+      "url": "https://depmap.org/portal/download/api/download?file_name=downloads-by-canonical-id%2F26q1-public-3b44.1%2FCRISPRGeneEffect.csv&dl_name=CRISPRGeneEffect.csv&bucket=depmap-external-downloads",
+      "role": "Phase 1 genetic anchor D (Chronos). Never mix with NextGen 3DO.",
+      "id_rows": "ModelID (ACH-*)",
+      "id_cols": "Gene (SYMBOL (ENTREZ))",
+      "dimensions": {
+        "n_rows": 1208,
+        "n_cols": 18531,
+        "header_n": 18532,
+        "shape_method": "line_count"
+      },
+      "filename": "CRISPRGeneEffect.csv"
+    },
+    {
+      "bytes": 697455,
+      "sha256": "ea4e0b2a3bc806f81df62689a5ae75f1a100135727a3d7b8a4c7ccc8815183f8",
+      "release": "DepMap Public 26Q1",
+      "source": "DepMap Portal official data API (queried 2026-06-02)",
+      "url": "https://depmap.org/portal/download/api/download?file_name=downloads-by-canonical-id%2Fpublic-26q1-5bbf.37%2FModel.csv&dl_name=Model.csv&bucket=depmap-external-downloads",
+      "role": "OncotreeLineage covariates; ModelID join.",
+      "id_rows": "ModelID",
+      "id_cols": "metadata",
+      "dimensions": {
+        "n_rows": 2154,
+        "n_cols": 49,
+        "shape_method": "pandas",
+        "index_example": "0",
+        "col_example": "ModelID"
+      },
+      "filename": "Model.csv"
+    },
+    {
+      "bytes": 305007605,
+      "sha256": "0377be80c525fde98cbd2c6e8b06bdf2a4014a9683eb70182c1f8649d711021a",
+      "release": "DepMap Public 26Q1",
+      "source": "DepMap Portal official data API (queried 2026-06-02)",
+      "url": "https://depmap.org/portal/download/api/download?file_name=downloads-by-canonical-id%2Fpublic-26q1-5bbf.27%2FOmicsExpressionTPMLogp1HumanProteinCodingGenes.csv&dl_name=OmicsExpressionTPMLogp1HumanProteinCodingGenes.csv&bucket=depmap-external-downloads",
+      "role": "II-C2/C3 pretreatment RNA. Dual MLP probe uses Figshare Exp.csv, not this file.",
+      "id_rows": "profile rows with ModelID",
+      "id_cols": "genes + ModelID",
+      "dimensions": {
+        "n_rows": 1775,
+        "n_cols": 19221,
+        "header_n": 19221,
+        "shape_method": "line_count"
+      },
+      "filename": "OmicsExpressionTPMLogp1HumanProteinCodingGenes.csv"
+    },
+    {
+      "bytes": 3904624,
+      "sha256": "8060a2aacef11be2ab4beddd123750c0fd8f668971a13c7c00d43c78f34ac3f8",
+      "release": "DepMap drug-response matrices (GDSC2 AUC; portal-harmonized)",
+      "source": "DepMap processed CTD2/GDSC1/GDSC2/Repurposing secondary files",
+      "url": "canonical path: downloads-by-canonical-id/processed-files-for-ctd2-gdsc1-gdsc2-and-repurposing-secondary-4e65.3/GDSC2AUCMatrix.csv",
+      "role": "Phase 1 discovery R. Transformed as -z(AUC) per drug. Not IC50.",
+      "id_rows": "ModelID (ACH-*)",
+      "id_cols": "CompoundID (DPC-*)",
+      "dimensions": {
+        "n_rows": 949,
+        "n_cols": 286,
+        "shape_method": "pandas",
+        "index_example": "ACH-000001",
+        "col_example": "DPC-000001"
+      },
+      "filename": "GDSC2AUCMatrix.csv"
+    },
+    {
+      "bytes": 1323002,
+      "sha256": "4e764a22b961d028722661b14fb451fe6a383b4addcf7702e8540190ceae7c09",
+      "release": "DepMap drug-response matrices (GDSC2 log2 IC50)",
+      "source": "same processed GDSC2 bundle as AUC matrix",
+      "url": "canonical path: .../GDSC2Log2IC50Matrix.csv",
+      "role": "NOT used for Atlas v2. Sparse vs AUC. Do not switch metric.",
+      "id_rows": "ModelID (ACH-*)",
+      "id_cols": "CompoundID (DPC-*)",
+      "dimensions": {
+        "n_rows": 949,
+        "n_cols": 286,
+        "shape_method": "pandas",
+        "index_example": "ACH-000001",
+        "col_example": "DPC-000001"
+      },
+      "filename": "GDSC2Log2IC50Matrix.csv"
+    },
+    {
+      "bytes": 700161,
+      "sha256": "40f7e54b66f6b585f752b6c4c5c816b7ad9f232b499031eab99c4ba891f0655d",
+      "release": "DepMap Public 26Q1 compound metadata (file also listed under 25Q3 canonical id)",
+      "source": "DepMap Portal",
+      "url": "https://depmap.org/portal/download/api/download?file_name=downloads-by-canonical-id%2Fpublic-25q3-b56c.82%2FPortalCompounds.csv&dl_name=PortalCompounds.csv&bucket=depmap-external-downloads",
+      "role": "Phase 1: DPC\u2192BRD mapping via SampleIDs only. FORBIDDEN as Phase 1b primary-target or SMILES selector (incomplete GeneSymbolOfTargets / chemistry fields).",
+      "id_rows": "CompoundID (DPC-*)",
+      "id_cols": "metadata including SampleIDs (BRD:/GDSC2:)",
+      "dimensions": {
+        "n_rows": 7116,
+        "n_cols": 11,
+        "shape_method": "pandas",
+        "index_example": "0",
+        "col_example": "CompoundID"
+      },
+      "filename": "PortalCompounds.csv"
+    },
+    {
+      "bytes": 290170269,
+      "sha256": "2ac69a21f1d681fe7447689262b82ca6e3dc90bfef0bd96eb5479b96f424e43d",
+      "release": "PRISM Repurposing Secondary 19Q4/20Q2 dose-response parameters",
+      "source": "figshare DepMap PRISM secondary curves",
+      "url": "https://ndownloader.figshare.com/files/36794595",
+      "role": "Fig. 4 preferred independent R (AUC). Do not mix with primary LFC.",
+      "id_rows": "curve rows (cell \u00d7 BRD \u00d7 screen)",
+      "id_cols": "includes broad_id, ccle_name, auc",
+      "dimensions": {
+        "n_rows": 753778,
+        "n_cols": 20,
+        "header_n": 20,
+        "shape_method": "line_count"
+      },
+      "filename": "secondary-screen-dose-response-curve-parameters.csv"
+    },
+    {
+      "bytes": 72456953,
+      "sha256": "3b6554cfc6c765af53088a676edc7bce00ee7d84fe808b93bbfa892de607bc3d",
+      "release": "PRISM Repurposing Public 24Q2 Extended Primary",
+      "source": "figshare",
+      "url": "https://ndownloader.figshare.com/files/46630984",
+      "role": "Coverage audit only. NOT used for Phase 1 Atlas. Different metric (LFC).",
+      "id_rows": "cells",
+      "id_cols": "BRD compounds",
+      "dimensions": {
+        "n_rows": 6790,
+        "n_cols": 919,
+        "shape_method": "pandas",
+        "index_example": "BRD:BRD-A00047421-001-01-7",
+        "col_example": "ACH-000001"
+      },
+      "filename": "Repurposing_Public_24Q2_Extended_Primary_Data_Matrix.csv"
+    },
+    {
+      "bytes": 719567,
+      "sha256": "7e78f5901c1a97d2baab0789ab89832e716388da4eacaa9f094e7d2f2f5a3463",
+      "release": "PRISM Repurposing Public 24Q2",
+      "source": "figshare",
+      "url": "https://ndownloader.figshare.com/files/46630981",
+      "role": "Primary-matrix compound metadata (audit only).",
+      "id_rows": "compounds",
+      "id_cols": "metadata",
+      "dimensions": {
+        "n_rows": 6790,
+        "n_cols": 7,
+        "shape_method": "pandas",
+        "index_example": "0",
+        "col_example": "screen"
+      },
+      "filename": "Repurposing_Public_24Q2_Extended_Primary_Compound_List.csv"
+    },
+    {
+      "bytes": 157294,
+      "sha256": "13a85da9e45656c455d3911a4491f3636d7d0975a9d2333dc3d0a3e2cd3b0526",
+      "release": "PRISM Repurposing Public 24Q2",
+      "source": "figshare",
+      "url": "https://ndownloader.figshare.com/files/46630978",
+      "role": "Primary-matrix cell metadata (audit only).",
+      "id_rows": "cells",
+      "id_cols": "metadata",
+      "dimensions": {
+        "n_rows": 1898,
+        "n_cols": 6,
+        "shape_method": "pandas",
+        "index_example": "0",
+        "col_example": "ccle_name"
+      },
+      "filename": "Repurposing_Public_24Q2_Cell_Line_Meta_Data.csv"
+    },
+    {
+      "bytes": 1945347,
+      "sha256": "e2e26dc2d3affee630705286c4f4535808c03660f094df15a2123397802b4078",
+      "release": "CCLE RPPA 2018-01-23",
+      "source": "DepMap/CCLE RPPA",
+      "url": "CCLE RPPA 20180123 (DepMap archived proteomics)",
+      "role": "II-C3 RPPA. Gygi not analyzed.",
+      "id_rows": "cell lines",
+      "id_cols": "antibodies",
+      "dimensions": {
+        "n_rows": 899,
+        "n_cols": 214,
+        "shape_method": "pandas",
+        "index_example": "DMS53_LUNG",
+        "col_example": "14-3-3_beta"
+      },
+      "filename": "CCLE_RPPA_20180123.csv"
+    },
+    {
+      "bytes": 8741,
+      "sha256": "8da699a18e57a031f30bd152c8403ae02586d64a2b1b26786ac635b9cad213fd",
+      "release": "CCLE RPPA 2018-01-23 antibody annotation",
+      "source": "DepMap/CCLE RPPA",
+      "url": "CCLE RPPA Ab info 20180123",
+      "role": "II-C3 antibody map.",
+      "id_rows": "antibodies",
+      "id_cols": "metadata",
+      "dimensions": {
+        "n_rows": 214,
+        "n_cols": 5,
+        "shape_method": "pandas",
+        "index_example": "0",
+        "col_example": "Antibody_Name"
+      },
+      "filename": "CCLE_RPPA_Ab_info_20180123.csv"
+    },
+    {
+      "bytes": 325222227,
+      "sha256": "95ae902de91463677b700373a6f5c38963da59a423f07e0f1d6175a5ac0cedc7",
+      "release": "FORGE Figshare companion (Peela et al. Nat Commun 2026)",
+      "source": "Figshare FORGE materials (Arena A/B instrument)",
+      "url": "FORGE paper Figshare (Exp.csv)",
+      "role": "Arena A/B and Dual MLP probe RNA. Not 26Q1 RNA.",
+      "id_rows": "cells (Figshare IDs)",
+      "id_cols": "genes",
+      "dimensions": {
+        "n_rows": 1076,
+        "n_cols": 16289,
+        "header_n": 16290,
+        "shape_method": "line_count"
+      },
+      "filename": "Exp.csv"
+    },
+    {
+      "bytes": 358187867,
+      "sha256": "d978da8fdf36846a90882ff31d3fee2bf94dc2fc550a87c30a03a3be44a6cca6",
+      "release": "FORGE Figshare companion",
+      "source": "Figshare FORGE materials",
+      "url": "FORGE paper Figshare (Dep.csv)",
+      "role": "Arena A/B GeneDependency labels on Figshare cells.",
+      "id_rows": "cells",
+      "id_cols": "genes",
+      "dimensions": {
+        "n_rows": 1076,
+        "n_cols": 17916,
+        "header_n": 17917,
+        "shape_method": "line_count"
+      },
+      "filename": "Dep.csv"
+    },
+    {
+      "bytes": 1492839,
+      "sha256": "ae704d2b98f1a5a2bd2382a71f383bae25885dfc398b776a8624081dcd294077",
+      "release": "FORGE Figshare / CREAMMIST IC50 overlap",
+      "source": "Figshare FORGE materials",
+      "url": "FORGE paper Figshare",
+      "role": "Arena A/B drug-response labels (IC50). Atlas v2 uses GDSC2 AUC instead.",
+      "id_rows": "cells",
+      "id_cols": "drugs",
+      "dimensions": {
+        "n_rows": 187,
+        "n_cols": 1325,
+        "shape_method": "pandas",
+        "index_example": "ABIRATERONE",
+        "col_example": "1321N1"
+      },
+      "filename": "Creammist_common_ic50.csv"
+    }
+  ],
+  "source": "Frozen input manifest; original matrices are not redistributed."
+}

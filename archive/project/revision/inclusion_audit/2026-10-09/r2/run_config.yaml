@@ -1,0 +1,16 @@
+status: "AWAITING_EXTERNAL_REVIEW_NO_ANALYSIS_AUTHORIZED"
+run_date: "2026-10-09"
+root_environment: "PROJECT_ROOT"
+inputs: {"data/phase1b/PHASE1B_ELIGIBILITY.tsv": "ebb45d714bb4a480906b55cfe0dd15f023f7595939d349c7cd954966a7df341e", "data/phase1b/PHASE1B_TARGET_GROUPS.tsv": "0feea3091dd38b2bdaaad7b8dea24166aab8f68b09b225620ade36e43b1ae673", "03_analysis/2026-09-28_phase1b_target_expansion/n3_prism_compound_coverage.tsv": "e56ca0b335bc23a5b27500832df5c98ea33228235221b8f4f20d9ec1aaca6743", "03_analysis/2026-09-28_phase1b_target_expansion/run_config.yaml": "7b79f05a84803e4cbb17074fa653703195b967ee2ad3d5ffc557d33d9bd1e377", "data/phase1b/PHASE1B_SCAFFOLDS.tsv": "b19c97fc9f2824b2efce28d12231470ba274bef7986f10e5183091b1b59277de", "revision/STAGE3_N3_SPEC.md": "cdc670eaa0146aec9125e8a1e7581346b76c51c4847c3bc004b508f7e9debf58", "03_analysis/2026-09-28_phase1b_target_expansion/run_n3.py": "5714ba340d60ce916d806fb2aa0a2df1a2ccbb0a510d4ebd7c1312429d434cb0", "03_analysis/2026-09-28_phase1b_target_expansion/n3_pairs_gdsc2.tsv": "f8e3a8aa35dc65e45cd48029a861c32e4e0d8b4faea21b4b31c5629877c8cc2b", "03_analysis/2026-09-28_phase1b_target_expansion/n3_target_results.tsv": "de67964a2aa329c5c6496d0c2b192c0347a246dea332f97367cae3f5d5244cbe", "03_analysis/2026-09-28_phase1b_target_expansion/n3_prism_targets.tsv": "fa94a257b3715adb14f76687d2118725c966c3e15ba0c574f10ef8c677cfd15f", "data/INPUT_MANIFEST.json": "fba139430fd35b5174020ec523b586fbcb74fc9c9c6d39e3685d6c25867a24f3"}
+python_version: "3.12.12"
+statistical_analysis_run: false
+seed: 20260927
+min_drug_n: 200
+min_pair_n: 30
+min_discovery_groups: 4
+min_prism_groups: 4
+bootstrap_replicates: 10000
+permutation_replicates: 10000
+strict_exclusion_ids: ["DPC-000638", "DPC-000660", "DPC-000736", "DPC-000816", "DPC-000855", "DPC-001050", "DPC-001060", "DPC-001106", "DPC-001942", "DPC-002828", "DPC-004229", "DPC-004577"]
+focal_targets: ["EGFR", "MTOR", "ESR1", "TOP1", "ATR", "CHEK1"]
+note: "Structural counts use metadata only and do not imply surviving pairs pass cell coverage."

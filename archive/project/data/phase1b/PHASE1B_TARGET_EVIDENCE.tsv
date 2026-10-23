@@ -1,0 +1,217 @@
+compound_id	mec_id	molregno	mechanism_of_action	action_type	direct_interaction	molecular_mechanism	disease_efficacy	selectivity_comment	tid	target_chembl_id	target_pref_name	target_type	tax_id	organism	human_gene_symbols	used_for_primary
+DPC-000028	7433	1566719	Bromodomain and extra-terminal motif (BET) inhibitor	INHIBITOR	1	1	1		118688.0	CHEMBL4296614	Bromodomain and extra-terminal motif (BET)	PROTEIN FAMILY	9606.0	Homo sapiens	BRD2|BRD4|BRDT|BRD3	False
+DPC-000034	5733	183934	Heat shock protein HSP90 inhibitor	INHIBITOR	1	1	1		104750.0	CHEMBL2095165	Heat shock protein HSP90	PROTEIN FAMILY	9606.0	Homo sapiens	HSP90AA1|HSP90AB1	False
+DPC-000083	388	674436	Serine/threonine-protein kinase RAF inhibitor	INHIBITOR	1	1	1		10904.0	CHEMBL1906	RAF proto-oncogene serine/threonine-protein kinase	SINGLE PROTEIN	9606.0	Homo sapiens	RAF1	True
+DPC-000083	417	674436	Platelet-derived growth factor receptor beta inhibitor	INHIBITOR	1	1	1		197.0	CHEMBL1913	Platelet-derived growth factor receptor beta	SINGLE PROTEIN	9606.0	Homo sapiens	PDGFRB	True
+DPC-000083	449	674436	Stem cell growth factor receptor inhibitor	INHIBITOR	1	1	1		238.0	CHEMBL1936	Mast/stem cell growth factor receptor Kit	SINGLE PROTEIN	9606.0	Homo sapiens	KIT	True
+DPC-000083	510	674436	Tyrosine-protein kinase receptor FLT3 inhibitor	INHIBITOR	1	1	1		12670.0	CHEMBL1974	Receptor-type tyrosine-protein kinase FLT3	SINGLE PROTEIN	9606.0	Homo sapiens	FLT3	True
+DPC-000083	994	674436	Serine/threonine-protein kinase B-raf inhibitor	INHIBITOR	1	1	1		100126.0	CHEMBL5145	Serine/threonine-protein kinase B-raf	SINGLE PROTEIN	9606.0	Homo sapiens	BRAF	True
+DPC-000083	1266	674436	Vascular endothelial growth factor receptor inhibitor	INHIBITOR	1	1	1		104799.0	CHEMBL2095227	Vascular endothelial growth factor receptor	PROTEIN FAMILY	9606.0	Homo sapiens	FLT1|FLT4|KDR	False
+DPC-000083	1517	674436	Tyrosine-protein kinase receptor RET inhibitor	INHIBITOR	1	1	1		100079.0	CHEMBL2041	Proto-oncogene tyrosine-protein kinase receptor Ret	SINGLE PROTEIN	9606.0	Homo sapiens	RET	True
+DPC-000141	652	418401	DNA (cytosine-5)-methyltransferase 3A inhibitor	INHIBITOR	1	1	1		322.0	CHEMBL1992	DNA (cytosine-5)-methyltransferase 3A	SINGLE PROTEIN	9606.0	Homo sapiens	DNMT3A	True
+DPC-000141	654	418401	DNA (cytosine-5)-methyltransferase 1 inhibitor	INHIBITOR	1	1	1		321.0	CHEMBL1993	DNA (cytosine-5)-methyltransferase 1	SINGLE PROTEIN	9606.0	Homo sapiens	DNMT1	True
+DPC-000141	1873	418401	DNA inhibitor	INHIBITOR	1	1	1		105574.0	CHEMBL2311221	DNA	NUCLEIC-ACID	9606.0	Homo sapiens		False
+DPC-000141	1894	418401	RNA inhibitor	INHIBITOR	1	1	1		105575.0	CHEMBL2311222	RNA	NUCLEIC-ACID	9606.0	Homo sapiens		False
+DPC-000184	4776	1619524	Serine/threonine-protein kinase mTOR inhibitor	INHIBITOR	1	1	1		11400.0	CHEMBL2842	Serine/threonine-protein kinase mTOR	SINGLE PROTEIN	9606.0	Homo sapiens	MTOR	True
+DPC-000188	5271	597145	Tyrosine-protein kinase receptor FLT3 inhibitor	INHIBITOR	1	1	1		12670.0	CHEMBL1974	Receptor-type tyrosine-protein kinase FLT3	SINGLE PROTEIN	9606.0	Homo sapiens	FLT3	True
+DPC-000188	5272	597145	Tyrosine-protein kinase JAK2 inhibitor	INHIBITOR	1	1	1		10938.0	CHEMBL2971	Tyrosine-protein kinase JAK2	SINGLE PROTEIN	9606.0	Homo sapiens	JAK2	True
+DPC-000188	5273	597145	Nerve growth factor receptor Trk-A inhibitor	INHIBITOR	1	1	1		11902.0	CHEMBL2815	High affinity nerve growth factor receptor	SINGLE PROTEIN	9606.0	Homo sapiens	NTRK1	True
+DPC-000188	5274	597145	Neurotrophic tyrosine kinase receptor type 2 inhibitor	INHIBITOR	1	1	1		100413.0	CHEMBL4898	BDNF/NT-3 growth factors receptor	SINGLE PROTEIN	9606.0	Homo sapiens	NTRK2	True
+DPC-000188	5275	597145	NT-3 growth factor receptor inhibitor	INHIBITOR	1	1	1		101034.0	CHEMBL5608	NT-3 growth factor receptor	SINGLE PROTEIN	9606.0	Homo sapiens	NTRK3	True
+DPC-000188	5276	597145	Tyrosine-protein kinase receptor RET inhibitor	INHIBITOR	1	1	1		100079.0	CHEMBL2041	Proto-oncogene tyrosine-protein kinase receptor Ret	SINGLE PROTEIN	9606.0	Homo sapiens	RET	True
+DPC-000234	849	1737244	Dihydrofolate reductase inhibitor	INHIBITOR	1	1	1		6.0	CHEMBL202	Dihydrofolate reductase	SINGLE PROTEIN	9606.0	Homo sapiens	DHFR	True
+DPC-000234	2256	49931	Dihydrofolate reductase inhibitor	INHIBITOR	1	1	1		6.0	CHEMBL202	Dihydrofolate reductase	SINGLE PROTEIN	9606.0	Homo sapiens	DHFR	True
+DPC-000236	5662	494280	PARP 1, 2 and 3 inhibitor	INHIBITOR	1	1	1		109545.0	CHEMBL3390820	PARP 1, 2 and 3	PROTEIN FAMILY	9606.0	Homo sapiens	PARP1|PARP3|PARP2	False
+DPC-000258	1845	442943	DNA inhibitor	INHIBITOR	1	1	1		105574.0	CHEMBL2311221	DNA	NUCLEIC-ACID	9606.0	Homo sapiens		False
+DPC-000284	6277	826568	Unknown		1	1	1									False
+DPC-000332	4642	1297331	Serine/threonine-protein kinase WEE1 inhibitor	INHIBITOR	1	1	1		100098.0	CHEMBL5491	Wee1-like protein kinase	SINGLE PROTEIN	9606.0	Homo sapiens	WEE1	True
+DPC-000358	2234	1377982	Epidermal growth factor receptor erbB1 inhibitor	INHIBITOR	1	1	1		9.0	CHEMBL203	Epidermal growth factor receptor	SINGLE PROTEIN	9606.0	Homo sapiens	EGFR	True
+DPC-000358	2257	1377982	Receptor protein-tyrosine kinase erbB-2 inhibitor	INHIBITOR	1	1	1		188.0	CHEMBL1824	Receptor tyrosine-protein kinase erbB-2	SINGLE PROTEIN	9606.0	Homo sapiens	ERBB2	True
+DPC-000358	2258	1377982	Receptor protein-tyrosine kinase erbB-4 inhibitor	INHIBITOR	1	1	1		12699.0	CHEMBL3009	Receptor tyrosine-protein kinase erbB-4	SINGLE PROTEIN	9606.0	Homo sapiens	ERBB4	True
+DPC-000363	4732	1449226	Serine/threonine-protein kinase AKT inhibitor	INHIBITOR	1	1	1		105106.0	CHEMBL2111353	Serine/threonine-protein kinase AKT	PROTEIN FAMILY	9606.0	Homo sapiens	AKT2|AKT3|AKT1	False
+DPC-000364	5674	651088	PARP 1, 2 and 3 inhibitor	INHIBITOR	1	1	1		109545.0	CHEMBL3390820	PARP 1, 2 and 3	PROTEIN FAMILY	9606.0	Homo sapiens	PARP1|PARP3|PARP2	False
+DPC-000364	6159	2096419	PARP 1, 2 and 3 inhibitor	INHIBITOR	1	1	1		109545.0	CHEMBL3390820	PARP 1, 2 and 3	PROTEIN FAMILY	9606.0	Homo sapiens	PARP1|PARP3|PARP2	False
+DPC-000366	1264	716337	Vascular endothelial growth factor receptor inhibitor	INHIBITOR	1	1	1		104799.0	CHEMBL2095227	Vascular endothelial growth factor receptor	PROTEIN FAMILY	9606.0	Homo sapiens	FLT1|FLT4|KDR	False
+DPC-000389	4139	1428626	PI3-kinase class I inhibitor	INHIBITOR	1	1	1		109750.0	CHEMBL3559703	PI3-kinase class I	PROTEIN COMPLEX GROUP	9606.0	Homo sapiens	PIK3R1|PIK3CB|PIK3CG|PIK3CA|PIK3R2|PIK3CD|PIK3R5|PIK3R3	False
+DPC-000428	5307	520053	Serine/threonine-protein kinase Aurora-A inhibitor	INHIBITOR	1	1	1		20014.0	CHEMBL4722	Aurora kinase A	SINGLE PROTEIN	9606.0	Homo sapiens	AURKA	True
+DPC-000452	4681	1567700	PI3-kinase p110-alpha subunit inhibitor	INHIBITOR	1	1	1		11362.0	CHEMBL4005	Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform	SINGLE PROTEIN	9606.0	Homo sapiens	PIK3CA	True
+DPC-000504	5434	568338	Stem cell growth factor receptor inhibitor	INHIBITOR	1	1	1		238.0	CHEMBL1936	Mast/stem cell growth factor receptor Kit	SINGLE PROTEIN	9606.0	Homo sapiens	KIT	True
+DPC-000504	5435	568338	Tyrosine-protein kinase receptor RET inhibitor	INHIBITOR	1	1	1		100079.0	CHEMBL2041	Proto-oncogene tyrosine-protein kinase receptor Ret	SINGLE PROTEIN	9606.0	Homo sapiens	RET	True
+DPC-000504	5436	568338	Vascular endothelial growth factor receptor inhibitor	INHIBITOR	1	1	1		104799.0	CHEMBL2095227	Vascular endothelial growth factor receptor	PROTEIN FAMILY	9606.0	Homo sapiens	FLT1|FLT4|KDR	False
+DPC-000504	5437	568338	Platelet-derived growth factor receptor inhibitor	INHIBITOR	1	1	1		104773.0	CHEMBL2095189	Platelet-derived growth factor receptor	PROTEIN COMPLEX	9606.0	Homo sapiens	PDGFRB|PDGFRA	False
+DPC-000508	4108	2341467	PI3-kinase p110-delta subunit inhibitor	INHIBITOR	1	1	1		11177.0	CHEMBL3130	Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit delta isoform	SINGLE PROTEIN	9606.0	Homo sapiens	PIK3CD	True
+DPC-000635	9011	573927	Nicotinamide phosphoribosyltransferase inhibitor	INHIBITOR	1	1	1		104106.0	CHEMBL1744525	Nicotinamide phosphoribosyltransferase	SINGLE PROTEIN	9606.0	Homo sapiens	NAMPT	True
+DPC-000638	8207	1675302	Cellular tumor antigen p53 stabiliser	STABILISER	1	1	1		20053.0	CHEMBL4096	Cellular tumor antigen p53	SINGLE PROTEIN	9606.0	Homo sapiens	TP53	True
+DPC-000660	497	93895	Dihydroorotate dehydrogenase inhibitor	INHIBITOR	1	1	1		157.0	CHEMBL1966	Dihydroorotate dehydrogenase (quinone), mitochondrial	SINGLE PROTEIN	9606.0	Homo sapiens	DHODH	True
+DPC-000683	4647	1037712	Dual specificity mitogen-activated protein kinase kinase 1 inhibitor	INHIBITOR	1	1	1		11409.0	CHEMBL3587	Dual specificity mitogen-activated protein kinase kinase 1	SINGLE PROTEIN	9606.0	Homo sapiens	MAP2K1	True
+DPC-000683	4648	1037712	Dual specificity mitogen-activated protein kinase kinase 2 inhibitor	INHIBITOR	1	1	1		11046.0	CHEMBL2964	Dual specificity mitogen-activated protein kinase kinase 2	SINGLE PROTEIN	9606.0	Homo sapiens	MAP2K2	True
+DPC-000683	7761	1377954	Dual specificity mitogen-activated protein kinase kinase; MEK1/2 inhibitor	INHIBITOR	1	1	1		104912.0	CHEMBL2111289	Dual specificity mitogen-activated protein kinase kinase; MEK1/2	PROTEIN FAMILY	9606.0	Homo sapiens	MAP2K2|MAP2K1	False
+DPC-000719	5309	623658	Insulin-like growth factor I receptor inhibitor	INHIBITOR	1	1	1		234.0	CHEMBL1957	Insulin-like growth factor 1 receptor	SINGLE PROTEIN	9606.0	Homo sapiens	IGF1R	True
+DPC-000719	5310	623658	Insulin receptor inhibitor	INHIBITOR	1	1	1		35.0	CHEMBL1981	Insulin receptor	SINGLE PROTEIN	9606.0	Homo sapiens	INSR	True
+DPC-000736	4130	1926809	Rho-associated protein kinase inhibitor	INHIBITOR	1	1	1		104981.0	CHEMBL2111459	Rho-associated protein kinase	PROTEIN FAMILY	9606.0	Homo sapiens	ROCK2|ROCK1	False
+DPC-000736	4131	1926809	MAP kinase-activated protein kinase 2 inhibitor	INHIBITOR	1	1	1		11082.0	CHEMBL2208	MAP kinase-activated protein kinase 2	SINGLE PROTEIN	9606.0	Homo sapiens	MAPKAPK2	True
+DPC-000757	1575	2208	Retinoic acid receptor agonist	AGONIST	1	1	1		105764.0	CHEMBL2363069	Retinoic acid receptor	PROTEIN FAMILY	9606.0	Homo sapiens	RARG|RARB|RARA	False
+DPC-000768	8719	419032	Heat shock protein HSP90 inhibitor	INHIBITOR	1	1	1		104750.0	CHEMBL2095165	Heat shock protein HSP90	PROTEIN FAMILY	9606.0	Homo sapiens	HSP90AA1|HSP90AB1	False
+DPC-000773	5723	619010	Gamma-secretase inhibitor	INHIBITOR	1	1	1		104717.0	CHEMBL2094135	Gamma-secretase	PROTEIN COMPLEX	9606.0	Homo sapiens	APH1A|PSENEN|APH1B|PSEN1|NCSTN|PSEN2	False
+DPC-000816	5257	456867	Stem cell growth factor receptor inhibitor	INHIBITOR	1	1	1		238.0	CHEMBL1936	Mast/stem cell growth factor receptor Kit	SINGLE PROTEIN	9606.0	Homo sapiens	KIT	True
+DPC-000816	5258	456867	Platelet-derived growth factor receptor inhibitor	INHIBITOR	1	1	1		104773.0	CHEMBL2095189	Platelet-derived growth factor receptor	PROTEIN COMPLEX	9606.0	Homo sapiens	PDGFRB|PDGFRA	False
+DPC-000816	5259	456867	Vascular endothelial growth factor receptor inhibitor	INHIBITOR	1	1	1		104799.0	CHEMBL2095227	Vascular endothelial growth factor receptor	PROTEIN FAMILY	9606.0	Homo sapiens	FLT1|FLT4|KDR	False
+DPC-000818	4150	1835004	PI3-kinase p110-beta subunit inhibitor	INHIBITOR	1	1	1		12576.0	CHEMBL3145	Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit beta isoform	SINGLE PROTEIN	9606.0	Homo sapiens	PIK3CB	True
+DPC-000818	4151	1835004	PI3-kinase p110-delta subunit inhibitor	INHIBITOR	1	1	1		11177.0	CHEMBL3130	Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit delta isoform	SINGLE PROTEIN	9606.0	Homo sapiens	PIK3CD	True
+DPC-000819	2424	1926912	Epidermal growth factor receptor erbB1 inhibitor	INHIBITOR	1	1	1		9.0	CHEMBL203	Epidermal growth factor receptor	SINGLE PROTEIN	9606.0	Homo sapiens	EGFR	True
+DPC-000819	5260	1817518	Epidermal growth factor receptor erbB1 inhibitor	INHIBITOR	1	1	1		9.0	CHEMBL203	Epidermal growth factor receptor	SINGLE PROTEIN	9606.0	Homo sapiens	EGFR	True
+DPC-000822	4149	1162276	Serine/threonine-protein kinase mTOR inhibitor	INHIBITOR	1	1	1		11400.0	CHEMBL2842	Serine/threonine-protein kinase mTOR	SINGLE PROTEIN	9606.0	Homo sapiens	MTOR	True
+DPC-000825	4136	1927272	Serine/threonine-protein kinase PIM inhibitor	INHIBITOR	1	1	1		109737.0	CHEMBL3559682	Serine/threonine-protein kinase PIM	PROTEIN FAMILY	9606.0	Homo sapiens	PIM1|PIM2|PIM3	False
+DPC-000838	8102	1966980	Epidermal growth factor receptor erbB1 inhibitor	INHIBITOR	1	1	1	Some selectivity for EGFR mutants over wild-type.	9.0	CHEMBL203	Epidermal growth factor receptor	SINGLE PROTEIN	9606.0	Homo sapiens	EGFR	True
+DPC-000847	7260	1519923	Serine/threonine-protein kinase AKT inhibitor	INHIBITOR	1	1	1		105106.0	CHEMBL2111353	Serine/threonine-protein kinase AKT	PROTEIN FAMILY	9606.0	Homo sapiens	AKT2|AKT3|AKT1	False
+DPC-000849	4138	452952	Cyclin-dependent kinase inhibitor	INHIBITOR	1	1	1		109746.0	CHEMBL3559691	Cyclin-dependent kinase	PROTEIN FAMILY	9606.0	Homo sapiens	CDK1|CDK4|CDK2|CDK5|CDK6|CDK7|CDK3|CDK16|CDK18|CDK8|CDK17|CDK11B|CDK15|CDK19|CDK14|CDK9|CDK10|CDK13|CDK20|CDK12	False
+DPC-000855	4148	1348359	Serine/threonine-protein kinase Chk1 inhibitor	INHIBITOR	1	1	1		12967.0	CHEMBL4630	Serine/threonine-protein kinase Chk1	SINGLE PROTEIN	9606.0	Homo sapiens	CHEK1	True
+DPC-000861	4649	1572454	Receptor protein-tyrosine kinase erbB-2 inhibitor	INHIBITOR	1	1	1		188.0	CHEMBL1824	Receptor tyrosine-protein kinase erbB-2	SINGLE PROTEIN	9606.0	Homo sapiens	ERBB2	True
+DPC-000861	4650	1572454	Receptor tyrosine-protein kinase erbB-3 inhibitor	INHIBITOR	1	1	1		102678.0	CHEMBL5838	Receptor tyrosine-protein kinase erbB-3	SINGLE PROTEIN	9606.0	Homo sapiens	ERBB3	True
+DPC-000861	4651	1572454	Epidermal growth factor receptor erbB1 inhibitor	INHIBITOR	1	1	1		9.0	CHEMBL203	Epidermal growth factor receptor	SINGLE PROTEIN	9606.0	Homo sapiens	EGFR	True
+DPC-000921	4660	699032	Dual specificity mitogen-activated protein kinase kinase 1 inhibitor	INHIBITOR	1	1	1		11409.0	CHEMBL3587	Dual specificity mitogen-activated protein kinase kinase 1	SINGLE PROTEIN	9606.0	Homo sapiens	MAP2K1	True
+DPC-000921	4661	699032	Dual specificity mitogen-activated protein kinase kinase 2 inhibitor	INHIBITOR	1	1	1		11046.0	CHEMBL2964	Dual specificity mitogen-activated protein kinase kinase 2	SINGLE PROTEIN	9606.0	Homo sapiens	MAP2K2	True
+DPC-001018	4410	2197741	Serine-protein kinase ATR inhibitor	INHIBITOR	1	1	1		20139.0	CHEMBL5024	Serine/threonine-protein kinase ATR	SINGLE PROTEIN	9606.0	Homo sapiens	ATR	True
+DPC-001050	4662	1220034	Serine/threonine-protein kinase mTOR inhibitor	INHIBITOR	1	1	1		11400.0	CHEMBL2842	Serine/threonine-protein kinase mTOR	SINGLE PROTEIN	9606.0	Homo sapiens	MTOR	True
+DPC-001050	4663	1220034	PI3-kinase class I inhibitor	INHIBITOR	1	1	1		109750.0	CHEMBL3559703	PI3-kinase class I	PROTEIN COMPLEX GROUP	9606.0	Homo sapiens	PIK3R1|PIK3CB|PIK3CG|PIK3CA|PIK3R2|PIK3CD|PIK3R5|PIK3R3	False
+DPC-001060	4666	490644	Serine/threonine-protein kinase PLK1 inhibitor	INHIBITOR	1	1	1		10907.0	CHEMBL3024	Serine/threonine-protein kinase PLK1	SINGLE PROTEIN	9606.0	Homo sapiens	PLK1	True
+DPC-001089	4330	1926987	Tyrosine-protein kinase SYK inhibitor	INHIBITOR	1	1	1		10906.0	CHEMBL2599	Tyrosine-protein kinase SYK	SINGLE PROTEIN	9606.0	Homo sapiens	SYK	True
+DPC-001105	7428	1947706	Bromodomain and extra-terminal motif (BET) inhibitor	INHIBITOR	1	1	1		118688.0	CHEMBL4296614	Bromodomain and extra-terminal motif (BET)	PROTEIN FAMILY	9606.0	Homo sapiens	BRD2|BRD4|BRDT|BRD3	False
+DPC-001106	4163	167995	MAP kinase p38 alpha inhibitor	INHIBITOR	1	1	1		10188.0	CHEMBL260	Mitogen-activated protein kinase 14	SINGLE PROTEIN	9606.0	Homo sapiens	MAPK14	True
+DPC-001127	4668	1335704	PI3-kinase class I inhibitor	INHIBITOR	1	1	1		109750.0	CHEMBL3559703	PI3-kinase class I	PROTEIN COMPLEX GROUP	9606.0	Homo sapiens	PIK3R1|PIK3CB|PIK3CG|PIK3CA|PIK3R2|PIK3CD|PIK3R5|PIK3R3	False
+DPC-001132	1860	3283084	DNA inhibitor	INHIBITOR	1	1	1		105574.0	CHEMBL2311221	DNA	NUCLEIC-ACID	9606.0	Homo sapiens		False
+DPC-001165	4674	570962	Insulin-like growth factor I receptor inhibitor	INHIBITOR	1	1	1		234.0	CHEMBL1957	Insulin-like growth factor 1 receptor	SINGLE PROTEIN	9606.0	Homo sapiens	IGF1R	True
+DPC-001165	4675	570962	Insulin receptor inhibitor	INHIBITOR	1	1	1		35.0	CHEMBL1981	Insulin receptor	SINGLE PROTEIN	9606.0	Homo sapiens	INSR	True
+DPC-001198	302	62111	Tyrosine-protein kinase ABL inhibitor	INHIBITOR	1	1	1		8.0	CHEMBL1862	Tyrosine-protein kinase ABL1	SINGLE PROTEIN	9606.0	Homo sapiens	ABL1	True
+DPC-001198	682	62111	Tyrosine-protein kinase SRC inhibitor	INHIBITOR	1	1	1		10434.0	CHEMBL267	Proto-oncogene tyrosine-protein kinase Src	SINGLE PROTEIN	9606.0	Homo sapiens	SRC	True
+DPC-001198	926	62111	Tyrosine-protein kinase HCK inhibitor	INHIBITOR	1	1	1		11785.0	CHEMBL3234	Tyrosine-protein kinase HCK	SINGLE PROTEIN	9606.0	Homo sapiens	HCK	True
+DPC-001198	940	62111	Tyrosine-protein kinase Lyn inhibitor	INHIBITOR	1	1	1		11842.0	CHEMBL3905	Tyrosine-protein kinase Lyn	SINGLE PROTEIN	9606.0	Homo sapiens	LYN	True
+DPC-001198	8632	1369602	Bcr/Abl fusion protein inhibitor	INHIBITOR	1	1	1		104811.0	CHEMBL2096618	Bcr/Abl fusion protein	CHIMERIC PROTEIN	9606.0	Homo sapiens	ABL1|BCR	False
+DPC-001399	4679	1951262	MAP kinase ERK1 inhibitor	INHIBITOR	1	1	1		11639.0	CHEMBL3385	Mitogen-activated protein kinase 3	SINGLE PROTEIN	9606.0	Homo sapiens	MAPK3	True
+DPC-001399	4680	1951262	MAP kinase ERK2 inhibitor	INHIBITOR	1	1	1		11638.0	CHEMBL4040	Mitogen-activated protein kinase 1	SINGLE PROTEIN	9606.0	Homo sapiens	MAPK1	True
+DPC-001615	4141	2324865	Serine-protein kinase ATR inhibitor	INHIBITOR	1	1	1		20139.0	CHEMBL5024	Serine/threonine-protein kinase ATR	SINGLE PROTEIN	9606.0	Homo sapiens	ATR	True
+DPC-001793	1872	8633	DNA inhibitor	INHIBITOR	1	1	1		105574.0	CHEMBL2311221	DNA	NUCLEIC-ACID	9606.0	Homo sapiens		False
+DPC-001942	2242	1214046	Tyrosine-protein kinase BTK inhibitor	INHIBITOR	1	1	1		100097.0	CHEMBL5251	Tyrosine-protein kinase BTK	SINGLE PROTEIN	9606.0	Homo sapiens	BTK	True
+DPC-001953	955	602271	Hepatocyte growth factor receptor inhibitor	INHIBITOR	1	1	1		11451.0	CHEMBL3717	Hepatocyte growth factor receptor	SINGLE PROTEIN	9606.0	Homo sapiens	MET	True
+DPC-001953	973	602271	ALK tyrosine kinase receptor inhibitor	INHIBITOR	1	1	1		100417.0	CHEMBL4247	ALK tyrosine kinase receptor	SINGLE PROTEIN	9606.0	Homo sapiens	ALK	True
+DPC-001953	8635	602271	EML4-ALK inhibitor	INHIBITOR	1	1	1		117043.0	CHEMBL3883330	EML4-ALK	CHIMERIC PROTEIN	9606.0	Homo sapiens	ALK|EML4	False
+DPC-001953	8637	602271	NPM/ALK (Nucleophosmin/ALK tyrosine kinase receptor) inhibitor	INHIBITOR	1	1	1		105079.0	CHEMBL2111387	NPM/ALK (Nucleophosmin/ALK tyrosine kinase receptor)	CHIMERIC PROTEIN	9606.0	Homo sapiens	ALK|NPM1	False
+DPC-001953	10125	602271	Proto-oncogene tyrosine-protein kinase ROS inhibitor	INHIBITOR	1	1	1		101019.0	CHEMBL5568	Proto-oncogene tyrosine-protein kinase ROS	SINGLE PROTEIN	9606.0	Homo sapiens	ROS1	True
+DPC-001953	10127	602271	Macrophage-stimulating protein receptor inhibitor	INHIBITOR	1	1	1		11379.0	CHEMBL2689	Macrophage-stimulating protein receptor	SINGLE PROTEIN	9606.0	Homo sapiens	MST1R	True
+DPC-002004	1846	674747	DNA inhibitor	INHIBITOR	1	1	1		105574.0	CHEMBL2311221	DNA	NUCLEIC-ACID	9606.0	Homo sapiens		False
+DPC-002021	1883	51182	DNA inhibitor	INHIBITOR	1	1	1		105574.0	CHEMBL2311221	DNA	NUCLEIC-ACID	9606.0	Homo sapiens		False
+DPC-002021	1893	51182	RNA inhibitor	INHIBITOR	1	1	1		105575.0	CHEMBL2311222	RNA	NUCLEIC-ACID	9606.0	Homo sapiens		False
+DPC-002021	1916	51182	DNA polymerase (alpha/delta/epsilon) inhibitor	INHIBITOR	1	1	1		105737.0	CHEMBL2363042	DNA polymerase (alpha/delta/epsilon)	PROTEIN FAMILY	9606.0	Homo sapiens	POLA1|POLD4|POLD3|POLD1|POLD2|POLE|POLA2|PRIM1|PRIM2|POLE2|POLE3	False
+DPC-002044	992	1377999	Serine/threonine-protein kinase B-raf inhibitor	INHIBITOR	1	1	1		100126.0	CHEMBL5145	Serine/threonine-protein kinase B-raf	SINGLE PROTEIN	9606.0	Homo sapiens	BRAF	True
+DPC-002046	1868	5772	DNA inhibitor	INHIBITOR	1	1	1		105574.0	CHEMBL2311221	DNA	NUCLEIC-ACID	9606.0	Homo sapiens		False
+DPC-002085	301	361469	Tyrosine-protein kinase ABL inhibitor	INHIBITOR	1	1	1		8.0	CHEMBL1862	Tyrosine-protein kinase ABL1	SINGLE PROTEIN	9606.0	Homo sapiens	ABL1	True
+DPC-002085	416	361469	Platelet-derived growth factor receptor beta inhibitor	INHIBITOR	1	1	1		197.0	CHEMBL1913	Platelet-derived growth factor receptor beta	SINGLE PROTEIN	9606.0	Homo sapiens	PDGFRB	True
+DPC-002085	446	361469	Stem cell growth factor receptor inhibitor	INHIBITOR	1	1	1		238.0	CHEMBL1936	Mast/stem cell growth factor receptor Kit	SINGLE PROTEIN	9606.0	Homo sapiens	KIT	True
+DPC-002085	854	361469	Ephrin type-A receptor 2 inhibitor	INHIBITOR	1	1	1		30008.0	CHEMBL2068	Ephrin type-A receptor 2	SINGLE PROTEIN	9606.0	Homo sapiens	EPHA2	True
+DPC-002085	1634	361469	SRC inhibitor	INHIBITOR	1	1	1		105769.0	CHEMBL2363074	SRC	PROTEIN FAMILY	9606.0	Homo sapiens	FYN|SRC|LCK|YES1|BLK|HCK|LYN|FRK|FGR|SRMS	False
+DPC-002085	8631	361469	Bcr/Abl fusion protein inhibitor	INHIBITOR	1	1	1		104811.0	CHEMBL2096618	Bcr/Abl fusion protein	CHIMERIC PROTEIN	9606.0	Homo sapiens	ABL1|BCR	False
+DPC-002085	9999	2856578	Bcr/Abl fusion protein inhibitor	INHIBITOR	1	1	1		104811.0	CHEMBL2096618	Bcr/Abl fusion protein	CHIMERIC PROTEIN	9606.0	Homo sapiens	ABL1|BCR	False
+DPC-002267	5303	1376110	Cyclin-dependent kinase 1 inhibitor	INHIBITOR	1	1	1		12071.0	CHEMBL308	Cyclin-dependent kinase 1	SINGLE PROTEIN	9606.0	Homo sapiens	CDK1	True
+DPC-002267	5304	1376110	Cyclin-dependent kinase 2 inhibitor	INHIBITOR	1	1	1		11678.0	CHEMBL301	Cyclin-dependent kinase 2	SINGLE PROTEIN	9606.0	Homo sapiens	CDK2	True
+DPC-002267	5305	1376110	Cyclin-dependent kinase 5 inhibitor	INHIBITOR	1	1	1		12947.0	CHEMBL4036	Cyclin-dependent kinase 5	SINGLE PROTEIN	9606.0	Homo sapiens	CDK5	True
+DPC-002267	5306	1376110	Cyclin-dependent kinase 9 inhibitor	INHIBITOR	1	1	1		11626.0	CHEMBL3116	Cyclin-dependent kinase 9	SINGLE PROTEIN	9606.0	Homo sapiens	CDK9	True
+DPC-002313	1103	1927101	Tubulin inhibitor	INHIBITOR	1	1	1		104766.0	CHEMBL2095182	Tubulin	PROTEIN COMPLEX GROUP	9606.0	Homo sapiens	TUBB4B|TUBB1|TUBA3C|TUBA4A|TUBB3|TUBA1A|TUBB4A|TUBB8|TUBB|TUBA1B|TUBA1C|TUBA3E|TUBB2A|TUBB2B|TUBB6	False
+DPC-002313	9960	9097	Tubulin stabiliser	STABILISER	1	1	1		104766.0	CHEMBL2095182	Tubulin	PROTEIN COMPLEX GROUP	9606.0	Homo sapiens	TUBB4B|TUBB1|TUBA3C|TUBA4A|TUBB3|TUBA1A|TUBB4A|TUBB8|TUBB|TUBA1B|TUBA1C|TUBA3E|TUBB2A|TUBB2B|TUBB6	False
+DPC-002463	1850	674932	DNA inhibitor	INHIBITOR	1	1	1		105574.0	CHEMBL2311221	DNA	NUCLEIC-ACID	9606.0	Homo sapiens		False
+DPC-002466	1853	243124	DNA inhibitor	INHIBITOR	1	1	1		105574.0	CHEMBL2311221	DNA	NUCLEIC-ACID	9606.0	Homo sapiens		False
+DPC-002514	5646	36237	Histone deacetylase inhibitor	INHIBITOR	1	1	1		104681.0	CHEMBL2093865	Histone deacetylase	PROTEIN FAMILY	9606.0	Homo sapiens	HDAC1|HDAC3|HDAC6|HDAC2|HDAC5|HDAC7|HDAC8|HDAC11|HDAC4|HDAC9|HDAC10	False
+DPC-002515	4725	1750027	Tyrosine-protein kinase SYK inhibitor	INHIBITOR	1	1	1		10906.0	CHEMBL2599	Tyrosine-protein kinase SYK	SINGLE PROTEIN	9606.0	Homo sapiens	SYK	True
+DPC-002573	243	611647	Epidermal growth factor receptor erbB1 inhibitor	INHIBITOR	1	1	1		9.0	CHEMBL203	Epidermal growth factor receptor	SINGLE PROTEIN	9606.0	Homo sapiens	EGFR	True
+DPC-002683	4726	692959	Tyrosine-protein kinase receptor FLT3 inhibitor	INHIBITOR	1	1	1		12670.0	CHEMBL1974	Receptor-type tyrosine-protein kinase FLT3	SINGLE PROTEIN	9606.0	Homo sapiens	FLT3	True
+DPC-002683	4727	692959	Stem cell growth factor receptor inhibitor	INHIBITOR	1	1	1		238.0	CHEMBL1936	Mast/stem cell growth factor receptor Kit	SINGLE PROTEIN	9606.0	Homo sapiens	KIT	True
+DPC-002683	4728	692959	Hepatocyte growth factor receptor inhibitor	INHIBITOR	1	1	1		11451.0	CHEMBL3717	Hepatocyte growth factor receptor	SINGLE PROTEIN	9606.0	Homo sapiens	MET	True
+DPC-002683	4729	692959	Platelet-derived growth factor receptor inhibitor	INHIBITOR	1	1	1		104773.0	CHEMBL2095189	Platelet-derived growth factor receptor	PROTEIN COMPLEX	9606.0	Homo sapiens	PDGFRB|PDGFRA	False
+DPC-002683	4730	692959	Tyrosine-protein kinase TIE-2 inhibitor	INHIBITOR	1	1	1		12913.0	CHEMBL4128	Angiopoietin-1 receptor	SINGLE PROTEIN	9606.0	Homo sapiens	TEK	True
+DPC-002683	4731	692959	Vascular endothelial growth factor receptor inhibitor	INHIBITOR	1	1	1		104799.0	CHEMBL2095227	Vascular endothelial growth factor receptor	PROTEIN FAMILY	9606.0	Homo sapiens	FLT1|FLT4|KDR	False
+DPC-002684	1109	564219	Tubulin inhibitor	INHIBITOR	1	1	1		104766.0	CHEMBL2095182	Tubulin	PROTEIN COMPLEX GROUP	9606.0	Homo sapiens	TUBB4B|TUBB1|TUBA3C|TUBA4A|TUBB3|TUBA1A|TUBB4A|TUBB8|TUBB|TUBA1B|TUBA1C|TUBA3E|TUBB2A|TUBB2B|TUBB6	False
+DPC-002828	486	368538	Thymidylate synthase inhibitor	INHIBITOR	1	1	1		28.0	CHEMBL1952	Thymidylate synthase	SINGLE PROTEIN	9606.0	Homo sapiens	TYMS	True
+DPC-002828	1888	368538	DNA inhibitor	INHIBITOR	1	1	1		105574.0	CHEMBL2311221	DNA	NUCLEIC-ACID	9606.0	Homo sapiens		False
+DPC-002828	1895	368538	RNA inhibitor	INHIBITOR	1	1	1		105575.0	CHEMBL2311222	RNA	NUCLEIC-ACID	9606.0	Homo sapiens		False
+DPC-002900	1075	304798	Estrogen receptor alpha antagonist	ANTAGONIST	1	1	1		19.0	CHEMBL206	Estrogen receptor	SINGLE PROTEIN	9606.0	Homo sapiens	ESR1	True
+DPC-002900	10100	304798	Estrogen receptor degrader	DEGRADER	1	1	1		19.0	CHEMBL206	Estrogen receptor	SINGLE PROTEIN	9606.0	Homo sapiens	ESR1	True
+DPC-002958	10102	1947752	Estrogen receptor degrader	DEGRADER	1	1	1		19.0	CHEMBL206	Estrogen receptor	SINGLE PROTEIN	9606.0	Homo sapiens	ESR1	True
+DPC-002968	4808	470511	PI3-kinase class I inhibitor	INHIBITOR	1	1	1		109750.0	CHEMBL3559703	PI3-kinase class I	PROTEIN COMPLEX GROUP	9606.0	Homo sapiens	PIK3R1|PIK3CB|PIK3CG|PIK3CA|PIK3R2|PIK3CD|PIK3R5|PIK3R3	False
+DPC-002973	244	88232	Epidermal growth factor receptor erbB1 inhibitor	INHIBITOR	1	1	1		9.0	CHEMBL203	Epidermal growth factor receptor	SINGLE PROTEIN	9606.0	Homo sapiens	EGFR	True
+DPC-002977	1260	480382	Ribonucleoside-diphosphate reductase RR1 inhibitor	INHIBITOR	1	1	1		104791.0	CHEMBL2095215	Ribonucleoside-diphosphate reductase RR1	PROTEIN COMPLEX GROUP	9606.0	Homo sapiens	RRM1|RRM2B|RRM2	False
+DPC-002977	1918	480382	DNA polymerase (alpha/delta/epsilon) inhibitor	INHIBITOR	1	1	1		105737.0	CHEMBL2363042	DNA polymerase (alpha/delta/epsilon)	PROTEIN FAMILY	9606.0	Homo sapiens	POLA1|POLD4|POLD3|POLD1|POLD2|POLE|POLA2|PRIM1|PRIM2|POLE2|POLE3	False
+DPC-003086	4733	1626767	Serine/threonine-protein kinase AKT inhibitor	INHIBITOR	1	1	1		105106.0	CHEMBL2111353	Serine/threonine-protein kinase AKT	PROTEIN FAMILY	9606.0	Homo sapiens	AKT2|AKT3|AKT1	False
+DPC-003137	7429	694811	Bromodomain and extra-terminal motif (BET) inhibitor	INHIBITOR	1	1	1		118688.0	CHEMBL4296614	Bromodomain and extra-terminal motif (BET)	PROTEIN FAMILY	9606.0	Homo sapiens	BRD2|BRD4|BRDT|BRD3	False
+DPC-003184	5703	1379628	Apoptosis regulator Bcl-2 inhibitor	INHIBITOR	1	1	1		100304.0	CHEMBL4860	Apoptosis regulator Bcl-2	SINGLE PROTEIN	9606.0	Homo sapiens	BCL2	True
+DPC-003184	5830	1379628	Apoptosis regulator Bcl-X inhibitor	INHIBITOR	1	1	1		100217.0	CHEMBL4625	Bcl-2-like protein 1	SINGLE PROTEIN	9606.0	Homo sapiens	BCL2L1	True
+DPC-003184	5831	1379628	Apoptosis regulator Bcl-W inhibitor	INHIBITOR	1	1	1		100476.0	CHEMBL4677	Bcl-2-like protein 2	SINGLE PROTEIN	9606.0	Homo sapiens	BCL2L2	True
+DPC-003184	5832	1379628	Induced myeloid leukemia cell differentiation protein Mcl-1 inhibitor	INHIBITOR	1	1	1		100468.0	CHEMBL4361	Induced myeloid leukemia cell differentiation protein Mcl-1	SINGLE PROTEIN	9606.0	Homo sapiens	MCL1	True
+DPC-003184	5833	1379628	Bcl-2-related protein A1 inhibitor	INHIBITOR	1	1	1		102423.0	CHEMBL6044	Bcl-2-related protein A1	SINGLE PROTEIN	9606.0	Homo sapiens	BCL2A1	True
+DPC-003184	5834	1379628	Bcl-2-like protein 10 inhibitor	INHIBITOR	1	1	1		102637.0	CHEMBL5988	Bcl-2-like protein 10	SINGLE PROTEIN	9606.0	Homo sapiens	BCL2L10	True
+DPC-003334	856	47340	Estrogen receptor alpha modulator	MODULATOR	1	1	1		19.0	CHEMBL206	Estrogen receptor	SINGLE PROTEIN	9606.0	Homo sapiens	ESR1	True
+DPC-003457	4811	1438174	Serine/threonine-protein kinase AKT inhibitor	INHIBITOR	1	1	1		105106.0	CHEMBL2111353	Serine/threonine-protein kinase AKT	PROTEIN FAMILY	9606.0	Homo sapiens	AKT2|AKT3|AKT1	False
+DPC-003469	54	2197385	DNA topoisomerase I inhibitor	INHIBITOR	1	1	1		62.0	CHEMBL1781	DNA topoisomerase 1	SINGLE PROTEIN	9606.0	Homo sapiens	TOP1	True
+DPC-003736	130	675130	Receptor protein-tyrosine kinase erbB-2 inhibitor	INHIBITOR	1	1	1		188.0	CHEMBL1824	Receptor tyrosine-protein kinase erbB-2	SINGLE PROTEIN	9606.0	Homo sapiens	ERBB2	True
+DPC-003736	245	675130	Epidermal growth factor receptor erbB1 inhibitor	INHIBITOR	1	1	1		9.0	CHEMBL203	Epidermal growth factor receptor	SINGLE PROTEIN	9606.0	Homo sapiens	EGFR	True
+DPC-003769	5876	63649	CRL4(CRBN) E3 ubiquitin ligase inhibitor	INHIBITOR	1	1	1		116917.0	CHEMBL3833061	CRL4(CRBN) E3 ubiquitin ligase	PROTEIN COMPLEX	9606.0	Homo sapiens	CRBN|DDB1|CUL4A|RBX1	False
+DPC-003769	10034	3283828	CRL4(CRBN) E3 ubiquitin ligase modulator	MODULATOR	1	1	1		116917.0	CHEMBL3833061	CRL4(CRBN) E3 ubiquitin ligase	PROTEIN COMPLEX	9606.0	Homo sapiens	CRBN|DDB1|CUL4A|RBX1	False
+DPC-003811	7498	1677677	Probable protein-cysteine N-palmitoyltransferase porcupine inhibitor	INHIBITOR	1	1	1		103574.0	CHEMBL1255163	Protein-serine O-palmitoleoyltransferase porcupine	SINGLE PROTEIN	9606.0	Homo sapiens	PORCN	True
+DPC-003981	1865	53686	DNA inhibitor	INHIBITOR	1	1	1		105574.0	CHEMBL2311221	DNA	NUCLEIC-ACID	9606.0	Homo sapiens		False
+DPC-004229	103	840903	DNA topoisomerase II alpha inhibitor	INHIBITOR	1	1	1		63.0	CHEMBL1806	DNA topoisomerase 2-alpha	SINGLE PROTEIN	9606.0	Homo sapiens	TOP2A	True
+DPC-004229	1886	840903	DNA inhibitor	INHIBITOR	1	1	1		105574.0	CHEMBL2311221	DNA	NUCLEIC-ACID	9606.0	Homo sapiens		False
+DPC-004236	4764	436277	Serine/threonine-protein kinase Aurora inhibitor	INHIBITOR	1	1	1		109668.0	CHEMBL3430911	Serine/threonine-protein kinase Aurora	PROTEIN FAMILY	9606.0	Homo sapiens	AURKB|AURKC|AURKA	False
+DPC-004237	4765	616367	Serine/threonine-protein kinase AKT inhibitor	INHIBITOR	1	1	1		105106.0	CHEMBL2111353	Serine/threonine-protein kinase AKT	PROTEIN FAMILY	9606.0	Homo sapiens	AKT2|AKT3|AKT1	False
+DPC-004242	121	11305	Histone deacetylase 1 inhibitor	INHIBITOR	1	1	1		12697.0	CHEMBL325	Histone deacetylase 1	SINGLE PROTEIN	9606.0	Homo sapiens	HDAC1	True
+DPC-004242	190	11305	Histone deacetylase 3 inhibitor	INHIBITOR	1	1	1		11208.0	CHEMBL1829	Histone deacetylase 3	SINGLE PROTEIN	9606.0	Homo sapiens	HDAC3	True
+DPC-004242	307	11305	Histone deacetylase 6 inhibitor	INHIBITOR	1	1	1		11307.0	CHEMBL1865	Histone deacetylase 6	SINGLE PROTEIN	9606.0	Homo sapiens	HDAC6	True
+DPC-004242	1489	11305	Histone deacetylase 2 inhibitor	INHIBITOR	1	1	1		11206.0	CHEMBL1937	Histone deacetylase 2	SINGLE PROTEIN	9606.0	Homo sapiens	HDAC2	True
+DPC-004266	4373	1563660	Serine/threonine-protein kinase Chk1 inhibitor	INHIBITOR	1	1	1		12967.0	CHEMBL4630	Serine/threonine-protein kinase Chk1	SINGLE PROTEIN	9606.0	Homo sapiens	CHEK1	True
+DPC-004477	5740	508147	Apoptosis regulator Bcl-2 inhibitor	INHIBITOR	1	1	1	High affinity for Bcl-xL, Bcl-2, and Bcl-w (Ki =1 nmol/L).	100304.0	CHEMBL4860	Apoptosis regulator Bcl-2	SINGLE PROTEIN	9606.0	Homo sapiens	BCL2	True
+DPC-004477	5850	508147	Apoptosis regulator Bcl-X inhibitor	INHIBITOR	1	1	1	High affinity for Bcl-xL, Bcl-2, and Bcl-w (Ki =1 nmol/L).	100217.0	CHEMBL4625	Bcl-2-like protein 1	SINGLE PROTEIN	9606.0	Homo sapiens	BCL2L1	True
+DPC-004477	5851	508147	Apoptosis regulator Bcl-W inhibitor	INHIBITOR	1	1	1	High affinity for Bcl-xL, Bcl-2, and Bcl-w (Ki =1 nmol/L).	100476.0	CHEMBL4677	Bcl-2-like protein 2	SINGLE PROTEIN	9606.0	Homo sapiens	BCL2L2	True
+DPC-004509	1849	675063	DNA inhibitor	INHIBITOR	1	1	1		105574.0	CHEMBL2311221	DNA	NUCLEIC-ACID	9606.0	Homo sapiens		False
+DPC-004577	300	675691	Tyrosine-protein kinase ABL inhibitor	INHIBITOR	1	1	1		8.0	CHEMBL1862	Tyrosine-protein kinase ABL1	SINGLE PROTEIN	9606.0	Homo sapiens	ABL1	True
+DPC-004577	8633	675691	Bcr/Abl fusion protein inhibitor	INHIBITOR	1	1	1		104811.0	CHEMBL2096618	Bcr/Abl fusion protein	CHIMERIC PROTEIN	9606.0	Homo sapiens	ABL1|BCR	False
+DPC-004586	5681	624225	Poly [ADP-ribose] polymerase 2 inhibitor	INHIBITOR	1	1	1	IC(50) inhibition PARP2 (2.1 nM)	100933.0	CHEMBL5366	Poly [ADP-ribose] polymerase 2	SINGLE PROTEIN	9606.0	Homo sapiens	PARP2	True
+DPC-004586	5922	624225	Poly [ADP-ribose] polymerase-1 inhibitor	INHIBITOR	1	1	1	IC(50) inhibition PARP1 (3.8 nM) 	11663.0	CHEMBL3105	Poly [ADP-ribose] polymerase 1	SINGLE PROTEIN	9606.0	Homo sapiens	PARP1	True
+DPC-004586	7424	2197793	Poly [ADP-ribose] polymerase 2 inhibitor	INHIBITOR	1	1	1	IC(50) inhibition PARP2 (2.1 nM)	100933.0	CHEMBL5366	Poly [ADP-ribose] polymerase 2	SINGLE PROTEIN	9606.0	Homo sapiens	PARP2	True
+DPC-004586	7425	2197793	Poly [ADP-ribose] polymerase-1 inhibitor	INHIBITOR	1	1	1	IC(50) inhibition PARP1 (3.8 nM) 	11663.0	CHEMBL3105	Poly [ADP-ribose] polymerase 1	SINGLE PROTEIN	9606.0	Homo sapiens	PARP1	True
+DPC-004744	2320	469866	PARP 1, 2 and 3 inhibitor	INHIBITOR	1	1	1		109545.0	CHEMBL3390820	PARP 1, 2 and 3	PROTEIN FAMILY	9606.0	Homo sapiens	PARP1|PARP3|PARP2	False
+DPC-004880	1102	8062	Tubulin inhibitor	INHIBITOR	1	1	1		104766.0	CHEMBL2095182	Tubulin	PROTEIN COMPLEX GROUP	9606.0	Homo sapiens	TUBB4B|TUBB1|TUBA3C|TUBA4A|TUBB3|TUBA1A|TUBB4A|TUBB8|TUBB|TUBA1B|TUBA1C|TUBA3E|TUBB2A|TUBB2B|TUBB6	False
+DPC-004888	2316	319858	CDK6/cyclin D1 inhibitor	INHIBITOR	1	1	1		104977.0	CHEMBL2111455	CDK6/cyclin D1	PROTEIN COMPLEX	9606.0	Homo sapiens	CCND1|CDK6	False
+DPC-004888	2317	319858	Cyclin-dependent kinase 4/cyclin D1 inhibitor	INHIBITOR	1	1	1		104295.0	CHEMBL1907601	Cyclin-dependent kinase 4/cyclin D1	PROTEIN COMPLEX	9606.0	Homo sapiens	CDK4|CCND1	False
+DPC-004946	4782	453228	Dual specificity mitogen-activated protein kinase kinase 1 inhibitor	INHIBITOR	1	1	1		11409.0	CHEMBL3587	Dual specificity mitogen-activated protein kinase kinase 1	SINGLE PROTEIN	9606.0	Homo sapiens	MAP2K1	True
+DPC-004946	4783	453228	Dual specificity mitogen-activated protein kinase kinase 2 inhibitor	INHIBITOR	1	1	1		11046.0	CHEMBL2964	Dual specificity mitogen-activated protein kinase kinase 2	SINGLE PROTEIN	9606.0	Homo sapiens	MAP2K2	True
+DPC-005016	5761	693510	NEDD8 activating enzyme inhibitor	INHIBITOR	1	1	1		116863.0	CHEMBL3831283	NEDD8 activating enzyme	PROTEIN COMPLEX	9606.0	Homo sapiens	UBA3|NAE1	False
+DPC-005511	1049	2341540	Farnesyl diphosphate synthase inhibitor	INHIBITOR	1	1	1		71.0	CHEMBL1782	Farnesyl pyrophosphate synthase	SINGLE PROTEIN	9606.0	Homo sapiens	FDPS	True
+DPC-005564	5296	1926959	Cyclin-dependent kinase 4 inhibitor	INHIBITOR	1	1	1		12946.0	CHEMBL331	Cyclin-dependent kinase 4	SINGLE PROTEIN	9606.0	Homo sapiens	CDK4	True
+DPC-005564	5297	1926959	Cyclin-dependent kinase 6 inhibitor	INHIBITOR	1	1	1		10480.0	CHEMBL2508	Cyclin-dependent kinase 6	SINGLE PROTEIN	9606.0	Homo sapiens	CDK6	True
+DPC-005564	6161	2039237	Cyclin-dependent kinase 4 inhibitor	INHIBITOR	1	1	1		12946.0	CHEMBL331	Cyclin-dependent kinase 4	SINGLE PROTEIN	9606.0	Homo sapiens	CDK4	True
+DPC-005564	6162	2039237	Cyclin-dependent kinase 6 inhibitor	INHIBITOR	1	1	1		10480.0	CHEMBL2508	Cyclin-dependent kinase 6	SINGLE PROTEIN	9606.0	Homo sapiens	CDK6	True
+DPC-005646	1067	246935	Histone deacetylase inhibitor	INHIBITOR	1	1	1		104681.0	CHEMBL2093865	Histone deacetylase	PROTEIN FAMILY	9606.0	Homo sapiens	HDAC1|HDAC3|HDAC6|HDAC2|HDAC5|HDAC7|HDAC8|HDAC11|HDAC4|HDAC9|HDAC10	False
+DPC-005700	934	1158402	Tyrosine-protein kinase JAK1 inhibitor	INHIBITOR	1	1	1		10919.0	CHEMBL2835	Tyrosine-protein kinase JAK1	SINGLE PROTEIN	9606.0	Homo sapiens	JAK1	True
+DPC-005700	936	1158402	Tyrosine-protein kinase JAK2 inhibitor	INHIBITOR	1	1	1		10938.0	CHEMBL2971	Tyrosine-protein kinase JAK2	SINGLE PROTEIN	9606.0	Homo sapiens	JAK2	True
+DPC-005700	9864	2464813	Tyrosine-protein kinase JAK3 inhibitor	INHIBITOR	1	1	1		10849.0	CHEMBL2148	Tyrosine-protein kinase JAK3	SINGLE PROTEIN	9606.0	Homo sapiens	JAK3	True
+DPC-005700	9908	2464813	Tyrosine-protein kinase JAK2 inhibitor	INHIBITOR	1	1	1		10938.0	CHEMBL2971	Tyrosine-protein kinase JAK2	SINGLE PROTEIN	9606.0	Homo sapiens	JAK2	True
+DPC-005700	9931	2464813	Tyrosine-protein kinase JAK1 inhibitor	INHIBITOR	1	1	1		10919.0	CHEMBL2835	Tyrosine-protein kinase JAK1	SINGLE PROTEIN	9606.0	Homo sapiens	JAK1	True
+DPC-005700	9953	2464813	Tyrosine-protein kinase TYK2 inhibitor	INHIBITOR	1	1	1		12694.0	CHEMBL3553	Non-receptor tyrosine-protein kinase TYK2	SINGLE PROTEIN	9606.0	Homo sapiens	TYK2	True
+DPC-005781	4646	1790692	Hepatocyte growth factor receptor inhibitor	INHIBITOR	1	1	1		11451.0	CHEMBL3717	Hepatocyte growth factor receptor	SINGLE PROTEIN	9606.0	Homo sapiens	MET	True
+DPC-006002	8183	61315	DNA topoisomerase I inhibitor	INHIBITOR	1	1	1		62.0	CHEMBL1781	DNA topoisomerase 1	SINGLE PROTEIN	9606.0	Homo sapiens	TOP1	True
+DPC-006246	5789	1626749	Poly [ADP-ribose] polymerase 2 inhibitor	INHIBITOR	1	1	1		100933.0	CHEMBL5366	Poly [ADP-ribose] polymerase 2	SINGLE PROTEIN	9606.0	Homo sapiens	PARP2	True
+DPC-006246	5790	1626751	Poly [ADP-ribose] polymerase-1 inhibitor	INHIBITOR	1	1	1	Potent PARP1/2 inhibitor (PARP1 IC50 = 0.57 nmol/L). PARP1 Ki=1.2 nmol/L. PARP2 Ki= 0.85 nmol/L.	11663.0	CHEMBL3105	Poly [ADP-ribose] polymerase 1	SINGLE PROTEIN	9606.0	Homo sapiens	PARP1	True
+DPC-006246	5842	1626751	Poly [ADP-ribose] polymerase 2 inhibitor	INHIBITOR	1	1	1	Potent PARP1/2 inhibitor (PARP1 IC50 = 0.57 nmol/L). PARP1 Ki=1.2 nmol/L. PARP2 Ki= 0.85 nmol/L.	100933.0	CHEMBL5366	Poly [ADP-ribose] polymerase 2	SINGLE PROTEIN	9606.0	Homo sapiens	PARP2	True
+DPC-006246	5844	1626749	Poly [ADP-ribose] polymerase-1 inhibitor	INHIBITOR	1	1	1		11663.0	CHEMBL3105	Poly [ADP-ribose] polymerase 1	SINGLE PROTEIN	9606.0	Homo sapiens	PARP1	True
+DPC-006282	4812	1563853	PI3-kinase class I inhibitor	INHIBITOR	1	1	1		109750.0	CHEMBL3559703	PI3-kinase class I	PROTEIN COMPLEX GROUP	9606.0	Homo sapiens	PIK3R1|PIK3CB|PIK3CG|PIK3CA|PIK3R2|PIK3CD|PIK3R5|PIK3R3	False
+DPC-006378	1210	453046	DNA topoisomerase II inhibitor	INHIBITOR	1	1	1		104727.0	CHEMBL2094255	DNA topoisomerase II	PROTEIN FAMILY	9606.0	Homo sapiens	TOP2A|TOP2B	False
+DPC-006564	1742	456266	DNA topoisomerase I inhibitor	INHIBITOR	1	1	1		62.0	CHEMBL1781	DNA topoisomerase 1	SINGLE PROTEIN	9606.0	Homo sapiens	TOP1	True
+DPC-006587	935	1378011	Dual specificity mitogen-activated protein kinase kinase 2 inhibitor	INHIBITOR	1	1	1		11046.0	CHEMBL2964	Dual specificity mitogen-activated protein kinase kinase 2	SINGLE PROTEIN	9606.0	Homo sapiens	MAP2K2	True
+DPC-006587	948	1378011	Dual specificity mitogen-activated protein kinase kinase 1 inhibitor	INHIBITOR	1	1	1		11409.0	CHEMBL3587	Dual specificity mitogen-activated protein kinase kinase 1	SINGLE PROTEIN	9606.0	Homo sapiens	MAP2K1	True
+DPC-006587	7580	1376145	Dual specificity mitogen-activated protein kinase kinase; MEK1/2 inhibitor	INHIBITOR	1	1	1	Indicated for cancers with BRAF V600E or V600K mutations.	104912.0	CHEMBL2111289	Dual specificity mitogen-activated protein kinase kinase; MEK1/2	PROTEIN FAMILY	9606.0	Homo sapiens	MAP2K2|MAP2K1	False
+DPC-006819	1110	355917	Tubulin inhibitor	INHIBITOR	1	1	1		104766.0	CHEMBL2095182	Tubulin	PROTEIN COMPLEX GROUP	9606.0	Homo sapiens	TUBB4B|TUBB1|TUBA3C|TUBA4A|TUBB3|TUBA1A|TUBB4A|TUBB8|TUBB|TUBA1B|TUBA1C|TUBA3E|TUBB2A|TUBB2B|TUBB6	False
+DPC-006825	5516	1626740	Apoptosis regulator Bcl-2 inhibitor	INHIBITOR	1	1	1		100304.0	CHEMBL4860	Apoptosis regulator Bcl-2	SINGLE PROTEIN	9606.0	Homo sapiens	BCL2	True
+DPC-006858	1030	460092	Smoothened homolog inhibitor	INHIBITOR	1	1	1		101400.0	CHEMBL5971	Protein smoothened	SINGLE PROTEIN	9606.0	Homo sapiens	SMO	True
+DPC-006860	7265	1525993	Serine/threonine-protein kinase mTOR inhibitor	INHIBITOR	1	1	1		11400.0	CHEMBL2842	Serine/threonine-protein kinase mTOR	SINGLE PROTEIN	9606.0	Homo sapiens	MTOR	True
+DPC-007429	4732	1449226	Serine/threonine-protein kinase AKT inhibitor	INHIBITOR	1	1	1		105106.0	CHEMBL2111353	Serine/threonine-protein kinase AKT	PROTEIN FAMILY	9606.0	Homo sapiens	AKT2|AKT3|AKT1	False
+DPC-007456	1224	68396	Inosine-5'-monophosphate dehydrogenase (IMPDH) inhibitor	INHIBITOR	1	1	1		105058.0	CHEMBL2111369	Inosine-5'-monophosphate dehydrogenase (IMPDH)	PROTEIN FAMILY	9606.0	Homo sapiens	IMPDH1|IMPDH2	False
+DPC-007456	9269	1378913	Inosine-5'-monophosphate dehydrogenase (IMPDH) inhibitor	INHIBITOR	1	1	1		105058.0	CHEMBL2111369	Inosine-5'-monophosphate dehydrogenase (IMPDH)	PROTEIN FAMILY	9606.0	Homo sapiens	IMPDH1|IMPDH2	False
+DPC-007474	383	923	FK506-binding protein 1A inhibitor	INHIBITOR	1	1	1		80.0	CHEMBL1902	Peptidyl-prolyl cis-trans isomerase FKBP1A	SINGLE PROTEIN	9606.0	Homo sapiens	FKBP1A	True
+DPC-007478	382	675133	FK506-binding protein 1A inhibitor	INHIBITOR	1	1	1		80.0	CHEMBL1902	Peptidyl-prolyl cis-trans isomerase FKBP1A	SINGLE PROTEIN	9606.0	Homo sapiens	FKBP1A	True

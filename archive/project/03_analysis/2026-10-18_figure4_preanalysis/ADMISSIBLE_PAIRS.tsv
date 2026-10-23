@@ -1,0 +1,21 @@
+scenario	resource	target	drug_a	drug_b	pair_role	allowed_metadata	excluded_reason	target_eligible_structural	cell_n_status	admissible_pair	source_exclusion
+S1_distinct_scaffold	GDSC2	EGFR	DPC-000819	DPC-000838	within	True		True	NOT_REEVALUATED	True	
+S1_distinct_scaffold	GDSC2	EGFR	DPC-000819	DPC-002573	within	True		True	NOT_REEVALUATED	True	
+S1_distinct_scaffold	GDSC2	EGFR	DPC-000819	DPC-002973	within	True		True	NOT_REEVALUATED	True	
+S1_distinct_scaffold	GDSC2	EGFR	DPC-000838	DPC-002573	within	True		True	NOT_REEVALUATED	True	
+S1_distinct_scaffold	GDSC2	EGFR	DPC-000838	DPC-002973	within	True		True	NOT_REEVALUATED	True	
+S1_distinct_scaffold	GDSC2	EGFR	DPC-002573	DPC-002973	within	True		True	NOT_REEVALUATED	True	
+S1_distinct_scaffold	GDSC2	MTOR	DPC-000184	DPC-000822	within	True		True	NOT_REEVALUATED	True	
+S1_distinct_scaffold	GDSC2	MTOR	DPC-000184	DPC-001050	within	True		True	NOT_REEVALUATED	True	
+S1_distinct_scaffold	GDSC2	MTOR	DPC-000184	DPC-006860	within	True		True	NOT_REEVALUATED	True	
+S1_distinct_scaffold	GDSC2	MTOR	DPC-000822	DPC-001050	within	True		True	NOT_REEVALUATED	True	
+S1_distinct_scaffold	GDSC2	MTOR	DPC-000822	DPC-006860	within	False	not_frozen_distinct_Tanimoto_lt_0.70	True	NOT_REEVALUATED	False	not_frozen_distinct_Tanimoto_lt_0.70
+S1_distinct_scaffold	GDSC2	MTOR	DPC-001050	DPC-006860	within	True		True	NOT_REEVALUATED	True	
+S1_distinct_scaffold	GDSC2	ESR1	DPC-002900	DPC-002958	within	True		True	NOT_REEVALUATED	True	
+S1_distinct_scaffold	GDSC2	ESR1	DPC-002900	DPC-003334	within	True		True	NOT_REEVALUATED	True	
+S1_distinct_scaffold	GDSC2	ESR1	DPC-002958	DPC-003334	within	True		True	NOT_REEVALUATED	True	
+S1_distinct_scaffold	GDSC2	TOP1	DPC-003469	DPC-006002	within	True		True	NOT_REEVALUATED	False	known_parent_active_metabolite_pair
+S1_distinct_scaffold	GDSC2	TOP1	DPC-003469	DPC-006564	within	True		True	NOT_REEVALUATED	True	
+S1_distinct_scaffold	GDSC2	TOP1	DPC-006002	DPC-006564	within	False	not_frozen_distinct_Tanimoto_lt_0.70	True	NOT_REEVALUATED	False	not_frozen_distinct_Tanimoto_lt_0.70
+S1_distinct_scaffold	GDSC2	ATR	DPC-001018	DPC-001615	within	True		True	NOT_REEVALUATED	True	
+S1_distinct_scaffold	GDSC2	CHEK1	DPC-000855	DPC-004266	within	True		True	NOT_REEVALUATED	True	

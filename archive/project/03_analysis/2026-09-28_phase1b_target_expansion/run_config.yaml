@@ -1,0 +1,171 @@
+analysis: Phase 1b target expansion / Stage 3 N3
+run_date_local: '2026-09-28T11:29:28+02:00'
+run_directory: 03_analysis/2026-09-28_phase1b_target_expansion
+git_head: 57fc9a174222dfd14487e4c69d81a0033259dd44
+spec_tag: phase1r-n3-spec
+spec_commit: 57fc9a174222dfd14487e4c69d81a0033259dd44
+seed: 20260927
+thresholds:
+  MIN_N: 200
+  min_pairwise_cells: 30
+  bootstrap_replicates: 10000
+  permutation_replicates: 10000
+  discovery_positive_target_fraction: 0.7
+  prism_min_target_groups: 4
+  prism_min_compounds_per_group: 2
+  scaffold_tanimoto_bins:
+  - - 0.0
+    - 0.2
+  - - 0.2
+    - 0.4
+  - - 0.4
+    - 0.7
+  atlas_x_threshold: 0.15
+  atlas_y_threshold: 0.3
+response_definition: R = per-drug -z(GDSC2 AUC); PRISM Secondary 20Q2 AUC analyzed
+  separately
+genetic_anchor: DepMap Public 26Q1 CRISPRGeneEffect.csv (Chronos), sign-flipped; lineage=Model.csv
+  OncotreeLineage
+residual_definition: OLS R ~ D_primary_target + lineage, complete cases, per drug
+frozen_table_sha256:
+  data/phase1b/PHASE1B_ELIGIBILITY.tsv: ebb45d714bb4a480906b55cfe0dd15f023f7595939d349c7cd954966a7df341e
+  data/phase1b/PHASE1B_TARGET_GROUPS.tsv: 0feea3091dd38b2bdaaad7b8dea24166aab8f68b09b225620ade36e43b1ae673
+  data/phase1b/PHASE1B_SCAFFOLDS.tsv: b19c97fc9f2824b2efce28d12231470ba274bef7986f10e5183091b1b59277de
+  data/phase1b/PHASE1B_EXCLUSION.tsv: c5ee14e984c8765b3c9e9f6de64dbfa53ff90763297a0b491cfe08aa03d5d8be
+  data/INPUT_MANIFEST.json: fba139430fd35b5174020ec523b586fbcb74fc9c9c6d39e3685d6c25867a24f3
+  data/INPUT_MANIFEST.tsv: 1c18e5504294f414fcc52d91c0546dddf80044913842e84ed3a9ab896c515c64
+  revision/STAGE3_N3_SPEC.md: cdc670eaa0146aec9125e8a1e7581346b76c51c4847c3bc004b508f7e9debf58
+input_manifest:
+  path: data/INPUT_MANIFEST.json
+  sha256: fba139430fd35b5174020ec523b586fbcb74fc9c9c6d39e3685d6c25867a24f3
+  files:
+  - logical_path: /path/to/depmap/26Q1/CRISPRGeneEffect.csv
+    resolved_path: /path/to/user/KRAS_YAP1_RASi_Resistance_Project/02_DATA_RAW/public_CRISPR_DepMap/DepMap_26Q1/downloads/CRISPRGeneEffect.csv
+    sha256_manifest: e610a4cefb13a82b5b256b47eb08b63ff14843f8dbd0fb164bc0a32688e5b89e
+    sha256_observed: e610a4cefb13a82b5b256b47eb08b63ff14843f8dbd0fb164bc0a32688e5b89e
+    release: DepMap Public 26Q1
+  - logical_path: /path/to/depmap/26Q1/Model.csv
+    resolved_path: /path/to/user/KRAS_YAP1_RASi_Resistance_Project/02_DATA_RAW/public_CRISPR_DepMap/DepMap_26Q1/downloads/Model.csv
+    sha256_manifest: ea4e0b2a3bc806f81df62689a5ae75f1a100135727a3d7b8a4c7ccc8815183f8
+    sha256_observed: ea4e0b2a3bc806f81df62689a5ae75f1a100135727a3d7b8a4c7ccc8815183f8
+    release: DepMap Public 26Q1
+  - logical_path: /path/to/project/raw/GDSC2AUCMatrix.csv
+    resolved_path: /path/to/project/raw/GDSC2AUCMatrix.csv
+    sha256_manifest: 8060a2aacef11be2ab4beddd123750c0fd8f668971a13c7c00d43c78f34ac3f8
+    sha256_observed: 8060a2aacef11be2ab4beddd123750c0fd8f668971a13c7c00d43c78f34ac3f8
+    release: DepMap drug-response matrices (GDSC2 AUC; portal-harmonized)
+  - logical_path: /path/to/project/raw/PortalCompounds.csv
+    resolved_path: /path/to/project/raw/PortalCompounds.csv
+    sha256_manifest: 40f7e54b66f6b585f752b6c4c5c816b7ad9f232b499031eab99c4ba891f0655d
+    sha256_observed: 40f7e54b66f6b585f752b6c4c5c816b7ad9f232b499031eab99c4ba891f0655d
+    release: DepMap Public 26Q1 compound metadata (file also listed under 25Q3 canonical
+      id)
+  - logical_path: /path/to/project/raw/prism/secondary-screen-dose-response-curve-parameters.csv
+    resolved_path: /path/to/project/raw/prism/secondary-screen-dose-response-curve-parameters.csv
+    sha256_manifest: 2ac69a21f1d681fe7447689262b82ca6e3dc90bfef0bd96eb5479b96f424e43d
+    sha256_observed: 2ac69a21f1d681fe7447689262b82ca6e3dc90bfef0bd96eb5479b96f424e43d
+    release: PRISM Repurposing Secondary 19Q4/20Q2 dose-response parameters
+  - logical_path: discordance/prism_coverage.json
+    resolved_path: /path/to/project/discordance/prism_coverage.json
+    sha256_observed: 84abf83b9462c40a38b130b81b6f48668f15eaf0e1a945436810b814108ed361
+    availability: present
+  - logical_path: discordance/atlas_gdsc2_pairs.tsv
+    resolved_path: /path/to/project/discordance/atlas_gdsc2_pairs.tsv
+    sha256_observed: 3dc9f2143bf3c867c7b930465ee8ba423f218c4526b8b4fe79b1a38aea7ae2ae
+    availability: present
+  - logical_path: discordance/atlas_gdsc2_targets.tsv
+    resolved_path: /path/to/project/discordance/atlas_gdsc2_targets.tsv
+    sha256_observed: 6af3b61afe070aec8ccbaff1d12edd9e8f39d326ac9bd2ad9fdba07a7cac6bd4
+    availability: present
+  - logical_path: discordance/atlas_gdsc2.json
+    resolved_path: /path/to/project/discordance/atlas_gdsc2.json
+    sha256_observed: 5470a98384045609d351099b6fc7971071fd5f99110be31c674e22e5d966ad37
+    availability: present
+  - logical_path: discordance/fig3_atlas_plane.json
+    resolved_path: /path/to/project/discordance/fig3_atlas_plane.json
+    sha256_observed: 94f6c67939842e4551f422551286d83e3a86f84300561b7e24e492367b61623f
+    availability: present
+  - logical_path: raw/revision/D2_combined_gene_dep_scores.csv
+    resolved_path: /path/to/project/raw/revision/D2_combined_gene_dep_scores.csv
+    sha256_observed: 6bfe7b24ef191debccd502b7dfe61c4b0763caba3e02c6c14e521c8226bb98a7
+    role: DEMETER2 robustness input
+  - logical_path: discordance/revision/rev_common_regression.json
+    resolved_path: /path/to/project/discordance/revision/rev_common_regression.json
+    sha256_observed: ca5152717fdf1677170bfb78727df57ee76b3d5eb2b79b2f8045db7a3e0cdbe9
+    role: regression gate result
+  - logical_path: discordance/revision/rev_A2_nonlinear.py
+    resolved_path: /path/to/project/discordance/revision/rev_A2_nonlinear.py
+    sha256_observed: 8227a015811235191000f4af427251440925130d3c86552e4bfeab95cfed7a0f
+    role: frozen implementation reference
+  - logical_path: discordance/revision/rev_A3_attenuation.py
+    resolved_path: /path/to/project/discordance/revision/rev_A3_attenuation.py
+    sha256_observed: 21570c296a16493eea58cf55922868a2ad49e8f6a2c01618abd731fa3b938c60
+    role: frozen implementation reference
+  - logical_path: discordance/build_phase1b_chembl36_eligibility.py
+    resolved_path: /path/to/project/discordance/build_phase1b_chembl36_eligibility.py
+    sha256_observed: df4d1cf0b897e640b1365ca6b5972e1e734be9ec269bb2a5cd592e20e8e87340
+    role: frozen implementation reference
+software_versions:
+  numpy: 2.0.2
+  pandas: 2.3.3
+  scipy: 1.13.1
+  scikit-learn: 1.6.1
+  statsmodels: 0.14.6
+  matplotlib: 3.9.4
+  seaborn: 0.13.2
+  rdkit: 2025.9.2
+  pyyaml: 6.0.3
+  patsy: 1.0.2
+qualification_scaffold_rdkit_version: 2025.09.6 (frozen eligibility provenance; runtime
+  version recorded above)
+code_entrypoints:
+  shared_loader: discordance/revision/rev_common.py
+  regression_gate: discordance/revision/rev_common_regression.py
+  spline_residualizer_reference: discordance/revision/rev_A2_nonlinear.py
+  demeter2_mapping_reference: discordance/revision/rev_A3_attenuation.py
+  eligibility_builder: discordance/build_phase1b_chembl36_eligibility.py
+  analysis_entrypoint: 03_analysis/2026-09-28_phase1b_target_expansion/run_n3.py
+claim_and_figure_edits: false
+git_operations_performed: false
+regression_gate:
+  path: discordance/revision/rev_common_regression.json
+  sha256: 33d8ddcb8a7790ed990cf9834f93593ef005ff464068192d3886ebe29f8d7f75
+  status: PASS
+  checks_passed: 254
+  checks_total: 254
+analysis_entrypoint_sha256: 5714ba340d60ce916d806fb2aa0a2df1a2ccbb0a510d4ebd7c1312429d434cb0
+preliminary_attempts:
+- attempt: 1
+  entrypoint_sha256: d6867a663b6d96f796f8b9fcac8ad097251a3204b0a3118fffb6cec86a95e709
+  status: STOPPED_ON_RUNTIME_ERROR_BEFORE_OUTPUTS
+  error: eligibility and scaffold table both contained scaffold_smiles; merged column
+    name was suffixed; corrected by taking the frozen scaffold table field explicitly
+  residuals_computed_in_memory_before_stop: first included drug only; no result file
+    written
+- attempt: 2
+  entrypoint_sha256: 8705f8533e85301138adcec4097e6b15ab119f1ccc0df6714e64039a6bfbfd06
+  status: GDSC2_ANALYSIS_COMPLETED_BUT_PLOTTING_ABORTED
+  error: Matplotlib selected a macOS GUI backend in a headless batch run and aborted
+    while creating the first figure; no final report or summary bundle was written
+  completed_sections: GDSC2 main, bootstrap, target-label permutation, delete-one
+    robustness, scaffold control, target class, partial Mantel, Atlas points
+- attempt: 3
+  entrypoint_sha256: dd2e87d2a28488d3da3d450756b78fe3cfe31406e9c3dc3a6b20b986eef0450a
+  status: GDSC2_AND_PRISM_COVERAGE_COMPLETED_BUT_PRISM_PERMUTATION_CACHE_ABORTED
+  error: PRISM drug-specific response series had different index lengths; cache alignment
+    expected a shared index
+  completed_sections: GDSC2 full inference and robustness; PRISM 30 legal compounds,
+    with EGFR/ESR1/MTOR/TOP1 meeting the four-group gate; PRISM residual and anchor
+    precomputation started
+- attempt: 4
+  entrypoint_sha256: 714e50e537785933faad65b6a78fea3fc5d0153bba9dba4976b5e9a150ea8314
+  status: ANALYSIS_COMPLETED_REPORT_QA_FOUND_PRISM_SCAFFOLD_METADATA_OMITTED
+  error: PRISM target rows lacked scaffold_smiles metadata in their derived table;
+    report also needed primary PRISM results and the frozen exclusion-reason figure
+  completed_sections: All GDSC2 and PRISM statistical analyses, figures, report, and
+    summary were generated; deterministic rerun will add scaffold metadata and required
+    report fields
+phase1_overlap_compounds:
+- ERLOTINIB (DPC-002573)
+- GEFITINIB (DPC-002973)
+- OSIMERTINIB (DPC-000819)

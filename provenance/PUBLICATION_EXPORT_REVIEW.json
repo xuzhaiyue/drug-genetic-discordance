@@ -1,0 +1,10 @@
+{
+  "date": "2026-10-23",
+  "source_modules_parsed_without_import": 29,
+  "scientific_core_functions_preserved": 11,
+  "credential_scan": "No matching credential or workstation-path patterns in exported text",
+  "models_run_for_export": 0,
+  "new_statistical_tests": 0,
+  "new_clean_environment_reproduction": false,
+  "existing_source_files_overwritten": false
+}

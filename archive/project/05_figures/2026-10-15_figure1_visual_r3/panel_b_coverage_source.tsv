@@ -1,0 +1,7 @@
+target	gdsc2_drugs	prism_legal_drugs	prism_group_qualifies	prism_display
+EGFR	4	3	True	3
+MTOR	4	4	True	4
+ESR1	3	2	True	2
+TOP1	3	2	True	2
+ATR	2	1	False	—
+CHEK1	2	1	False	—

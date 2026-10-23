@@ -1,0 +1,9 @@
+{
+  "runtime_rdkit_version": "2025.09.2",
+  "frozen_eligibility_rdkit_version": "2025.09.6",
+  "version_match": false,
+  "fingerprint": "Morgan radius=2, fpSize=2048 over frozen scaffold_smiles",
+  "n_frozen_within_target_pair_comparisons": 18,
+  "max_abs_similarity_difference_vs_frozen_3dp_values": 0.0005000000000000004,
+  "n_frozen_within_target_values_equal_after_3dp_rounding": 18
+}

@@ -1,0 +1,20 @@
+{
+  "pharmacology_review_43_compounds.tsv": "265d939871b96b2124f9e0077190427101c86c7da1d03f904c96ec1efa80dfd6",
+  "INDEPENDENT_REVIEW.md": "08f32bd536897d46d87f98315c2da528410179dfc946b77b42d71cfc2ca18369",
+  "sensitivity_structural_counts.tsv": "962388634d41090b8d9acb699dbdfb51659a9e7b0df4b71609e0589d540b70fe",
+  "SENSITIVITY_EXECUTION_SPEC_REVIEW.md": "73ac99b3b34c2826601893102542a36285d01d6cbad23e6f7b349e02c2e45532",
+  "run_config.yaml": "caa4cdaa4206c3b0876b3afc28908b4009b0cd56769cdb9a715cb32ec6f8b60d",
+  "ORIGINAL_STAGE3_N3_SPEC.md": "cdc670eaa0146aec9125e8a1e7581346b76c51c4847c3bc004b508f7e9debf58",
+  "N3_CODE_EXCERPTS.md": "47cb79c781148cf36e3f28b52d26a6c915d8c530bee39251feba1b75baa152a9",
+  "scenario_pair_counts.tsv": "2bb8aedbeee54dc73492aacbba4cc8c09fbf7ca48d39aeb03d142ba0b90586f5",
+  "mask_reconciliation.json": "3883ba189b3c6438fe33cf4147cc90e4eaa34c1183b0e7149019c42895453a40",
+  "S8_EXCLUSION_TRIGGERS.tsv": "d43ae46f6d83bdd84f873e02d70863e3c79f330ba440ae066a43a88219104dfc",
+  "README.md": "85af2ac89857aff2fe230856b0b7e342c10491aed8d6665138ecc833c05cc5ff",
+  "REVISION_R2_REPORT.md": "ca28355684d51f27539d45a277ab7e710035bf1978d5fa951b359b9fcf5bf810",
+  "scenario_drug_membership.tsv": "43399334fab10b6d7d0476fb65e3b2c49e0fc011b93305feaf342fecca00d3fb",
+  "scenario_pair_masks.tsv": "a892ba5a9d375009f585f34a41debcbb6753f050dc4e44634e9881663e7886db",
+  "build_review.py": "89d83de68b9a4ee904e4c09545368bfae91826c7702ece37ab949a6893df90b4",
+  "sensitivity_target_losses.tsv": "c948a09b22c2f65f6833dea3256fe6e6de74f260fe049a037de65ab3c9ed785d",
+  "cross_target_overlap_masks.tsv": "08c567caeaa782f2c299d1d7aea4ecebcf5559f9d5577439ebd7c033335aa886",
+  "run_n3.py": "5714ba340d60ce916d806fb2aa0a2df1a2ccbb0a510d4ebd7c1312429d434cb0"
+}

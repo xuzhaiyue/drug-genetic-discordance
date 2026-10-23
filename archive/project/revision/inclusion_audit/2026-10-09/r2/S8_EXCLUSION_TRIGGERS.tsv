@@ -1,0 +1,13 @@
+compound_id	compound_name	flag_triggers
+DPC-000638	APR-246	multiple_mechanisms
+DPC-000660	ARAVA	multiple_mechanisms
+DPC-000736	AT13148	multiple_targets
+DPC-000816	AZD 2171	multiple_targets
+DPC-000855	AZD7762	multiple_targets
+DPC-001050	BEZ235	multiple_targets
+DPC-001060	BI-2536	multiple_targets
+DPC-001106	BIRB 796	family_inhibitor
+DPC-001942	CRA-032765	multiple_targets
+DPC-002828	FLUOROURACIL	multiple_mechanisms
+DPC-004229	MITOXANTRONE	isoform_unresolved;multiple_mechanisms
+DPC-004577	NILOTINIB	multiple_targets

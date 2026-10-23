@@ -1,0 +1,14 @@
+# Copy to config.yaml and set local paths before raw-data reproduction.
+project_root: .
+output_directory: outputs/reproduction
+external_inputs:
+  gdsc2_auc: /path/to/GDSC2AUCMatrix.csv
+  chronos: /path/to/CRISPRGeneEffect.csv
+  model_metadata: /path/to/Model.csv
+  prism_secondary_auc: /path/to/secondary-screen-dose-response-curve-parameters.csv
+  demeter2: /path/to/D2_combined_gene_dep_scores.csv
+  rna_log1p_tpm: /path/to/OmicsExpressionTPMLogp1HumanProteinCodingGenes.csv
+hallmark:
+  release: 2026.1.Hs
+  url: https://data.broadinstitute.org/gsea-msigdb/msigdb/release/2026.1.Hs/h.all.v2026.1.Hs.symbols.gmt
+  terms: https://www.gsea-msigdb.org/gsea/msigdb_license_terms.jsp

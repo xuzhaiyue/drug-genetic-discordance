@@ -1,0 +1,31 @@
+{
+  "rule": {
+    "target": "EGFR",
+    "candidate_universe": "all six frozen N3 EGFR within-target pairs",
+    "minimum_frozen_pair_n": 200,
+    "maximum_scaffold_tanimoto_exclusive": 0.7,
+    "ranking": [
+      "frozen_shared_cell_n_descending",
+      "frozen_scaffold_tanimoto_ascending",
+      "compound_id_a_ascending",
+      "compound_id_b_ascending"
+    ],
+    "correlation_not_used_for_selection": true,
+    "role": "illustrative example only"
+  },
+  "selected": {
+    "drug_a": "DPC-000819",
+    "drug_b": "DPC-002573",
+    "name_a": "OSIMERTINIB",
+    "name_b": "ERLOTINIB",
+    "target_a": "EGFR",
+    "target_b": "EGFR",
+    "same_target": true,
+    "n": 586,
+    "rho": 0.4807794504453049,
+    "scaffold_tanimoto": 0.3125,
+    "eligible_display": true
+  },
+  "lock_time_utc": "2026-10-15T18:18:08.935590+00:00",
+  "note": "Written before reading raw matrices or fitting either compound"
+}

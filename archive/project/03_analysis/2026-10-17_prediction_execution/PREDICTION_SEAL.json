@@ -1,0 +1,11 @@
+{
+  "status": "PREDICTIONS_SEALED",
+  "models_completed": 990,
+  "contexts_completed": 220,
+  "prediction_table_sha256": "815a7f9c5c21be32de6ea3e3fdafd18e06642f15c7badeb1fb9004102ad0caba",
+  "ols_fits_including_nuisance": 9110,
+  "heldout_performance_evaluated": false,
+  "runtime_utc": "2026-10-17T10:18:08.101689+00:00",
+  "spec_manifest_sha256": "437e79270a95ca7b6803b2512dee91de3d861529025cd8406153a040f55dedb9",
+  "source_sha256": "cb8e1b2ee31a1a8b49347ba29666355b202248ceaf341d4aa8579846293bb2fc"
+}

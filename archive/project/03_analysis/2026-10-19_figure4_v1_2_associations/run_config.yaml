@@ -1,0 +1,14 @@
+project_root: /path/to/project
+assets: 03_analysis/2026-10-18_figure4_preanalysis
+score_source: 03_analysis/2026-10-19_figure4_execution
+preflight: 03_analysis/2026-10-19_figure4_v1_2_preflight
+models: /path/to/depmap/26Q1/Model.csv
+seed: 20261018
+bootstrap_draws: 2000
+rank_tolerance: 1.0e-10
+minimum_sd: 1.0e-8
+leverage_upper_exclusive: 0.95
+family_size: 300
+association_authorized: true
+bootstrap_authorized: true
+figures_authorized: false

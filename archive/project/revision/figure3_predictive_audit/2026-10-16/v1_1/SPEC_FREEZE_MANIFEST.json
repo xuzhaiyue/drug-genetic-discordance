@@ -1,0 +1,29 @@
+{
+  "spec_version": "1.1",
+  "frozen_at_utc": "2026-10-16T15:08:27.448913+00:00",
+  "scope": "specification and response-blind metadata only; execution not authorized",
+  "files": {
+    "AMENDMENT_AUDIT.json": "2317fb3bb0144baeb351fb793e968fbccca1a551ad0d2f0e399929fb8a689196",
+    "BENCHMARK_TASK_CELLS_v1.1.tsv": "116aedefd42e2d7655b6d9da1cffe0ae222628d016ccd4acc2ef10a2134e9aab",
+    "CELL_FOLDS_v1.1.tsv": "4b7882503af78b0322eddaca72c44950fdeb02107baec139ad91b7b703981a3d",
+    "CONTROL_METADATA_v1.1.tsv": "45f0e8f6465135e5a7eb984b186a787c485a88e2e15feec77fe0eb8639cfdfcd",
+    "FINAL_METADATA_CHECK.json": "1437b4b1d016ee8d3fe64ce8bbf34f10e79eb8e52c9178cd3ab43d1be657a300",
+    "INHERITED_INPUT_SHA256.json": "3be348bdff3fc0f2ac00e4c24a084b494bfa0e859f326683cc699d1f77ded5f4",
+    "PHARMACOLOGY_FLAGS_v1.1.tsv": "a8ab5d1e60929e83223859933390a7bd6dcadbbbbf51b0f84f5af2be89c4bf9e",
+    "PREDICTION_DESIGN_v1.0_REFERENCE.md": "151e0705d4080eee2eda53beebd29eb092e48ad17e161eb1723f683d8e3365de",
+    "PREDICTION_DESIGN_v1.1.md": "29101cfac5f6cc99668d02ab36ed6f8f4e97d2485972826e98cd9a3dc562d547",
+    "PREDICTION_ELIGIBILITY_v1.1.tsv": "1fcc8ff95abfe9624eb7f1990700669a92d1304bf22ea36dbc4ae1043f095370",
+    "PREDICTION_FINAL_GO_NO_GO.md": "9d8c4d6dbe971fd30cb873d46794f1be31523cf0db3836e7befb4547560fcbdd",
+    "PRIMARY_TASK_CELLS_v1.1.tsv": "bf62ed842775352c52a09a727b869d461e3f3c2f684204f6d1f7ded7d2371f8c",
+    "README.md": "5c011851bfaf679250a2d0882c069bffc27e71a303981b8aea0f52f2f20445ad",
+    "SAME_DRUG_BENCHMARK_COVERAGE.tsv": "ebf471de8171b5b5c30afd7c48ff274886c0846b3496a2d8bac0f21bac9fc847",
+    "amend_metadata.py": "00245581f373056ff250a171afa58f643bf960af0780b5b2be515d3fd5e92223",
+    "run_config.yaml": "0c51d993eafdd3c7ef1c040456d735b5d0fed9decc2d9c9721e9ad7571b88700"
+  },
+  "inherited_loader_source": {
+    "path": "/path/to/project/revision/figure3_predictive_audit/2026-10-16/build_eligibility.py",
+    "sha256": "bb54d47ac97101d7000a006fe44869f314cf9ea282f0749413daaeec880b8371"
+  },
+  "independent_timestamp": false,
+  "git_operation": false
+}

@@ -1,0 +1,30 @@
+{
+  "status": "COMPLETED",
+  "primary_slots": 300,
+  "primary_corrected_pair_supported": 0,
+  "primary_by_target": {
+    "ATR": 0,
+    "CHEK1": 0,
+    "EGFR": 0,
+    "ESR1": 0,
+    "MTOR": 0,
+    "TOP1": 0
+  },
+  "minimum_primary_BY_q": 0.05774290293193765,
+  "no_G_corrected_pair_supported": 0,
+  "general_sensitivity_sensitive_slots": 0,
+  "drug_model_fits": 3000,
+  "paired_bootstrap_draws_per_target": 2000,
+  "targets": 6,
+  "invalid_bootstrap_draws": 0,
+  "bootstrap_model_coefficient_vectors": 6000000,
+  "frozen_sources_unchanged": true,
+  "specificity_p_q_computed": false,
+  "evidence_level": "Multiplicity-corrected approximate molecular association only; no causal/functional validation",
+  "plots_and_claim_edits": false,
+  "timestamp_utc": "2026-10-19T20:58:31.310156+00:00",
+  "python": "3.9.6 (default, Aug 25 2026, 21:26:21) \n[Clang 21.0.0 (clang-2100.3.34.2)]",
+  "numpy": "2.0.2",
+  "pandas": "2.3.3",
+  "scipy": "1.13.1"
+}

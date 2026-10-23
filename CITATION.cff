@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please cite this versioned code repository; manuscript citation will be added after publication."
+type: software
+title: "Drug genetic discordance analysis code"
+authors:
+  - family-names: Xu
+    given-names: Zhaiyue
+version: 0.1.0
+date-released: 2026-10-23
+repository-code: "https://github.com/xuzhaiyue/drug-genetic-discordance"

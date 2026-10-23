@@ -1,0 +1,287 @@
+compound_id	status	primary_target	n_complete
+DPC-000001	unresolved		588
+DPC-000002	unresolved		579
+DPC-000027	unresolved		585
+DPC-000028	excluded		552
+DPC-000034	excluded		579
+DPC-000083	excluded		586
+DPC-000141	excluded		481
+DPC-000154	unresolved		551
+DPC-000162	unresolved		586
+DPC-000184	included	MTOR	584
+DPC-000188	excluded		579
+DPC-000191	unresolved		481
+DPC-000234	included	DHFR	582
+DPC-000236	excluded		576
+DPC-000247	unresolved		586
+DPC-000258	excluded		586
+DPC-000284	excluded		467
+DPC-000332	included	WEE1	589
+DPC-000358	excluded		589
+DPC-000363	excluded		586
+DPC-000364	excluded		579
+DPC-000366	excluded		585
+DPC-000372	unresolved		585
+DPC-000373	unresolved		554
+DPC-000389	excluded		140
+DPC-000391	unresolved		555
+DPC-000392	unresolved		555
+DPC-000393	unresolved		109
+DPC-000394	unresolved		555
+DPC-000428	included	AURKA	589
+DPC-000452	included	PIK3CA	587
+DPC-000504	excluded		576
+DPC-000508	included	PIK3CD	581
+DPC-000613	unresolved		553
+DPC-000614	unresolved		554
+DPC-000615	unresolved		555
+DPC-000635	included	NAMPT	337
+DPC-000638	included	TP53	554
+DPC-000660	included	DHODH	555
+DPC-000683	excluded		578
+DPC-000719	excluded		588
+DPC-000736	included	MAPKAPK2	580
+DPC-000757	excluded		110
+DPC-000768	excluded		588
+DPC-000773	excluded		577
+DPC-000793	unresolved		554
+DPC-000805	unresolved		580
+DPC-000816	included	KIT	586
+DPC-000818	excluded		586
+DPC-000819	included	EGFR	586
+DPC-000822	included	MTOR	481
+DPC-000825	excluded		464
+DPC-000838	included	EGFR	588
+DPC-000846	unresolved		467
+DPC-000847	excluded		586
+DPC-000849	excluded		467
+DPC-000850	unresolved		465
+DPC-000855	included	CHEK1	588
+DPC-000861	excluded		584
+DPC-000921	excluded		579
+DPC-000954	unresolved		483
+DPC-001018	included	ATR	552
+DPC-001050	included	MTOR	585
+DPC-001060	included	PLK1	579
+DPC-001070	unresolved		555
+DPC-001077	unresolved		582
+DPC-001080	unresolved		108
+DPC-001089	excluded	SYK	554
+DPC-001105	excluded		554
+DPC-001106	included	MAPK14	580
+DPC-001127	excluded		586
+DPC-001132	excluded		468
+DPC-001133	unresolved		475
+DPC-001140	unresolved		586
+DPC-001151	unresolved		555
+DPC-001165	excluded		579
+DPC-001195	unresolved		585
+DPC-001198	excluded		578
+DPC-001201	unresolved		483
+DPC-001332	unresolved		468
+DPC-001399	excluded		586
+DPC-001409	unresolved		110
+DPC-001542	unresolved		110
+DPC-001544	unresolved		573
+DPC-001615	included	ATR	586
+DPC-001674	unresolved		109
+DPC-001793	excluded		487
+DPC-001942	included	BTK	553
+DPC-001953	excluded		588
+DPC-002004	excluded		583
+DPC-002021	excluded		483
+DPC-002028	unresolved		551
+DPC-002044	included	BRAF	583
+DPC-002046	excluded		465
+DPC-002085	excluded		587
+DPC-002245	unresolved		467
+DPC-002267	excluded		555
+DPC-002313	excluded		589
+DPC-002438	unresolved		577
+DPC-002455	unresolved		468
+DPC-002456	unresolved		110
+DPC-002463	excluded		586
+DPC-002466	excluded		587
+DPC-002514	excluded		556
+DPC-002515	included	SYK	554
+DPC-002552	unresolved		582
+DPC-002556	unresolved		579
+DPC-002573	included	EGFR	586
+DPC-002683	excluded		583
+DPC-002684	excluded		581
+DPC-002808	unresolved		467
+DPC-002828	included	TYMS	589
+DPC-002900	included	ESR1	583
+DPC-002934	unresolved		466
+DPC-002958	included	ESR1	585
+DPC-002968	excluded		590
+DPC-002973	included	EGFR	583
+DPC-002977	excluded		588
+DPC-003028	unresolved		479
+DPC-003039	unresolved		586
+DPC-003078	unresolved		588
+DPC-003079	unresolved		583
+DPC-003080	unresolved		140
+DPC-003081	unresolved		584
+DPC-003086	excluded		556
+DPC-003117	unresolved		468
+DPC-003118	unresolved		475
+DPC-003137	excluded		554
+DPC-003143	unresolved		554
+DPC-003159	unresolved		583
+DPC-003184	excluded		501
+DPC-003334	included	ESR1	585
+DPC-003397	unresolved		588
+DPC-003457	excluded		586
+DPC-003469	included	TOP1	587
+DPC-003532	unresolved		554
+DPC-003550	unresolved		579
+DPC-003570	unresolved		582
+DPC-003668	unresolved		579
+DPC-003669	unresolved		577
+DPC-003736	excluded		589
+DPC-003757	unresolved		552
+DPC-003769	excluded		578
+DPC-003811	included	PORCN	586
+DPC-003854	unresolved		580
+DPC-003855	unresolved		590
+DPC-003981	excluded		581
+DPC-004207	unresolved		483
+DPC-004213	unresolved		584
+DPC-004216	unresolved		555
+DPC-004229	included	TOP2A	468
+DPC-004236	excluded		140
+DPC-004237	excluded		590
+DPC-004242	excluded		587
+DPC-004266	included	CHEK1	583
+DPC-004319	unresolved		553
+DPC-004391	unresolved		586
+DPC-004477	excluded		590
+DPC-004509	excluded		465
+DPC-004577	included	ABL1	585
+DPC-004586	excluded		554
+DPC-004694	unresolved		580
+DPC-004697	unresolved		586
+DPC-004707	unresolved		554
+DPC-004735	unresolved		555
+DPC-004744	excluded		587
+DPC-004874	unresolved		585
+DPC-004880	excluded		585
+DPC-004888	excluded		582
+DPC-004946	excluded		588
+DPC-004948	unresolved		589
+DPC-005016	excluded		586
+DPC-005022	unresolved		140
+DPC-005086	unresolved		579
+DPC-005156	unresolved		550
+DPC-005191	unresolved		579
+DPC-005204	unresolved		110
+DPC-005247	unresolved		586
+DPC-005262	unresolved		468
+DPC-005425	unresolved		582
+DPC-005511	included	FDPS	466
+DPC-005521	unresolved		252
+DPC-005564	excluded		582
+DPC-005621	unresolved		583
+DPC-005646	excluded		468
+DPC-005700	excluded		558
+DPC-005781	included	MET	581
+DPC-005783	unresolved		580
+DPC-005784	unresolved		140
+DPC-005818	unresolved		576
+DPC-005918	unresolved		586
+DPC-005935	unresolved		464
+DPC-005936	unresolved		575
+DPC-005963	unresolved		467
+DPC-005992	unresolved		110
+DPC-006002	included	TOP1	583
+DPC-006117	unresolved		590
+DPC-006246	excluded		586
+DPC-006282	excluded		589
+DPC-006378	excluded		468
+DPC-006564	included	TOP1	468
+DPC-006587	excluded		589
+DPC-006696	unresolved		235
+DPC-006742	unresolved		483
+DPC-006744	unresolved		475
+DPC-006814	unresolved		580
+DPC-006819	excluded		483
+DPC-006825	included	BCL2	585
+DPC-006858	included	SMO	579
+DPC-006860	included	MTOR	467
+DPC-006904	unresolved		580
+DPC-006929	unresolved		588
+DPC-006931	unresolved		586
+DPC-006937	unresolved		554
+DPC-006950	unresolved		552
+DPC-006994	unresolved		586
+DPC-007056	unresolved		577
+DPC-007370	unresolved		467
+DPC-007371	unresolved		468
+DPC-007372	unresolved		468
+DPC-007373	unresolved		467
+DPC-007374	unresolved		468
+DPC-007375	unresolved		467
+DPC-007376	unresolved		468
+DPC-007377	unresolved		467
+DPC-007378	unresolved		463
+DPC-007379	unresolved		466
+DPC-007380	unresolved		467
+DPC-007381	unresolved		467
+DPC-007382	unresolved		468
+DPC-007385	unresolved		584
+DPC-007386	unresolved		480
+DPC-007387	unresolved		479
+DPC-007388	unresolved		466
+DPC-007399	unresolved		467
+DPC-007400	unresolved		468
+DPC-007401	unresolved		467
+DPC-007402	unresolved		468
+DPC-007407	unresolved		467
+DPC-007408	unresolved		467
+DPC-007409	unresolved		481
+DPC-007413	unresolved		481
+DPC-007415	unresolved		467
+DPC-007417	unresolved		466
+DPC-007418	unresolved		467
+DPC-007427	unresolved		468
+DPC-007428	unresolved		481
+DPC-007429	excluded		465
+DPC-007430	unresolved		461
+DPC-007431	unresolved		468
+DPC-007432	unresolved		459
+DPC-007433	unresolved		466
+DPC-007434	unresolved		461
+DPC-007436	unresolved		481
+DPC-007439	unresolved		464
+DPC-007441	unresolved		480
+DPC-007442	unresolved		467
+DPC-007444	unresolved		467
+DPC-007446	unresolved		467
+DPC-007448	unresolved		467
+DPC-007449	unresolved		468
+DPC-007450	unresolved		464
+DPC-007451	unresolved		463
+DPC-007452	unresolved		464
+DPC-007453	unresolved		468
+DPC-007456	excluded		477
+DPC-007457	unresolved		480
+DPC-007461	unresolved		483
+DPC-007462	unresolved		479
+DPC-007463	unresolved		480
+DPC-007464	unresolved		480
+DPC-007465	unresolved		467
+DPC-007469	unresolved		481
+DPC-007472	unresolved		481
+DPC-007474	included	FKBP1A	580
+DPC-007475	unresolved		468
+DPC-007476	unresolved		467
+DPC-007478	included	FKBP1A	579
+DPC-007479	unresolved		474
+DPC-007480	unresolved		475
+DPC-007481	unresolved		476
+DPC-007486	unresolved		467
+DPC-007487	unresolved		481
+DPC-007488	unresolved		467
+DPC-007489	unresolved		477
+DPC-007490	unresolved		474

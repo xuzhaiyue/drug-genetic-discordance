@@ -1,0 +1,28 @@
+project_root: /path/to/project
+date: '2026-10-16'
+authorization: User authorized deterministic recovery of the unsaved matched Chronos target baseline and verification against frozen overall median.
+n3_dir: 03_analysis/2026-09-28_phase1b_target_expansion
+output_dir: 03_analysis/2026-10-16_figure2_matched_chronos_recovery/recovery_run1
+scope:
+  source: frozen N3 DEMETER2 sensitivity implementation
+  residual_source_to_recover: Chronos only
+  response_scaling: original N3 common-cell response vector before matching; no restandardization after subsetting
+  matching: per-drug complete R, Chronos, DEMETER2 and original lineage dummies
+  minimum_per_drug_n: 200
+  minimum_pair_n: 30
+  expected_analyzed_drugs: 42
+  expected_targets: [EGFR, MTOR, ESR1, TOP1, ATR, CHEK1]
+verification:
+  overall_median_from_frozen_json: true
+  absolute_tolerance: 1.0e-10
+  per_drug_n_exact: true
+  pair_shared_n_exact: true
+  target_pair_denominators_exact: true
+  code_and_raw_hashes_must_match: true
+execution:
+  python: /usr/bin/python3
+  new_model_selection: false
+  new_inference: false
+  permutations: 0
+  bootstraps: 0
+  seed: null

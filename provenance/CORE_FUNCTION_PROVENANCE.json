@@ -1,0 +1,82 @@
+{
+  "operation": "Static source comparison, no function execution",
+  "functions": [
+    {
+      "function": "response_vector",
+      "source": "discordance/run_discordance_atlas_gdsc2.py",
+      "export": "src/drug_genetic_discordance/residuals.py",
+      "ast_identical": true,
+      "ast_sha256": "da411fb397d07bfac3b2388eaec280ffd3b3a335c6cb95c206e714b7ee865be8"
+    },
+    {
+      "function": "partial_corr",
+      "source": "discordance/run_discordance_atlas_gdsc2.py",
+      "export": "src/drug_genetic_discordance/residuals.py",
+      "ast_identical": true,
+      "ast_sha256": "6a69c30783b1a5cec1d4d422f196565ce1e72fba9f366a7b7fce24388eeca1b0"
+    },
+    {
+      "function": "ols_residual",
+      "source": "discordance/run_discordance_atlas_gdsc2.py",
+      "export": "src/drug_genetic_discordance/residuals.py",
+      "ast_identical": true,
+      "ast_sha256": "76ee61179e32e94ed0141a40769ca059139b60e3a0da78673a7c987819a50a2d"
+    },
+    {
+      "function": "spearman_pair",
+      "source": "discordance/run_discordance_atlas_gdsc2.py",
+      "export": "src/drug_genetic_discordance/residuals.py",
+      "ast_identical": true,
+      "ast_sha256": "7152b9970df9a0ebc692da373a5aa4ed036f26aaf50ffb672ab70bf65a55c51d"
+    },
+    {
+      "function": "median",
+      "source": "03_analysis/2026-09-28_phase1b_target_expansion/run_n3.py",
+      "export": "src/drug_genetic_discordance/sharing.py",
+      "ast_identical": true,
+      "ast_sha256": "891381b74b5ab8b3f1764d83b23159068fbc4fcec3dd7b3328938dfb7565c5b6"
+    },
+    {
+      "function": "ci95",
+      "source": "03_analysis/2026-09-28_phase1b_target_expansion/run_n3.py",
+      "export": "src/drug_genetic_discordance/sharing.py",
+      "ast_identical": true,
+      "ast_sha256": "92dcd0d16c4705c84aa91099f6b505326a192650528672990be6bcf5da4183c8"
+    },
+    {
+      "function": "pair_table",
+      "source": "03_analysis/2026-09-28_phase1b_target_expansion/run_n3.py",
+      "export": "src/drug_genetic_discordance/sharing.py",
+      "ast_identical": true,
+      "ast_sha256": "ad55950e94518aafea5d66949dc02c744da52e0b50b58c8dc1bed1cce1c1bdce"
+    },
+    {
+      "function": "target_estimands",
+      "source": "03_analysis/2026-09-28_phase1b_target_expansion/run_n3.py",
+      "export": "src/drug_genetic_discordance/sharing.py",
+      "ast_identical": true,
+      "ast_sha256": "43c1462c88ff8343dba17d293a1e2f47d3a018faca409d55ae1a0c0636a251fa"
+    },
+    {
+      "function": "canonical",
+      "source": "03_analysis/2026-10-17_prediction_runtime_preflight/runtime_preflight.py",
+      "export": "src/drug_genetic_discordance/prediction.py",
+      "ast_identical": true,
+      "ast_sha256": "33d5b3c7f6d00e7422318a5ef49d2a8b5a3469ebde63fd382997e7c809eb81b6"
+    },
+    {
+      "function": "digest",
+      "source": "03_analysis/2026-10-17_prediction_runtime_preflight/runtime_preflight.py",
+      "export": "src/drug_genetic_discordance/prediction.py",
+      "ast_identical": true,
+      "ast_sha256": "ef1cc396f60d09f2afbad79e5d5a61f9b81901ada1c6ceb626004854593f5a09"
+    },
+    {
+      "function": "predict_only",
+      "source": "03_analysis/2026-10-17_prediction_runtime_preflight/runtime_preflight.py",
+      "export": "src/drug_genetic_discordance/prediction.py",
+      "ast_identical": true,
+      "ast_sha256": "fd0cfe4fef8b2ccbba9afd33b09a891c018d4f46613734126601918e1f8cf2d3"
+    }
+  ]
+}

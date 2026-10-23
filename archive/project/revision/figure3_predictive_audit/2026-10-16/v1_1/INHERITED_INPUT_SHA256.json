@@ -1,0 +1,11 @@
+{
+  "/path/to/project/revision/inclusion_audit/2026-10-09/r2/pharmacology_review_43_compounds.tsv": "265d939871b96b2124f9e0077190427101c86c7da1d03f904c96ec1efa80dfd6",
+  "/path/to/project/raw/GDSC2AUCMatrix.csv": "8060a2aacef11be2ab4beddd123750c0fd8f668971a13c7c00d43c78f34ac3f8",
+  "/path/to/project/raw/prism/secondary-screen-dose-response-curve-parameters.csv": "2ac69a21f1d681fe7447689262b82ca6e3dc90bfef0bd96eb5479b96f424e43d",
+  "/path/to/depmap/26Q1/CRISPRGeneEffect.csv": "e610a4cefb13a82b5b256b47eb08b63ff14843f8dbd0fb164bc0a32688e5b89e",
+  "/path/to/depmap/26Q1/Model.csv": "ea4e0b2a3bc806f81df62689a5ae75f1a100135727a3d7b8a4c7ccc8815183f8",
+  "/path/to/project/03_analysis/2026-09-28_phase1b_target_expansion/n3_drug_results.tsv": "faedbcbbdc27a35f92a8f88e3ac74b605dc589ec0bdbb4def9d83c700be31abb",
+  "/path/to/project/03_analysis/2026-09-28_phase1b_target_expansion/n3_prism_compound_coverage.tsv": "e56ca0b335bc23a5b27500832df5c98ea33228235221b8f4f20d9ec1aaca6743",
+  "/path/to/project/03_analysis/2026-09-28_phase1b_target_expansion/n3_cross_resource_xs_xc.tsv": "36f2c34dbe1211a79a847718e03fd9c861d215f910c8c0d6e204661cd35cbb46",
+  "/path/to/project/03_analysis/2026-09-28_phase1b_target_expansion/run_config.yaml": "7b79f05a84803e4cbb17074fa653703195b967ee2ad3d5ffc557d33d9bd1e377"
+}

@@ -1,0 +1,453 @@
+{
+  "analysis": "Phase 1b N3 target expansion; frozen cross-target validation",
+  "spec_tag": "phase1r-n3-spec",
+  "spec_commit": "57fc9a174222dfd14487e4c69d81a0033259dd44",
+  "git_head_at_run_config": "57fc9a174222dfd14487e4c69d81a0033259dd44",
+  "run_date_local": "2026-09-28T11:29:28+02:00",
+  "preliminary_attempts": [
+    {
+      "attempt": 1,
+      "entrypoint_sha256": "d6867a663b6d96f796f8b9fcac8ad097251a3204b0a3118fffb6cec86a95e709",
+      "status": "STOPPED_ON_RUNTIME_ERROR_BEFORE_OUTPUTS",
+      "error": "eligibility and scaffold table both contained scaffold_smiles; merged column name was suffixed; corrected by taking the frozen scaffold table field explicitly",
+      "residuals_computed_in_memory_before_stop": "first included drug only; no result file written"
+    },
+    {
+      "attempt": 2,
+      "entrypoint_sha256": "8705f8533e85301138adcec4097e6b15ab119f1ccc0df6714e64039a6bfbfd06",
+      "status": "GDSC2_ANALYSIS_COMPLETED_BUT_PLOTTING_ABORTED",
+      "error": "Matplotlib selected a macOS GUI backend in a headless batch run and aborted while creating the first figure; no final report or summary bundle was written",
+      "completed_sections": "GDSC2 main, bootstrap, target-label permutation, delete-one robustness, scaffold control, target class, partial Mantel, Atlas points"
+    },
+    {
+      "attempt": 3,
+      "entrypoint_sha256": "dd2e87d2a28488d3da3d450756b78fe3cfe31406e9c3dc3a6b20b986eef0450a",
+      "status": "GDSC2_AND_PRISM_COVERAGE_COMPLETED_BUT_PRISM_PERMUTATION_CACHE_ABORTED",
+      "error": "PRISM drug-specific response series had different index lengths; cache alignment expected a shared index",
+      "completed_sections": "GDSC2 full inference and robustness; PRISM 30 legal compounds, with EGFR/ESR1/MTOR/TOP1 meeting the four-group gate; PRISM residual and anchor precomputation started"
+    },
+    {
+      "attempt": 4,
+      "entrypoint_sha256": "714e50e537785933faad65b6a78fea3fc5d0153bba9dba4976b5e9a150ea8314",
+      "status": "ANALYSIS_COMPLETED_REPORT_QA_FOUND_PRISM_SCAFFOLD_METADATA_OMITTED",
+      "error": "PRISM target rows lacked scaffold_smiles metadata in their derived table; report also needed primary PRISM results and the frozen exclusion-reason figure",
+      "completed_sections": "All GDSC2 and PRISM statistical analyses, figures, report, and summary were generated; deterministic rerun will add scaffold metadata and required report fields"
+    }
+  ],
+  "regression_gate": {
+    "status": "PASS",
+    "checks_passed": 254,
+    "checks_total": 254
+  },
+  "frozen_table_sha256_match": true,
+  "n_included_drugs": 43,
+  "n_primary_targets": 6,
+  "gdsc2_main": {
+    "median_delta": 0.3258083798625103,
+    "ci95_target_bootstrap": [
+      0.2674541738298757,
+      0.44841827613702145
+    ],
+    "n_targets": 6,
+    "positive_targets": 6,
+    "positive_fraction": 1.0,
+    "bootstrap_n": 10000,
+    "bootstrap_seed": 20260927,
+    "status": "PASS"
+  },
+  "gdsc2_target_results": [
+    {
+      "target": "EGFR",
+      "n_drugs": 4,
+      "n_scaffolds": 4,
+      "within_pair_count": 6,
+      "cross_pair_count": 156,
+      "W_t": 0.46794945218510986,
+      "C_t": 0.05003957688470009,
+      "delta_t": 0.4179098753004098,
+      "compound_ids": "DPC-000819|DPC-000838|DPC-002573|DPC-002973"
+    },
+    {
+      "target": "MTOR",
+      "n_drugs": 4,
+      "n_scaffolds": 3,
+      "within_pair_count": 6,
+      "cross_pair_count": 156,
+      "W_t": 0.48059357847834294,
+      "C_t": 0.11941281543920186,
+      "delta_t": 0.3611807630391411,
+      "compound_ids": "DPC-000184|DPC-000822|DPC-001050|DPC-006860"
+    },
+    {
+      "target": "ESR1",
+      "n_drugs": 3,
+      "n_scaffolds": 3,
+      "within_pair_count": 3,
+      "cross_pair_count": 120,
+      "W_t": 0.5047399184876218,
+      "C_t": 0.025813241513988748,
+      "delta_t": 0.47892667697363306,
+      "compound_ids": "DPC-002900|DPC-002958|DPC-003334"
+    },
+    {
+      "target": "TOP1",
+      "n_drugs": 3,
+      "n_scaffolds": 2,
+      "within_pair_count": 3,
+      "cross_pair_count": 120,
+      "W_t": 0.36630713071839155,
+      "C_t": 0.0920774218722925,
+      "delta_t": 0.27422970884609904,
+      "compound_ids": "DPC-003469|DPC-006002|DPC-006564"
+    },
+    {
+      "target": "ATR",
+      "n_drugs": 2,
+      "n_scaffolds": 2,
+      "within_pair_count": 1,
+      "cross_pair_count": 82,
+      "W_t": 0.3938260903731209,
+      "C_t": 0.13314745155946855,
+      "delta_t": 0.26067863881365233,
+      "compound_ids": "DPC-001018|DPC-001615"
+    },
+    {
+      "target": "CHEK1",
+      "n_drugs": 2,
+      "n_scaffolds": 2,
+      "within_pair_count": 1,
+      "cross_pair_count": 82,
+      "W_t": 0.37557425735854294,
+      "C_t": 0.08513826067266345,
+      "delta_t": 0.2904359966858795,
+      "compound_ids": "DPC-000855|DPC-004266"
+    }
+  ],
+  "target_label_permutation": {
+    "n_permutations_requested": 10000,
+    "n_permutations_valid": 10000,
+    "seed": 20260928,
+    "observed_median_delta": 0.3258083798625103,
+    "null_median": -0.00559750232311829,
+    "p_one_sided": 9.999000099990002e-05,
+    "max_abs_lookup_vs_direct_rho": 8.881784197001252e-16,
+    "anchor_residual_min_n": 262,
+    "cache_method": "all drug \u00d7 target-anchor OLS residuals precomputed; permutation selects the exact residuals and recomputes all target-level statistics"
+  },
+  "robustness": {
+    "leave_one_drug_out": {
+      "n_runs": 43,
+      "median_delta_range": [
+        0.2838388816003522,
+        0.3889471910430185
+      ],
+      "n_status_pass": 43,
+      "n_status_fail": 0
+    },
+    "leave_one_target_out": {
+      "n_runs": 6,
+      "median_delta_range": [
+        0.27792569199285344,
+        0.36150905910104913
+      ]
+    },
+    "scaffold_matched": {
+      "status": "COMPLETED",
+      "n_pairs_in_frozen_bins": 900,
+      "n_pairs_outside_frozen_bins_ge_0_7": 3,
+      "aggregation": "unweighted mean of per-bin (median same-target rho \u2212 median cross-target rho); permutation shuffles pair labels within bins, preserving each bin's same-target count",
+      "observed_stratified_difference": 0.40409881795835356,
+      "p_one_sided": 9.999000099990002e-05,
+      "n_permutations": 10000,
+      "seed": 20260929,
+      "null_median": 0.0038029680268578184,
+      "dyadic_pairs_are_dependent": true
+    },
+    "scaffold_fingerprint_provenance": {
+      "runtime_rdkit_version": "2025.09.2",
+      "frozen_eligibility_rdkit_version": "2025.09.6",
+      "version_match": false,
+      "fingerprint": "Morgan radius=2, fpSize=2048 over frozen scaffold_smiles",
+      "n_frozen_within_target_pair_comparisons": 18,
+      "max_abs_similarity_difference_vs_frozen_3dp_values": 0.0005000000000000004,
+      "n_frozen_within_target_values_equal_after_3dp_rounding": 18
+    },
+    "target_class": [
+      {
+        "target_class": "kinase",
+        "n_targets": 4,
+        "median_delta_t": 0.3258083798625103,
+        "target_deltas": "EGFR:0.41790988|MTOR:0.36118076|ATR:0.26067864|CHEK1:0.290436",
+        "status": "DESCRIPTIVE"
+      },
+      {
+        "target_class": "non-kinase",
+        "n_targets": 2,
+        "median_delta_t": 0.37657819290986605,
+        "target_deltas": "ESR1:0.47892668|TOP1:0.27422971",
+        "status": "BLOCKED"
+      }
+    ],
+    "annotation_sensitivity": {
+      "status": "BLOCKED",
+      "reason": "No second fully documented, frozen target-annotation source is present.",
+      "source_used": "ChEMBL 36 drug_mechanism frozen eligibility table",
+      "rescue_or_reassignment_performed": false
+    }
+  },
+  "partial_mantel": {
+    "method": "partial Mantel Pearson correlation of upper-triangle rho(E) and same-target indicator controlling scaffold Morgan Tanimoto",
+    "observed_partial_mantel_r": 0.35132855833088555,
+    "p_one_sided": 9.999000099990002e-05,
+    "n_drugs": 43,
+    "n_drug_pairs": 903,
+    "n_permutations_requested": 10000,
+    "n_permutations_valid": 10000,
+    "seed": 20260930,
+    "null_median": -0.0022403089114783666
+  },
+  "atlas_plane": {
+    "n_points": 9,
+    "includes_phase1_egfr_and_phase1b_egfr_separately": true,
+    "class_I_present": false,
+    "class_II_present": true,
+    "spearman_x_y": 0.5666666666666667,
+    "spearman_bootstrap_ci95": [
+      -0.25862068965517243,
+      0.9829059829059827
+    ],
+    "bootstrap_n": 10000,
+    "bootstrap_seed": 20260931,
+    "ci_includes_zero": true,
+    "two_axes_independence_retained": false,
+    "duplicate_target_note": "Phase 1 EGFR and Phase 1b EGFR are separate frozen/expanded points, as specified."
+  },
+  "prism": {
+    "coverage": {
+      "source": "PRISM Secondary 20Q2 AUC",
+      "minimum_n": 200,
+      "frozen_primary_target_groups": [
+        "EGFR",
+        "MTOR",
+        "ESR1",
+        "TOP1",
+        "ATR",
+        "CHEK1"
+      ],
+      "legal_drugs_by_target": {
+        "EGFR": 3,
+        "MTOR": 4,
+        "ESR1": 2,
+        "TOP1": 2,
+        "ATR": 1,
+        "CHEK1": 1
+      },
+      "groups_with_at_least_two_legal_compounds": {
+        "EGFR": 3,
+        "MTOR": 4,
+        "ESR1": 2,
+        "TOP1": 2
+      },
+      "n_covered_groups": 4,
+      "coverage_gate_required": 4,
+      "status": "LEGAL"
+    },
+    "primary": {
+      "median_delta": 0.29563917481612,
+      "ci95_target_bootstrap": [
+        0.13289585171123722,
+        0.526285505068722
+      ],
+      "n_targets": 4,
+      "positive_targets": 4,
+      "positive_fraction": 1.0,
+      "bootstrap_n": 10000,
+      "bootstrap_seed": 20260927,
+      "status": "PASS"
+    },
+    "target_level": [
+      {
+        "target": "EGFR",
+        "n_drugs": 3,
+        "n_scaffolds": 3,
+        "within_pair_count": 3,
+        "cross_pair_count": 81,
+        "W_t": 0.367495445925993,
+        "C_t": 0.0881660333662633,
+        "delta_t": 0.27932941255972965,
+        "compound_ids": "DPC-000819|DPC-002573|DPC-002973"
+      },
+      {
+        "target": "MTOR",
+        "n_drugs": 4,
+        "n_scaffolds": 3,
+        "within_pair_count": 6,
+        "cross_pair_count": 104,
+        "W_t": 0.44409209492371976,
+        "C_t": 0.13214315785120942,
+        "delta_t": 0.31194893707251037,
+        "compound_ids": "DPC-000184|DPC-000822|DPC-001050|DPC-006860"
+      },
+      {
+        "target": "ESR1",
+        "n_drugs": 2,
+        "n_scaffolds": 2,
+        "within_pair_count": 1,
+        "cross_pair_count": 56,
+        "W_t": 0.19763883956179323,
+        "C_t": 0.06474298785055602,
+        "delta_t": 0.13289585171123722,
+        "compound_ids": "DPC-002900|DPC-003334"
+      },
+      {
+        "target": "TOP1",
+        "n_drugs": 2,
+        "n_scaffolds": 2,
+        "within_pair_count": 1,
+        "cross_pair_count": 56,
+        "W_t": 0.6539919531961936,
+        "C_t": 0.12770644812747164,
+        "delta_t": 0.526285505068722,
+        "compound_ids": "DPC-003469|DPC-006564"
+      }
+    ],
+    "target_label_permutation": {
+      "n_permutations_requested": 10000,
+      "n_permutations_valid": 10000,
+      "seed": 20261028,
+      "observed_median_delta": 0.29563917481612,
+      "null_median": -0.0018533257674193289,
+      "p_one_sided": 9.999000099990002e-05,
+      "max_abs_lookup_vs_direct_rho": 3.3306690738754696e-16,
+      "anchor_residual_min_n": 214,
+      "cache_method": "all drug \u00d7 target-anchor OLS residuals precomputed; permutation selects the exact residuals and recomputes all target-level statistics"
+    },
+    "cross_resource_xS_xC": {
+      "status": "DESCRIPTIVE",
+      "n_common_cells": 395,
+      "n_shared_drugs": 30,
+      "n_same_target_pairs": 12,
+      "n_cross_target_pairs": 423,
+      "xS_median": 0.12397825289205888,
+      "xC_median": 0.016053167295139437,
+      "definition": "X1: mean of reciprocal cross-resource drug-pair Spearman correlations on the shared-cell set; medians split by frozen target labels"
+    }
+  },
+  "spline_sensitivity": {
+    "median_delta": 0.3311540045932708,
+    "ci95_target_bootstrap": [
+      0.2698782689998176,
+      0.4387738517618561
+    ],
+    "positive_fraction": 1.0,
+    "retention_vs_linear_primary": 1.0164072659304109
+  },
+  "demeter2_sensitivity": {
+    "missing_target_genes": [
+      "PIK3CD"
+    ],
+    "n_drugs_with_at_least_200_common_models": 42,
+    "primary_median_delta_demeter2": 0.3492323504964937,
+    "primary_median_delta_chronos_same_subset": 0.34905064470645397,
+    "retention_vs_chronos_same_subset": 1.000520571420782,
+    "target_results": [
+      {
+        "target": "EGFR",
+        "n_drugs": 4,
+        "n_scaffolds": 4,
+        "within_pair_count": 6,
+        "cross_pair_count": 152,
+        "W_t": 0.4765522837581392,
+        "C_t": 0.04813189197189048,
+        "delta_t": 0.4284203917862487,
+        "compound_ids": "DPC-000819|DPC-000838|DPC-002573|DPC-002973"
+      },
+      {
+        "target": "MTOR",
+        "n_drugs": 4,
+        "n_scaffolds": 3,
+        "within_pair_count": 6,
+        "cross_pair_count": 152,
+        "W_t": 0.5079879014079904,
+        "C_t": 0.11235748656152826,
+        "delta_t": 0.39563041484646216,
+        "compound_ids": "DPC-000184|DPC-000822|DPC-001050|DPC-006860"
+      },
+      {
+        "target": "ESR1",
+        "n_drugs": 3,
+        "n_scaffolds": 3,
+        "within_pair_count": 3,
+        "cross_pair_count": 117,
+        "W_t": 0.5184765421378124,
+        "C_t": -0.00939468635151774,
+        "delta_t": 0.5278712284893301,
+        "compound_ids": "DPC-002900|DPC-002958|DPC-003334"
+      },
+      {
+        "target": "TOP1",
+        "n_drugs": 3,
+        "n_scaffolds": 2,
+        "within_pair_count": 3,
+        "cross_pair_count": 117,
+        "W_t": 0.4020840231558128,
+        "C_t": 0.09924973700928762,
+        "delta_t": 0.3028342861465252,
+        "compound_ids": "DPC-003469|DPC-006002|DPC-006564"
+      },
+      {
+        "target": "ATR",
+        "n_drugs": 2,
+        "n_scaffolds": 2,
+        "within_pair_count": 1,
+        "cross_pair_count": 80,
+        "W_t": 0.3352950255576841,
+        "C_t": 0.15633677235584553,
+        "delta_t": 0.17895825320183856,
+        "compound_ids": "DPC-001018|DPC-001615"
+      },
+      {
+        "target": "CHEK1",
+        "n_drugs": 2,
+        "n_scaffolds": 2,
+        "within_pair_count": 1,
+        "cross_pair_count": 80,
+        "W_t": 0.35658488460480986,
+        "C_t": 0.09864522809264108,
+        "delta_t": 0.25793965651216877,
+        "compound_ids": "DPC-000855|DPC-004266"
+      }
+    ],
+    "mapping_diagnostics": {
+      "n_columns": 712,
+      "n_mapped_columns": 701,
+      "n_unmapped_columns": 11,
+      "unmapped_columns": [
+        "184A1_BREAST",
+        "184B5_BREAST",
+        "AZ521_STOMACH",
+        "COLO699_LUNG",
+        "GISTT1_GASTROINTESTINAL_TRACT",
+        "KP1NL_PANCREAS",
+        "LY2_BREAST",
+        "MB157_BREAST",
+        "NCIH1339_LUNG",
+        "SKRC20_KIDNEY",
+        "SW527_BREAST"
+      ],
+      "duplicate_ccle_modelid_mappings": {}
+    }
+  },
+  "n3_claim_candidate_status": "ENABLE_WITHIN_TESTED_UNIVERSE: target-associated beyond scaffold similarity across kinase and non-kinase targets",
+  "stop_conditions": {
+    "regression_gate_failed": false,
+    "run_config_missing_before_analysis": false,
+    "eligibility_sha_mismatch": false,
+    "required_universe_or_threshold_change": false
+  },
+  "limitations": [
+    "Only six target groups contribute to GDSC2 target-balanced inference.",
+    "PRISM validation follows the frozen four-group coverage gate.",
+    "RDKit runtime is 2025.9.2 while eligibility provenance records 2025.09.6; within-group similarity consistency is reported explicitly."
+  ]
+}

@@ -1,0 +1,145 @@
+scenario	resource	target	n_drugs	n_scaffolds	within_pairs_structural	eligible_structural	lost_reason
+S0_original	GDSC2	EGFR	4	4	6	True	
+S0_original	GDSC2	MTOR	4	3	6	True	
+S0_original	GDSC2	ESR1	3	3	3	True	
+S0_original	GDSC2	TOP1	3	2	3	True	
+S0_original	GDSC2	ATR	2	2	1	True	
+S0_original	GDSC2	CHEK1	2	2	1	True	
+S0_original	PRISM	EGFR	3	3	3	True	
+S0_original	PRISM	MTOR	4	3	6	True	
+S0_original	PRISM	ESR1	2	2	1	True	
+S0_original	PRISM	TOP1	2	2	1	True	
+S0_original	PRISM	ATR	1	1	0	False	fewer_than_two_drugs_or_distinct_scaffolds_or_no_allowed_pair
+S0_original	PRISM	CHEK1	1	1	0	False	fewer_than_two_drugs_or_distinct_scaffolds_or_no_allowed_pair
+S1_distinct_scaffold	GDSC2	EGFR	4	4	6	True	
+S1_distinct_scaffold	GDSC2	MTOR	4	3	5	True	
+S1_distinct_scaffold	GDSC2	ESR1	3	3	3	True	
+S1_distinct_scaffold	GDSC2	TOP1	3	2	2	True	
+S1_distinct_scaffold	GDSC2	ATR	2	2	1	True	
+S1_distinct_scaffold	GDSC2	CHEK1	2	2	1	True	
+S1_distinct_scaffold	PRISM	EGFR	3	3	3	True	
+S1_distinct_scaffold	PRISM	MTOR	4	3	5	True	
+S1_distinct_scaffold	PRISM	ESR1	2	2	1	True	
+S1_distinct_scaffold	PRISM	TOP1	2	2	1	True	
+S1_distinct_scaffold	PRISM	ATR	1	1	0	False	fewer_than_two_drugs_or_distinct_scaffolds_or_no_allowed_pair
+S1_distinct_scaffold	PRISM	CHEK1	1	1	0	False	fewer_than_two_drugs_or_distinct_scaffolds_or_no_allowed_pair
+S2_no_BEZ235	GDSC2	EGFR	4	4	6	True	
+S2_no_BEZ235	GDSC2	MTOR	3	2	3	True	
+S2_no_BEZ235	GDSC2	ESR1	3	3	3	True	
+S2_no_BEZ235	GDSC2	TOP1	3	2	3	True	
+S2_no_BEZ235	GDSC2	ATR	2	2	1	True	
+S2_no_BEZ235	GDSC2	CHEK1	2	2	1	True	
+S2_no_BEZ235	PRISM	EGFR	3	3	3	True	
+S2_no_BEZ235	PRISM	MTOR	3	2	3	True	
+S2_no_BEZ235	PRISM	ESR1	2	2	1	True	
+S2_no_BEZ235	PRISM	TOP1	2	2	1	True	
+S2_no_BEZ235	PRISM	ATR	1	1	0	False	fewer_than_two_drugs_or_distinct_scaffolds_or_no_allowed_pair
+S2_no_BEZ235	PRISM	CHEK1	1	1	0	False	fewer_than_two_drugs_or_distinct_scaffolds_or_no_allowed_pair
+S3_no_AZD7762	GDSC2	EGFR	4	4	6	True	
+S3_no_AZD7762	GDSC2	MTOR	4	3	6	True	
+S3_no_AZD7762	GDSC2	ESR1	3	3	3	True	
+S3_no_AZD7762	GDSC2	TOP1	3	2	3	True	
+S3_no_AZD7762	GDSC2	ATR	2	2	1	True	
+S3_no_AZD7762	GDSC2	CHEK1	1	1	0	False	fewer_than_two_drugs_or_distinct_scaffolds_or_no_allowed_pair
+S3_no_AZD7762	PRISM	EGFR	3	3	3	True	
+S3_no_AZD7762	PRISM	MTOR	4	3	6	True	
+S3_no_AZD7762	PRISM	ESR1	2	2	1	True	
+S3_no_AZD7762	PRISM	TOP1	2	2	1	True	
+S3_no_AZD7762	PRISM	ATR	1	1	0	False	fewer_than_two_drugs_or_distinct_scaffolds_or_no_allowed_pair
+S3_no_AZD7762	PRISM	CHEK1	0	0	0	False	fewer_than_two_drugs_or_distinct_scaffolds_or_no_allowed_pair
+S4_no_parent_pair	GDSC2	EGFR	4	4	6	True	
+S4_no_parent_pair	GDSC2	MTOR	4	3	6	True	
+S4_no_parent_pair	GDSC2	ESR1	3	3	3	True	
+S4_no_parent_pair	GDSC2	TOP1	3	2	2	True	
+S4_no_parent_pair	GDSC2	ATR	2	2	1	True	
+S4_no_parent_pair	GDSC2	CHEK1	2	2	1	True	
+S4_no_parent_pair	PRISM	EGFR	3	3	3	True	
+S4_no_parent_pair	PRISM	MTOR	4	3	6	True	
+S4_no_parent_pair	PRISM	ESR1	2	2	1	True	
+S4_no_parent_pair	PRISM	TOP1	2	2	1	True	
+S4_no_parent_pair	PRISM	ATR	1	1	0	False	fewer_than_two_drugs_or_distinct_scaffolds_or_no_allowed_pair
+S4_no_parent_pair	PRISM	CHEK1	1	1	0	False	fewer_than_two_drugs_or_distinct_scaffolds_or_no_allowed_pair
+S5_no_irinotecan	GDSC2	EGFR	4	4	6	True	
+S5_no_irinotecan	GDSC2	MTOR	4	3	6	True	
+S5_no_irinotecan	GDSC2	ESR1	3	3	3	True	
+S5_no_irinotecan	GDSC2	TOP1	2	1	1	False	fewer_than_two_drugs_or_distinct_scaffolds_or_no_allowed_pair
+S5_no_irinotecan	GDSC2	ATR	2	2	1	True	
+S5_no_irinotecan	GDSC2	CHEK1	2	2	1	True	
+S5_no_irinotecan	PRISM	EGFR	3	3	3	True	
+S5_no_irinotecan	PRISM	MTOR	4	3	6	True	
+S5_no_irinotecan	PRISM	ESR1	2	2	1	True	
+S5_no_irinotecan	PRISM	TOP1	1	1	0	False	fewer_than_two_drugs_or_distinct_scaffolds_or_no_allowed_pair
+S5_no_irinotecan	PRISM	ATR	1	1	0	False	fewer_than_two_drugs_or_distinct_scaffolds_or_no_allowed_pair
+S5_no_irinotecan	PRISM	CHEK1	1	1	0	False	fewer_than_two_drugs_or_distinct_scaffolds_or_no_allowed_pair
+S6_no_tamoxifen	GDSC2	EGFR	4	4	6	True	
+S6_no_tamoxifen	GDSC2	MTOR	4	3	6	True	
+S6_no_tamoxifen	GDSC2	ESR1	2	2	1	True	
+S6_no_tamoxifen	GDSC2	TOP1	3	2	3	True	
+S6_no_tamoxifen	GDSC2	ATR	2	2	1	True	
+S6_no_tamoxifen	GDSC2	CHEK1	2	2	1	True	
+S6_no_tamoxifen	PRISM	EGFR	3	3	3	True	
+S6_no_tamoxifen	PRISM	MTOR	4	3	6	True	
+S6_no_tamoxifen	PRISM	ESR1	1	1	0	False	fewer_than_two_drugs_or_distinct_scaffolds_or_no_allowed_pair
+S6_no_tamoxifen	PRISM	TOP1	2	2	1	True	
+S6_no_tamoxifen	PRISM	ATR	1	1	0	False	fewer_than_two_drugs_or_distinct_scaffolds_or_no_allowed_pair
+S6_no_tamoxifen	PRISM	CHEK1	1	1	0	False	fewer_than_two_drugs_or_distinct_scaffolds_or_no_allowed_pair
+S7_core_combined	GDSC2	EGFR	4	4	6	True	
+S7_core_combined	GDSC2	MTOR	3	2	3	True	
+S7_core_combined	GDSC2	ESR1	3	3	3	True	
+S7_core_combined	GDSC2	TOP1	2	1	1	False	fewer_than_two_drugs_or_distinct_scaffolds_or_no_allowed_pair
+S7_core_combined	GDSC2	ATR	2	2	1	True	
+S7_core_combined	GDSC2	CHEK1	1	1	0	False	fewer_than_two_drugs_or_distinct_scaffolds_or_no_allowed_pair
+S7_core_combined	PRISM	EGFR	3	3	3	True	
+S7_core_combined	PRISM	MTOR	3	2	3	True	
+S7_core_combined	PRISM	ESR1	2	2	1	True	
+S7_core_combined	PRISM	TOP1	1	1	0	False	fewer_than_two_drugs_or_distinct_scaffolds_or_no_allowed_pair
+S7_core_combined	PRISM	ATR	1	1	0	False	fewer_than_two_drugs_or_distinct_scaffolds_or_no_allowed_pair
+S7_core_combined	PRISM	CHEK1	0	0	0	False	fewer_than_two_drugs_or_distinct_scaffolds_or_no_allowed_pair
+S8_all43_multimechanism	GDSC2	EGFR	4	4	6	True	
+S8_all43_multimechanism	GDSC2	MTOR	3	2	3	True	
+S8_all43_multimechanism	GDSC2	ESR1	3	3	3	True	
+S8_all43_multimechanism	GDSC2	TOP1	3	2	3	True	
+S8_all43_multimechanism	GDSC2	ATR	2	2	1	True	
+S8_all43_multimechanism	GDSC2	CHEK1	1	1	0	False	fewer_than_two_drugs_or_distinct_scaffolds_or_no_allowed_pair
+S8_all43_multimechanism	PRISM	EGFR	3	3	3	True	
+S8_all43_multimechanism	PRISM	MTOR	3	2	3	True	
+S8_all43_multimechanism	PRISM	ESR1	2	2	1	True	
+S8_all43_multimechanism	PRISM	TOP1	2	2	1	True	
+S8_all43_multimechanism	PRISM	ATR	1	1	0	False	fewer_than_two_drugs_or_distinct_scaffolds_or_no_allowed_pair
+S8_all43_multimechanism	PRISM	CHEK1	0	0	0	False	fewer_than_two_drugs_or_distinct_scaffolds_or_no_allowed_pair
+S9_narrow_controls	GDSC2	EGFR	4	4	6	True	
+S9_narrow_controls	GDSC2	MTOR	4	3	6	True	
+S9_narrow_controls	GDSC2	ESR1	3	3	3	True	
+S9_narrow_controls	GDSC2	TOP1	3	2	3	True	
+S9_narrow_controls	GDSC2	ATR	2	2	1	True	
+S9_narrow_controls	GDSC2	CHEK1	2	2	1	True	
+S9_narrow_controls	PRISM	EGFR	3	3	3	True	
+S9_narrow_controls	PRISM	MTOR	4	3	6	True	
+S9_narrow_controls	PRISM	ESR1	2	2	1	True	
+S9_narrow_controls	PRISM	TOP1	2	2	1	True	
+S9_narrow_controls	PRISM	ATR	1	1	0	False	fewer_than_two_drugs_or_distinct_scaffolds_or_no_allowed_pair
+S9_narrow_controls	PRISM	CHEK1	1	1	0	False	fewer_than_two_drugs_or_distinct_scaffolds_or_no_allowed_pair
+S10_broad_controls	GDSC2	EGFR	4	4	6	True	
+S10_broad_controls	GDSC2	MTOR	4	3	6	True	
+S10_broad_controls	GDSC2	ESR1	3	3	3	True	
+S10_broad_controls	GDSC2	TOP1	3	2	3	True	
+S10_broad_controls	GDSC2	ATR	2	2	1	True	
+S10_broad_controls	GDSC2	CHEK1	2	2	1	True	
+S10_broad_controls	PRISM	EGFR	3	3	3	True	
+S10_broad_controls	PRISM	MTOR	4	3	6	True	
+S10_broad_controls	PRISM	ESR1	2	2	1	True	
+S10_broad_controls	PRISM	TOP1	2	2	1	True	
+S10_broad_controls	PRISM	ATR	1	1	0	False	fewer_than_two_drugs_or_distinct_scaffolds_or_no_allowed_pair
+S10_broad_controls	PRISM	CHEK1	1	1	0	False	fewer_than_two_drugs_or_distinct_scaffolds_or_no_allowed_pair
+S11_strict_combined	GDSC2	EGFR	4	4	6	True	
+S11_strict_combined	GDSC2	MTOR	3	2	2	True	
+S11_strict_combined	GDSC2	ESR1	2	2	1	True	
+S11_strict_combined	GDSC2	TOP1	2	1	0	False	fewer_than_two_drugs_or_distinct_scaffolds_or_no_allowed_pair
+S11_strict_combined	GDSC2	ATR	2	2	1	True	
+S11_strict_combined	GDSC2	CHEK1	1	1	0	False	fewer_than_two_drugs_or_distinct_scaffolds_or_no_allowed_pair
+S11_strict_combined	PRISM	EGFR	3	3	3	True	
+S11_strict_combined	PRISM	MTOR	3	2	2	True	
+S11_strict_combined	PRISM	ESR1	1	1	0	False	fewer_than_two_drugs_or_distinct_scaffolds_or_no_allowed_pair
+S11_strict_combined	PRISM	TOP1	1	1	0	False	fewer_than_two_drugs_or_distinct_scaffolds_or_no_allowed_pair
+S11_strict_combined	PRISM	ATR	1	1	0	False	fewer_than_two_drugs_or_distinct_scaffolds_or_no_allowed_pair
+S11_strict_combined	PRISM	CHEK1	0	0	0	False	fewer_than_two_drugs_or_distinct_scaffolds_or_no_allowed_pair

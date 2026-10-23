@@ -1,0 +1,6 @@
+{
+  "status": "BLOCKED",
+  "reason": "No second fully documented, frozen target-annotation source is present.",
+  "source_used": "ChEMBL 36 drug_mechanism frozen eligibility table",
+  "rescue_or_reassignment_performed": false
+}

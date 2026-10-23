@@ -1,0 +1,46 @@
+project_root: /path/to/project
+output_dir: 05_figures/2026-10-15_figure1_visual_r3
+sources:
+  n3_dir: 03_analysis/2026-09-28_phase1b_target_expansion
+  sensitivity_summary: 03_analysis/2026-10-09_n3_pharmacology_sensitivity/run1/scenario_summary.tsv
+figure:
+  size_mm:
+  - 182
+  - 230
+  dpi: 300
+  font_size: 7.5
+  target_order:
+  - EGFR
+  - MTOR
+  - ESR1
+  - TOP1
+  - ATR
+  - CHEK1
+example:
+  source: deterministic recovery from original N3 inputs
+  recovery_dir: 03_analysis/2026-10-15_figure1_panel_c_recovery/recovery_run1
+  historical_vector_use_authorized: false
+  selection: EGFR, frozen n≥200 and scaffold Tanimoto<0.7; max frozen shared n, then
+    min frozen scaffold Tanimoto, then ascending compound IDs
+  role: Illustrative example; overall evidence comes from all six targets
+new_statistics: false
+new_residual_fits: false
+seed: null
+artwork_svg: 05_figures/2026-10-15_figure1_integrated/source_artwork/Figure1A_NatureStyle_v9.svg
+artwork_pdf: 05_figures/2026-10-15_figure1_integrated/source_artwork/Figure1A_NatureStyle_v9.pdf
+date: '2026-10-15'
+minimum_text_pt: 6.5
+minimum_line_pt: 0.5
+deterministic_refits_selected_two_compounds: false
+layout_revision:
+  version: R3
+  a_height_mm: 58
+  body_text_pt: 7–8
+  secondary_text_minimum_pt: 6.5
+  panel_title_pt: 9.2
+  scatter_alpha: 0.36
+  axis_linewidth_pt: 0.65
+  data_linewidth_pt: 0.9
+  new_analysis: false
+  reuse_saved_cell_vectors_only: true
+  freeze: false

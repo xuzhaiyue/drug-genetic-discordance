@@ -1,0 +1,21 @@
+{
+  "status": "PASS",
+  "checks": {
+    "all990_models_logged": true,
+    "all220_contexts_completed": true,
+    "all110_primary_and110_benchmark": true,
+    "OOF_predictions_unique": true,
+    "primary6737_rows_per_model": true,
+    "benchmark6529_rows": true,
+    "prediction_hash_still_sealed": true,
+    "accepted8_contexts_exactly_replayed": true,
+    "runner_identical_to_approved_patch": true,
+    "v1_1_all16_hashes_unchanged": true,
+    "all_status_parameters_full_rank": true,
+    "no_full_run_stop": true
+  },
+  "scientific_status": "MODEST_OR_UNCERTAIN",
+  "prediction_rows": 60425,
+  "spec_unchanged": true,
+  "figures_claims_git_modified": false
+}

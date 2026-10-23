@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
+.env
+.env.*
+config.yaml
+outputs/
+raw/
+*.npz
+*.h5ad
+*.rds
+*.sqlite
+*.db

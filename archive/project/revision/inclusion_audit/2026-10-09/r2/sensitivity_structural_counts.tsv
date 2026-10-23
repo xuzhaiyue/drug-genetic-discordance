@@ -1,0 +1,25 @@
+scenario	resource	n_drugs	n_targets	within_pairs_structural	targets	excluded_drugs	minimum_group_gate	scope
+S0_original	GDSC2	43	6	20	EGFR;MTOR;ESR1;TOP1;ATR;CHEK1		eligible_for_inference	annotation/coverage structure only; pairwise complete-cell gate not evaluated
+S0_original	PRISM	30	4	11	EGFR;MTOR;ESR1;TOP1		eligible_for_inference	annotation/coverage structure only; pairwise complete-cell gate not evaluated
+S1_distinct_scaffold	GDSC2	43	6	18	EGFR;MTOR;ESR1;TOP1;ATR;CHEK1		eligible_for_inference	annotation/coverage structure only; pairwise complete-cell gate not evaluated
+S1_distinct_scaffold	PRISM	30	4	10	EGFR;MTOR;ESR1;TOP1		eligible_for_inference	annotation/coverage structure only; pairwise complete-cell gate not evaluated
+S2_no_BEZ235	GDSC2	42	6	17	EGFR;MTOR;ESR1;TOP1;ATR;CHEK1	DPC-001050	eligible_for_inference	annotation/coverage structure only; pairwise complete-cell gate not evaluated
+S2_no_BEZ235	PRISM	29	4	8	EGFR;MTOR;ESR1;TOP1	DPC-001050	eligible_for_inference	annotation/coverage structure only; pairwise complete-cell gate not evaluated
+S3_no_AZD7762	GDSC2	42	5	19	EGFR;MTOR;ESR1;TOP1;ATR	DPC-000855	eligible_for_inference	annotation/coverage structure only; pairwise complete-cell gate not evaluated
+S3_no_AZD7762	PRISM	29	4	11	EGFR;MTOR;ESR1;TOP1	DPC-000855	eligible_for_inference	annotation/coverage structure only; pairwise complete-cell gate not evaluated
+S4_no_parent_pair	GDSC2	43	6	19	EGFR;MTOR;ESR1;TOP1;ATR;CHEK1		eligible_for_inference	annotation/coverage structure only; pairwise complete-cell gate not evaluated
+S4_no_parent_pair	PRISM	30	4	11	EGFR;MTOR;ESR1;TOP1		eligible_for_inference	annotation/coverage structure only; pairwise complete-cell gate not evaluated
+S5_no_irinotecan	GDSC2	42	5	17	EGFR;MTOR;ESR1;ATR;CHEK1	DPC-003469	eligible_for_inference	annotation/coverage structure only; pairwise complete-cell gate not evaluated
+S5_no_irinotecan	PRISM	29	3	10	EGFR;MTOR;ESR1	DPC-003469	COVERAGE_INSUFFICIENT	annotation/coverage structure only; pairwise complete-cell gate not evaluated
+S6_no_tamoxifen	GDSC2	42	6	18	EGFR;MTOR;ESR1;TOP1;ATR;CHEK1	DPC-003334	eligible_for_inference	annotation/coverage structure only; pairwise complete-cell gate not evaluated
+S6_no_tamoxifen	PRISM	29	3	10	EGFR;MTOR;TOP1	DPC-003334	COVERAGE_INSUFFICIENT	annotation/coverage structure only; pairwise complete-cell gate not evaluated
+S7_core_combined	GDSC2	40	4	13	EGFR;MTOR;ESR1;ATR	DPC-000855;DPC-001050;DPC-003469	eligible_for_inference	annotation/coverage structure only; pairwise complete-cell gate not evaluated
+S7_core_combined	PRISM	27	3	7	EGFR;MTOR;ESR1	DPC-000855;DPC-001050;DPC-003469	COVERAGE_INSUFFICIENT	annotation/coverage structure only; pairwise complete-cell gate not evaluated
+S8_all43_multimechanism	GDSC2	31	5	16	EGFR;MTOR;ESR1;TOP1;ATR	DPC-000638;DPC-000660;DPC-000736;DPC-000816;DPC-000855;DPC-001050;DPC-001060;DPC-001106;DPC-001942;DPC-002828;DPC-004229;DPC-004577	eligible_for_inference	annotation/coverage structure only; pairwise complete-cell gate not evaluated
+S8_all43_multimechanism	PRISM	22	4	8	EGFR;MTOR;ESR1;TOP1	DPC-000638;DPC-000660;DPC-000736;DPC-000816;DPC-000855;DPC-001050;DPC-001060;DPC-001106;DPC-001942;DPC-002828;DPC-004229;DPC-004577	eligible_for_inference	annotation/coverage structure only; pairwise complete-cell gate not evaluated
+S9_narrow_controls	GDSC2	43	6	20	EGFR;MTOR;ESR1;TOP1;ATR;CHEK1		eligible_for_inference	annotation/coverage structure only; pairwise complete-cell gate not evaluated
+S9_narrow_controls	PRISM	30	4	11	EGFR;MTOR;ESR1;TOP1		eligible_for_inference	annotation/coverage structure only; pairwise complete-cell gate not evaluated
+S10_broad_controls	GDSC2	43	6	20	EGFR;MTOR;ESR1;TOP1;ATR;CHEK1		eligible_for_inference	annotation/coverage structure only; pairwise complete-cell gate not evaluated
+S10_broad_controls	PRISM	30	4	11	EGFR;MTOR;ESR1;TOP1		eligible_for_inference	annotation/coverage structure only; pairwise complete-cell gate not evaluated
+S11_strict_combined	GDSC2	29	4	10	EGFR;MTOR;ESR1;ATR	DPC-000638;DPC-000660;DPC-000736;DPC-000816;DPC-000855;DPC-001050;DPC-001060;DPC-001106;DPC-001942;DPC-002828;DPC-003334;DPC-003469;DPC-004229;DPC-004577	eligible_for_inference	annotation/coverage structure only; pairwise complete-cell gate not evaluated
+S11_strict_combined	PRISM	20	2	5	EGFR;MTOR	DPC-000638;DPC-000660;DPC-000736;DPC-000816;DPC-000855;DPC-001050;DPC-001060;DPC-001106;DPC-001942;DPC-002828;DPC-003334;DPC-003469;DPC-004229;DPC-004577	COVERAGE_INSUFFICIENT	annotation/coverage structure only; pairwise complete-cell gate not evaluated

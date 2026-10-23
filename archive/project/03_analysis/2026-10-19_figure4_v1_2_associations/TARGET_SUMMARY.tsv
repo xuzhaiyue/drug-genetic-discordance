@@ -1,0 +1,7 @@
+target	n_slots	corrected_supported	minimum_q
+EGFR	50	0	1.0
+MTOR	50	0	1.0
+ESR1	50	0	1.0
+TOP1	50	0	0.0577429029319376
+ATR	50	0	1.0
+CHEK1	50	0	1.0

@@ -1,0 +1,181 @@
+{
+  "engineering_status": "PASS_990_SEALED",
+  "scientific_status": "MODEST_OR_UNCERTAIN",
+  "equal_target_median_absolute_r2": {
+    "M0": 0.03855420450735639,
+    "M0G": 0.04207126181767576,
+    "M1": 0.06665452112446893,
+    "M1G": 0.06335057727569701,
+    "M2": 0.05103129890091157,
+    "M2G": 0.055322310625788323,
+    "M2G_C1": 0.0427246704581756,
+    "M2G_C2": 0.044491216890634566
+  },
+  "equal_target_median_delta_r2": {
+    "M1G_vs_C1": 0.011266653256135933,
+    "M1G_vs_C2": 0.01686903067341558,
+    "M1G_vs_M0G": 0.009542828784646629,
+    "M1G_vs_M2G": 0.015025870646875078,
+    "M1_vs_M0": 0.010585559744845291,
+    "M1_vs_M2": 0.021128178555380045
+  },
+  "conditional_paired_cell_ci95": {
+    "M1_vs_M0": [
+      -0.00411483182834142,
+      0.03080228224461312
+    ],
+    "M1_vs_M2": [
+      0.004338017577238349,
+      0.041133623624137784
+    ],
+    "M1G_vs_M0G": [
+      -0.004143823022321668,
+      0.027608518142255182
+    ],
+    "M1G_vs_M2G": [
+      -0.0007838728414598726,
+      0.03470658950286376
+    ],
+    "M1G_vs_C1": [
+      -0.0008424401634996033,
+      0.03289472747851285
+    ],
+    "M1G_vs_C2": [
+      -0.0005975328202874843,
+      0.03630784429167534
+    ]
+  },
+  "targets_positive_for_both_decisive_contrasts": 3,
+  "target_delta_r2": [
+    {
+      "target": "EGFR",
+      "comparison": "M1G_vs_C1",
+      "delta_r2": 0.017260439561033458
+    },
+    {
+      "target": "EGFR",
+      "comparison": "M1G_vs_C2",
+      "delta_r2": 0.020582623957327517
+    },
+    {
+      "target": "EGFR",
+      "comparison": "M1G_vs_M0G",
+      "delta_r2": 0.010988479737287893
+    },
+    {
+      "target": "EGFR",
+      "comparison": "M1G_vs_M2G",
+      "delta_r2": 0.012567825307548852
+    },
+    {
+      "target": "EGFR",
+      "comparison": "M1_vs_M0",
+      "delta_r2": 0.008223690327861022
+    },
+    {
+      "target": "EGFR",
+      "comparison": "M1_vs_M2",
+      "delta_r2": 0.019499511357847776
+    },
+    {
+      "target": "ESR1",
+      "comparison": "M1G_vs_C1",
+      "delta_r2": -0.002036118199811421
+    },
+    {
+      "target": "ESR1",
+      "comparison": "M1G_vs_C2",
+      "delta_r2": -0.011170996137264577
+    },
+    {
+      "target": "ESR1",
+      "comparison": "M1G_vs_M0G",
+      "delta_r2": -0.008367646466761802
+    },
+    {
+      "target": "ESR1",
+      "comparison": "M1G_vs_M2G",
+      "delta_r2": 0.0003702023993675807
+    },
+    {
+      "target": "ESR1",
+      "comparison": "M1_vs_M0",
+      "delta_r2": -0.008504642585033806
+    },
+    {
+      "target": "ESR1",
+      "comparison": "M1_vs_M2",
+      "delta_r2": 0.0029728946743416973
+    },
+    {
+      "target": "MTOR",
+      "comparison": "M1G_vs_C1",
+      "delta_r2": 0.0052728669512384085
+    },
+    {
+      "target": "MTOR",
+      "comparison": "M1G_vs_C2",
+      "delta_r2": 0.013155437389503644
+    },
+    {
+      "target": "MTOR",
+      "comparison": "M1G_vs_M0G",
+      "delta_r2": 0.008097177832005364
+    },
+    {
+      "target": "MTOR",
+      "comparison": "M1G_vs_M2G",
+      "delta_r2": 0.017483915986201304
+    },
+    {
+      "target": "MTOR",
+      "comparison": "M1_vs_M0",
+      "delta_r2": 0.01294742916182956
+    },
+    {
+      "target": "MTOR",
+      "comparison": "M1_vs_M2",
+      "delta_r2": 0.022756845752912314
+    },
+    {
+      "target": "TOP1",
+      "comparison": "M1G_vs_C1",
+      "delta_r2": 0.1375663344495648
+    },
+    {
+      "target": "TOP1",
+      "comparison": "M1G_vs_C2",
+      "delta_r2": 0.12931922515366423
+    },
+    {
+      "target": "TOP1",
+      "comparison": "M1G_vs_M0G",
+      "delta_r2": 0.16099687366913012
+    },
+    {
+      "target": "TOP1",
+      "comparison": "M1G_vs_M2G",
+      "delta_r2": 0.11887297245025102
+    },
+    {
+      "target": "TOP1",
+      "comparison": "M1_vs_M0",
+      "delta_r2": 0.15792566387422863
+    },
+    {
+      "target": "TOP1",
+      "comparison": "M1_vs_M2",
+      "delta_r2": 0.11418800293399556
+    }
+  ],
+  "bootstrap_replicates": 2000,
+  "bootstrap_seed": 20261017,
+  "bootstrap_cell_pool": 381,
+  "bootstrap_scope": "conditional on fixed OOF fits/eligibility; no refitting or target/drug-population uncertainty",
+  "pragmatic_delta_r2_threshold": 0.01,
+  "clinically_validated_threshold": false,
+  "prediction_seal_sha256": "f33019210be7d99a158e65aaf3c93997b6056ab44f101642b4cf3407d0f8fe70",
+  "new_model_fits_in_evaluation": 0,
+  "evaluation_source_sha256": "ff635cef5d00df40b57379ece52ede6419c450dd5ee9e182775f6d85d225fc8b",
+  "evaluation_time_utc": "2026-10-17T10:19:04.948277+00:00"
+}

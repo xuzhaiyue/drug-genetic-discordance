@@ -1,0 +1,21 @@
+{
+  "status": "PASS",
+  "run_utc": "2026-10-16T14:03:40.052348+00:00",
+  "primary_tasks": 22,
+  "preserved_primary_cohorts": true,
+  "minimum_additional_controls": 2,
+  "selected_additional_names": [
+    "A-1065-5",
+    "ALISERTIB",
+    "ARAVA",
+    "AZD 2171"
+  ],
+  "same_drug_full_coverage_tasks": 9,
+  "new_models": 0,
+  "new_correlations": 0,
+  "original_finite_count_checks": {
+    "gdsc2_complete_counts_match": true,
+    "prism_complete_counts_match": true,
+    "cross_direction_counts_match": true
+  }
+}

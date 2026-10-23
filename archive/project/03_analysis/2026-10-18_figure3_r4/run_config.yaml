@@ -1,0 +1,11 @@
+project_root: /path/to/project
+source_layout: revision/figure3_maintext_layout/2026-10-18
+source_run: 03_analysis/2026-10-17_prediction_execution
+source_n3: 03_analysis/2026-09-28_phase1b_target_expansion
+output_dir: 05_figures/2026-10-18_figure3_r4
+size_mm: [182, 190]
+dpi: 300
+scientific_status: MODEST_OR_UNCERTAIN
+new_statistics: false
+new_models: false
+final_freeze: false
