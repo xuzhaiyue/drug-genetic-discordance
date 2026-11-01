@@ -1,0 +1,42 @@
+project_root: /path/to/project
+output_dir: 05_figures/2026-10-29_figure2_with_decomposition
+date: '2026-10-29'
+sources:
+  n3_dir: 03_analysis/2026-09-28_phase1b_target_expansion
+  sensitivity_dir: 03_analysis/2026-10-09_n3_pharmacology_sensitivity/run1
+  sensitivity_spec: revision/inclusion_audit/2026-10-09/r2/SENSITIVITY_EXECUTION_SPEC_REVIEW.md
+figure:
+  size_mm:
+  - 182
+  - 230
+  dpi: 300
+  target_order:
+  - EGFR
+  - MTOR
+  - ESR1
+  - TOP1
+  - ATR
+  - CHEK1
+  sensitivity_color_range:
+  - 0
+  - 0.6
+  rho_axis_range:
+  - -0.02
+  - 0.6
+  delta_axis_range:
+  - -0.02
+  - 0.6
+  panel_b_resource: GDSC2
+  panel_d_scope: Six targets, matched cells per drug; original DEMETER2 and recovered
+    original Chronos baseline
+new_analysis: false  # panel e draws saved outputs of 03_analysis/2026-10-29_target_anchor_decomposition
+new_residual_fits: false
+new_tests: false
+freeze: false
+seed: null
+revision: Complete six-target matched d; bounded Chronos recovery verified
+review_date: '2026-10-29'
+panel_d_revision_status: 'COMPLETE: matched baseline recovered and overall median
+  exactly reproduced'
+matched_recovery_dir: 03_analysis/2026-10-16_figure2_matched_chronos_recovery/recovery_run1
+decomposition_dir: 03_analysis/2026-10-29_target_anchor_decomposition

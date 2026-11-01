@@ -5,6 +5,6 @@ title: "Drug genetic discordance analysis code"
 authors:
   - family-names: Xu
     given-names: Zhaiyue
-version: 0.1.0
-date-released: 2026-10-23
+version: 0.2.0
+date-released: 2026-11-01
 repository-code: "https://github.com/xuzhaiyue/drug-genetic-discordance"

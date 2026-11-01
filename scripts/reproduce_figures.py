@@ -12,8 +12,8 @@ import yaml
 REPO = Path(__file__).resolve().parents[1]
 JOBS = {
     '1': ('03_analysis/2026-10-15_figure1_visual_r3/draw_figure1_r3.py', 'drawing_config.yaml'),
-    '2': ('03_analysis/2026-10-16_figure2_matched_chronos_recovery/draw_complete_figure2.py', 'drawing_config.yaml'),
-    '3': ('03_analysis/2026-10-18_figure3_r4/draw_figure3_r4.py', 'run_config.yaml'),
+    '2': ('03_analysis/2026-10-29_figure2_panel_e/draw_figure2_with_e.py', 'drawing_config.yaml'),
+    '3': ('03_analysis/2026-10-29_figure3_s1_label/draw_figure3.py', 'run_config.yaml'),
 }
 
 def main():

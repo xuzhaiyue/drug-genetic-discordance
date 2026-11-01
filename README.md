@@ -1,6 +1,6 @@
 # Drug genetic discordance
 
-Analysis code, frozen summary results and figure source data for **Shared drug-response patterns persist after adjustment for measured target-gene dependency and lineage**.
+Analysis code, frozen summary results and figure source data for **Measured target dependency explains a small fraction of shared responses to same-target cancer drugs**.
 
 This study examines drug-response similarity after adjustment for measured annotated-target dependency and lineage. It uses a systematically assessed GDSC2 collection and PRISM pharmacology with a shared DepMap Chronos reference.
 
@@ -16,6 +16,8 @@ This study examines drug-response similarity after adjustment for measured annot
 ## Study summary
 
 The 286-compound eligibility assessment yielded 43 included, 75 excluded and 168 unresolved compounds. Eighteen focal compounds span six target groups. The target-median within-minus-cross residual correlation is 0.326 in GDSC2 and 0.296 in four qualifying PRISM groups. The response-assisted prediction experiment used 22 directed tasks and 990 recipient-model fits; its frozen scientific classification is **MODEST_OR_UNCERTAIN**. The fixed baseline Hallmark screen yielded **0/300 BY q ≤ 0.05**. Original numerical tables and negative findings are retained.
+
+Release v0.2.0 adds the 2026-10-29 target-anchor decomposition. Relative to lineage adjustment alone, measured target dependency removed a median 2.2% of within-target correlation in GDSC2 and 0.9% in PRISM. Aggregate attenuation exceeded that of dependency-matched non-target genes (GDSC2 P = 1.0 × 10⁻⁴; PRISM P = 0.040). The program, pre-execution specification and executed summaries are in `archive/project/03_analysis/2026-10-29_target_anchor_decomposition/`. Figure replay uses the 2026-10-29 Figure 2 script, which draws panel e from those saved summaries, and the 2026-10-29 Figure 3 / Supplementary Figure S1 script. Release v0.1.0 does not contain this decomposition. Raw matrices are still not bundled, and this release does not add a one-command raw-data rerun.
 
 ## Install and inspect
 

@@ -11,10 +11,13 @@
 | Response-assisted prediction | corrected 03_analysis/2026-10-17_prediction_execution/run_predictions.py; runtime_preflight.py | prediction.py |
 | Prediction evaluation | 03_analysis/2026-10-17_prediction_execution/evaluate_sealed_predictions.py | frozen task/target summaries |
 | Baseline Hallmark | 03_analysis/2026-10-19_figure4_v1_2_associations/run_associations.py | molecular.py |
+| Target-anchor decomposition | 03_analysis/2026-10-29_target_anchor_decomposition/run_decomposition.py | executed TSV/JSON summaries; Supplementary Tables S8–S10 in manuscript_tables/ |
+| Figure 2 including panel e | 03_analysis/2026-10-29_figure2_panel_e/draw_figure2_with_e.py | saved decomposition summaries; no new fits |
+| Figure 3 and Supplementary Figure S1 | 03_analysis/2026-10-29_figure3_s1_label/draw_figure3.py | frozen prediction tables; no new models |
 
 ## Read-only figure replay
 
-Run `python scripts/reproduce_figures.py --output-directory outputs/figure_reproduction` from the repository root. Figure replay consumes the included frozen pair, target and cell-level example tables. It creates output in an isolated workspace; it does not recompute residuals, fit prediction models, perform association screening or run inferential tests. It redraws the original artwork, whose wording can differ from the latest editorial manuscript legends. The reference PDF copies are original generated artifacts.
+Run `python scripts/reproduce_figures.py --output-directory outputs/figure_reproduction` from the repository root. Figure replay consumes the included frozen pair, target and cell-level example tables. It creates output in an isolated workspace; it does not recompute residuals, fit prediction models, perform association screening, run the decomposition or run inferential tests. Release v0.2.0 draws Figure 2, including panel e, and Figure 3 / Supplementary Figure S1 with the 2026-10-29 scripts. Earlier drawing scripts remain in the archive. Arial was used in the original artwork; another system font can change layout.
 
 The Figure 3 public source manifest is generated for the included, privacy-redacted publication inputs. Its original local manifest was broader and also covered editorial material. `provenance/EXPORT_MANIFEST.json` records original and exported file hashes; historical hash-linked execution manifests remain historical records and should not be represented as current public execution certificates.
 
